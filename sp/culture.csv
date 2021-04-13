@@ -1,0 +1,1730 @@
+,ID,NOME,ENDERECO,longitude,latitude
+0,1,Monteiro Lobato (Inclui Ônibus Biblioteca),"R Gal Jardim, 485",-46.649495184223206,-23.545050152521288
+1,2,CEU Três Pontes,"R Capachós, s/n",-46.38171289713914,-23.478445335650882
+2,3,Paulo Leminski - CEU Parque Veredas,"R Daniel Pedro Muller, s/n- Camargo Velho",-46.39019014094071,-23.513291550505617
+3,4,Ponto de Leitura Severino do Ramo,"R Barão de Alagoas, 340",-46.397535213465304,-23.49824842996539
+4,5,Ponto de Leitura André Vital,"Av dos Metal·rgicos, 2255",-46.399388770748,-23.60093108652187
+5,6,CEU Lajeado,"R Manuel da Mota Coutinho, 293",-46.40098847709358,-23.544646656313258
+6,7,Ponto de Leitura Parque do Rodeio,"R Igarapé da Bela Aurora, s/n",-46.40428473983689,-23.57514780829886
+7,8,Bosque de Leitura Parque Lajeado,"R Antônio Thadeu, 74",-46.40572858607984,-23.54395364664823
+8,9,CEU Água Azul,"Av dos Metal·rgicos, 1262",-46.40666488472179,-23.594178915333103
+9,10,Ponto  de Leitura Juscelino Kubitschek,"R Inácio Monteiro, 55",-46.40769871587223,-23.56402474324187
+10,11,Cora Coralina,"R Otelo A. Ribeiro, 113",-46.41008469445341,-23.5447065831309
+11,12,Jamil Almansur Haddad,"R Andes, 491-A",-46.410144686960386,-23.537536534557823
+12,13,Adelaide de Castro Alves Guimarães - CEU Inácio Monteiro,"R Br Barroso do Amazonas, s/n -  Prestes Maia",-46.41184381089961,-23.57009575355702
+13,14,João Cabral de Mello Neto - CEU Vila Curuþß,"Av Marechal Tito, 3.400 -V. Curucá",-46.41259152825108,-23.49536029811859
+14,15,Vicente Paulo Guimarães,"R Jaguar, 225",-46.421024697842235,-23.501781286605045
+15,16,Ponto de Leitura Vila Mara,"R Conceicão do Almeida, 170",-46.42182666198664,-23.49192016818394
+16,17,Eugênia Alvaro Moreyra - CEU Jambeiro,"R Flores do Jambeiro, 61 - Guaianases",-46.422876920739,-23.539289438483866
+17,18,CEU Alto Alegre,"R Bento Guelfi, s/n",-46.42711725493302,-23.60955386056061
+18,19,Ponto de Leitura Tide Setubal,"R Mario Dalari, 170",-46.429831819599336,-23.498886167279167
+19,20,Vinicius de Morais,"R Jardim Tamoio, 1.119 - Itaquera II",-46.43612420115309,-23.55373044002689
+20,21,Raimundo de Menezes,"Av Nordestina, 780",-46.43764794911762,-23.49532004559235
+21,22,Vicente de Carvalho,"R Guilherme ValÛncia, 210",-46.44064826003711,-23.55006837287855
+22,23,Ponto de Leitura Jardim Lapenna,"R Serra da Juruoca, s/n - Jardim Lapenna - São  Miguel Paulista",-46.44955113172352,-23.487640905928295
+23,24,Camilo Pedro dos Reis - CEU São  Mateus,"R Curumatim, 201 - Pque Boa Esperança",-46.44956570485895,-23.60258767273772
+24,25,Sergio Buarque de Holanda,"R Victório Santim, 44",-46.45469039412327,-23.53667121876396
+25,26,Mario Palmério - CEU São  Rafael,"R Cinira Polônio, 100 - j. Rio Claro",-46.456739865223405,-23.62045270814776
+26,27,CEU Azul da Cor do Mar,"Av Ernesto Souza Cruz, 2171",-46.45738937934856,-23.521901100992327
+27,28,Bosque de Leitura do Carmo,"Av Afonso de Sampaio e Souza, 951",-46.469017873034694,-23.57042930387774
+28,29,Ponto de Leitura São Mateus ( Inaug. 16-12-10),"R Fortaleza de Itapema, 268",-46.472158126126956,-23.618171559047894
+29,30,Barbosa Lima Sobrinho CEU Parque São  Carlos,"R Clarear, 141 - Jdim. São  Carlos",-46.47384367438928,-23.509963888736227
+30,31,Rubens Borba Morais,"R Sampei Sato, 440",-46.48074466690988,-23.486448696337472
+31,32,Jovina Rocha Alvares  Pessoa,"Av Padre Francisco de Toledo, 331 - Cohab I",-46.48507604002106,-23.546511069137004
+32,33,CEU Sapopemba,R Manuel Quirino de Mattos com R Victoria Marconato Santos,-46.4944315581468,-23.60958833823108
+33,34,CEU Quinta do Sol,Av Luís Imparato com Av Olavo Egídio de Souza Aranha,-46.49627794449482,-23.49837164673122
+34,35,Juo Bananere - CEU Rosa da China,"R Clara Petrella, s/n - Jd. São  Roberto",-46.500895653379466,-23.62147537525107
+35,36,Mario Quintana - CEU Aricanduva,"Av Olga Fadel Abarca, s/n - Av Aricanduva, alt. 5555 - quadra 280",-46.50347249700201,-23.570677047065324
+36,37,Milton Santos,"Av Aricanduva, 5.777",-46.50385545968497,-23.57036602761057
+37,38,Gilberto Freyre,"R José Joaquim, 290",-46.51709895400799,-23.60117214890209
+38,39,CEU Formosa,"R Sargento Claudiner Evaristo Dias, s/n",-46.52423994015591,-23.5802139827722
+39,40,Lenyra Fraccaroli,"Pc Haroldo Daltro, 451",-46.5321359009514,-23.546937739430593
+40,41,Paulo Setúbal,"Av Renata, 163",-46.540581194696784,-23.571829920076663
+41,42,Zanoni Ferrite,"Av Renata, 163",-46.540581194696784,-23.571829920076663
+42,43,Aureliano Leite,"R Otto Schubart, 196",-46.54812251132007,-23.59507397956674
+43,44,Biblioteca José Paulo Paes,"Lg do Rosário, 20, 3 andar",-46.54873312437462,-23.525862573624803
+44,45,CEU Tiquatira,"Av Condessa Elizabeth Robiano com R Kampala, 270",-46.55483512987969,-23.518106499012777
+45,46,Bosque de Leitura Parque Esportivo do Trabalhador,"R Canuto Abreu, s/n",-46.559148449716346,-23.55594273055835
+46,47,CEU Tiquatira,"Av. Condessa Elizabeth Robiano, s/n",-46.560571262435616,-23.52559946291599
+47,48,José Mauro de Vasconcelos,"Pc Cmte. Eduardo Oliveira, s/n",-46.56501202258819,-23.476937108653264
+48,49,Cassiano Ricardo (Temática em Música - 10/11/2007),"Av Celso Garcia, 4.200",-46.57220859216172,-23.536151530280865
+49,50,Hans Christian Andersen (Temática em Contos de Fadas - 10/11/2007),"Av Celso Garcia, 4.142",-46.57255962563726,-23.536299514352372
+50,51,Bosque de Leitura Guarapiranga,"Praça Ituzaingo, s/n",-46.57316378339578,-23.552778589430684
+51,52,Paulo Sergio Milliet,"Pça. Ituzaingó, s/n",-46.57316378339578,-23.552778589430684
+52,53,Ponto de Leitura Parque do Piqueri,"R Tuiuti, 515",-46.57556763664872,-23.52936940956591
+53,54,Prof. Arnaldo Magalhães Giácomo,"R Restinga, 136",-46.5810787840886,-23.539867443317952
+54,55,Ricardo Ramos,"Pc Centenário de Vila Prudente, 25",-46.58350320178743,-23.581914767394213
+55,56,Wally Salomão - CEU Meninos,"R Barbinos, 112 - J. Patente",-46.583672521150696,-23.621384964561212
+56,57,CEU Jacanã,"R Antonio Cezar Neto, 105",-46.584908257487214,-23.457359890782147
+57,58,Castro Alves,"R Abrahao Mussa, s/n",-46.59052774890016,-23.63140599668269
+58,59,Alvares  de Azevedo,Pc Joaquim José da Nova s/n,-46.59278772597675,-23.503930169724537
+59,60,Affonso Taunay,"R Taquari, 549",-46.598204174356624,-23.551217425906735
+60,61,Distribuição dos Ônibus Bibliotecas,"R Taquari, 549",-46.598204174356624,-23.551217425906735
+61,62,Bosque de Leitura Parque do Trote,"R São Quirino, 905",-46.598257943113744,-23.514781213050533
+62,63,Roberto Santos (Temática em Cinema - inaug. 14-6-2008),"R Cisplatina, 505",-46.602646649312284,-23.587667654362605
+63,64,Sylvia Orthof,"Av Tucuruvi, 808",-46.60477678788568,-23.481691978021708
+64,65,Bosque de Leitura Parque Lions(Tucuruvi),"R Alcindo Bueno de Assis, 500",-46.60681469716821,-23.46777981335727
+65,66,CEU Parque Bristol,R Professor Arthur Primavesi com R Roudão Eufrázio Leal,-46.60921625484803,-23.643705003514057
+66,67,Biblioteca Adelpha Figueiredo,"Pc Ilo Otani, 146",-46.61105928095235,-23.526550266164584
+67,68,Amadeu Amaral,R José Clóvis Castro s/n,-46.61667113190374,-23.612533742138076
+68,69,Nuto Sant'Anna,"Pc Tenório Aguiar, 32",-46.619827128431304,-23.498514047779523
+69,70,Chácara do Castelo,"R Brás Lourenço, 333",-46.623700987171304,-23.58363556165795
+70,71,Biblioteca de São Paulo - Parque da Juventude,"Av Cruzeiro do Sul, 2630",-46.62492932526581,-23.508425042206152
+71,72,Zalina Rolim,"R Corredeira, 26",-46.626304188207726,-23.59953261699961
+72,73,Arquivo do Estado - Biblioteca,"R Voluntários da Pßtria, 596",-46.626574395319835,-23.515323058012243
+73,74,Narbal Fontes,"Av Cons. Moreira de Barros, 170",-46.62765727747954,-23.49679394195072
+74,75,Bosque de Leitura da Aclimação,"R Muniz de Souza, 1119",-46.62891596503726,-23.572456445378712
+75,76,Raul Bopp (Temática em Meio Ambiente - inaug. 30-4-2009),"R Muniz de Souza, 1.155",-46.62908699969394,-23.572605458419112
+76,77,Pedro da Silva Nava,"Rua Helena do Sacramento, 1000",-46.63275126695331,-23.482726790852404
+77,78,Bosque de Leitura da Luz,"R Ribeiro de Lima, 99 - Parque da Luz",-46.63409474994574,-23.53258815316513
+78,79,CEU Caminho do Mar - Profa. Dulce Salles Cunha Braga,"Av Engenheiro Armando Arruda de Arruda Pereira, 5241",-46.63581103669059,-23.668280025162534
+79,80,Memorial'32 - Centro de Estudos José Bourroul,"R Benjamim Constant, 158 - 4 andar",-46.6358109287009,-23.54960120757965
+80,81,Viriato Correa (Temática em Literatura Fantástica - inaug. 29-11-2008)),"R Sena Madureira, 298",-46.638960430204136,-23.593270513162064
+81,82,Ponto de Leitura Olido,"Av São  João, 473",-46.63931791029059,-23.543510181698167
+82,83,Biblioteca de Braile - Centro Cultural São Paulo,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+83,84,Gibiteca Municipal Henfil - Centro Cultural SãoPaulo,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+84,85,Sergio Milliet (Inclui a Bibl. Alfredo Volpi (marþo/1983 - denom. Set/1996) e Discoteca Oneyda Alvar,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+85,86,CONDEPHAAT - Biblioteca,"R Mauá, 51",-46.64072784578307,-23.534882119847655
+86,87,Acervo da Choque,"R Dr.Bráulio Gomes, n? 125/ 139 - Centro 01047-020",-46.6415840624907,-23.54727223097783
+87,88,Mario de Andrade,"R da Consolação, 94",-46.64230898818349,-23.547271169125086
+88,89,Mario de Andrade,"Rua Braúlio Gomes, 125/139",-46.64230898818349,-23.547271169125086
+89,90,Raquel de Queiroz - CEU Alvarenga,"Estrada do Alvarenga, 3752  -  Balneário S. Francisco",-46.64470478069145,-23.70438515518
+90,91,Paulo Duarte,"R Arsênio Tavolieri, 45",-46.6450941155433,-23.650890854991896
+91,92,BMA - Biblioteca Circulante,"R da Consolação, 1.024",-46.651723263598015,-23.548194140815024
+92,93,Narcisa Amélia Campos - CEU Navegantes,"R Maria Moassab Barbour, s/n",-46.660688742983176,-23.74403433520492
+93,94,Bosque de Leitura - Ibirapuera,"Av Quarto Centenário, 1268 - Portão 7A",-46.66241189332564,-23.590986358266328
+94,95,Espaço Sapucaia - Biblioteca,"Av IV Centenário, 1268, Portão 7 A",-46.66329196144702,-23.59430139433453
+95,96,Centro Cultural da Juventude Ruth Cardoso,"Av Deputado Emílio Carlos, 3641",-46.67077693734146,-23.476292488340903
+96,97,Menotti Del Picchia,"R São  Romualdo, 382",-46.67329706006448,-23.49714972154454
+97,98,Ana Aurora do Amaral Lisboa - CEU Três Lagos,"Es do Barro Branco, s/n - J. Noronha",-46.68105952935685,-23.767346483191503
+98,99,Alceu Amoroso Lima (Temática em Poesia - 02/09/2006),"R Henrique Schaumann, 777",-46.68251486260259,-23.558474071703873
+99,100,Anne Frank,"R Cojuba, 45",-46.68446214710575,-23.58697133474319
+100,101,Augusto dos Anjos - CEU Paz,"R da Paz, s/n",-46.689180967054305,-23.44801116635454
+101,102,Ponto de Leitura Graciliano Ramos,"R  Prof. Oscar Barreto Filho, 252",-46.69206417266001,-23.73594327060524
+102,103,CEU Vila Rubi,"R Domingos Tarroso, 101",-46.69750912278595,-23.727771206819682
+103,104,Mario Schenberg (Temática em Ciências - inaug. 08-04-2008),"R Catão, 611",-46.70066181969189,-23.526656875595023
+104,105,Thales Castanho de Andrade,"R Arthur Fajardo, 447",-46.70124349989397,-23.486546456272592
+105,106,Alvaro Guerra,"R Pedroso de Morais, 1.919",-46.701262190312754,-23.55810005498034
+106,107,Clarice Lispector,"R Jaricunas, 458",-46.70142496180677,-23.53550492686106
+107,108,Afonso Schmidt,"Av Elísio T. Leite, 1.470",-46.70142645862573,-23.481365451384022
+108,109,Rubem Braga - CEU Cidade Dutra,"Av Interlagos, 7.350 - Jdim. São  Nicolau",-46.70490693767302,-23.710872178658022
+109,110,Belmonte (Temática em Cultura Popular - 04/08/2007),"R Paulo Eiró, 525",-46.70843319158463,-23.65058776101018
+110,111,Prestes Maia,"Av João Dias, 822",-46.709006096929755,-23.64512273210334
+111,112,Malba Tahan,"R Brás Pires Meira, 100",-46.7096486847265,-23.689515048001695
+112,113,Cecília Meireles,"R Araçatuba, 522",-46.71095404715784,-23.53072086036064
+113,114,CEU Jardim Paulistano,"R Aparecida do Taboado, s/n",-46.713665537727564,-23.462181180591536
+114,115,Érico Verissimo,"R Diógenes Dourado, 101",-46.71614640644298,-23.44502893530238
+115,116,Bosque de Leitura Rodrigo Gásperi,"Av Miguel de Castro, 321",-46.719276756485826,-23.481123323763292
+116,117,Biblioteca Brasileira Guita e José Mindlin,"Rua da Biblioteca, s/n - Cidade Universitária",-46.72249449440191,-23.56222908118771
+117,118,Bosque de Leitura Cidade de Toronto,"Av Cardeal Mota, 84",-46.723270015909065,-23.506794590334465
+118,119,Carolina Maria de Jesus,"R Terezinha do Prado Oliveira, 119",-46.72334808213185,-23.828570829840295
+119,120,Biblioteca Central da USP,Cidade Universitária,-46.726051521281235,-23.558701062570417
+120,121,CEU Parelheiros,"R José Pedro de Borba, 20",-46.726668102608066,-23.82794882853576
+121,122,CEU Paraisópolis,"R Doutor José Augusto Souza e Silva, s/n",-46.72790122595075,-23.62225752021825
+122,123,Biblioteca Parque Villa Lobos,"Av. Prof. Fonseca Rodrigues, 2001",-46.728384453408744,-23.542228842702375
+123,124,Ponto de Leitura - Casa de Cultura do Butantã,"R Junta Mizumoto, 13",-46.732874959642615,-23.587320233061114
+124,125,Camila Cerqueira César,"R Valdemar Sanches, 41",-46.7384669031626,-23.575943120480442
+125,126,Brito Broca,"Av Mutinga, 1.425",-46.74059014931565,-23.485907300580788
+126,127,CEU Jaguaré,"Av Kenkiti Simomoto, 80",-46.74225772873946,-23.550212915092334
+127,128,Patativa do Assare - CEU Casa Branca,"R João Damasceno, 85 - Jdim. Casa Blanca",-46.74453763901534,-23.64667073923927
+128,129,Roberto Marinho - CEU Butantã,"Av Eng. Heitor Antônio Eiras Garcia, 1700 J.Esmeralda",-46.75024219139945,-23.58197117710744
+129,130,Educador Paulo Freire - CEU Pera-Marmelo,"R Pera-Marmelo, 226 - Vila Aurora",-46.75088388693763,-23.436553712221297
+130,131,João Antônio - CEU Perus,"R Bernardo José de Lourena, s/n",-46.751843626304115,-23.406007297445043
+131,132,Padre José de Anchieta,"R Antônio Maia, 651",-46.755103701659024,-23.40724232419549
+132,133,Bosque de Leitura Raposo Tavares,"R Telmo Coelho Filho, 200",-46.75658828340821,-23.58827522385422
+133,134,Marcos Rey,"Av Anacê, 92",-46.75757658078819,-23.617782479118862
+134,135,Maria Benedita Camara Bormann - CEU Vila AtlÔntica,"R Cel. José Venâncio Dias, 840 - J. Nardini",-46.76306245924735,-23.48142518232819
+135,136,CEU Guarapiranga,"Es da Baronesa, 1.120",-46.76476558911202,-23.69657411357869
+136,137,CEU Capão Redondo,R Daniel Gran. s/n,-46.770995331708136,-23.67452896707554
+137,138,Ponto de Leitura Pc do Bambuzal,"R da Colônia Nova, s/n",-46.77337258665904,-23.68670102622774
+138,139,Bosque de Leitura Santos Dias,"Estrada de Itapecirica, altura do 4800",-46.77394023282964,-23.659366832526306
+139,140,Helena Silveira,"R Dr João B. Reimão, 146",-46.77448495712083,-23.63300760504317
+140,141,Bosque de Leitura Anhanguera,"Av Fotunata Tadiello Natucci, 1000 (continuaçao da R Sílvio de Campos)",-46.778530146171654,-23.414350195816343
+141,142,João do Rio - CEU Campo Limpo,"Av Carlos Lacerda, 678 - Chácara São Pedro",-46.779642109995876,-23.63699062929938
+142,143,CEU Vila do Sol,"Av dos Funcionários Públicos, 369",-46.780858426181105,-23.736474333078277
+143,144,CEU Canto do Amanhecer,R Prudêncio do Amaral com Av Cantos do Amanhecer,-46.78610127785423,-23.649256825103585
+144,145,CEU Parque Anhanguera,R Pedro José de Lima. s/n,-46.78763644074419,-23.440460516675145
+145,146,CEU Uirapuru,"R Nazir Miguel, s/n",-46.78951295070052,-23.600482303130846
+146,147,CEU Feitiço da Vila,"R Feitiþo da Vila, s/n",-46.79378283785569,-23.686026080337715
+147,148,Ponto de Leitura União dos Moradores do Parque Anhanguera,"R Amadeo Caego Monteiro, 209",-46.79583155958451,-23.42995133177033
+148,149,Fábricas de Cultura,"Rua Antônio Ramos Rosa,37",-46.74934086161398,-23.661675820996248
+149,150,Fábricas de Cultura,"Rua Conselheiro Moreira de Barros, 3977",-46.65068954097381,-23.47538160486813
+150,151,Fábricas de Cultura,"Rua Bacia de São Francisco, s/n",-46.78725362675571,-23.678631034709472
+151,152,Fábricas de Cultura,"Rua Raimundo Eduardo da Silva, 138",-46.57912116951508,-23.450666866061237
+152,153,Fábricas de Cultura,"Rua General Penha Brasil, 2508",-46.67535877288375,-23.452727300775255
+153,154,Fábricas de Cultura,"Rua Pedra Dourada, 65 - Jardim Rubru",-46.40726153662438,-23.525745512918675
+154,155,Fábricas de Cultura,"Rua Augustin Luberti, 300",-46.488402455286,-23.614639437993244
+155,156,Fábricas de Cultura,"Rua Estudantes da China, 500",-46.37257884383328,-23.50174461619972
+156,157,Fábricas de Cultura,"Av. Celso Garcia, 2231",-46.58870590043684,-23.535010449153233
+157,158,Fábricas de Cultura,"Rua Henriqueta Noguez Brieba, 281",-46.418778950713765,-23.568586729212136
+158,159,Centro de Formaçao Cultural da Cidade de Tiradentes,"Av Inácio Monteiro, 6900",-46.38989551795017,-23.58016099410183
+159,160,CC do Itaim Paulista,"R Barão de Alagoas, 340",-46.397535213465304,-23.49824842996539
+160,161,Centro Cultural Arte em Construção,"Av dos Metal·rgicos, 2.100",-46.39940870883083,-23.600926030056115
+161,162,Instituto Cultural Arte em Construção - Instituto Pombas Urbanas,"R dos Metal·rgicos, 2.100",-46.39940870883083,-23.600926030056115
+162,163,Casa de Cultura Cidade Tiradentes (Casa da Fazenda),"Av Sarah Kubitschek,165",-46.406626773299465,-23.583085853075467
+163,164,CC Chico Mendes,"R Cembira, 1.202",-46.42928583058929,-23.506785229785812
+164,165,CC São Miguel Paulista,"R Irineu Bonardi, 169",-46.43764794911762,-23.49532004559235
+165,166,CC Raul Seixas,"R Murmúrios da Tarde, 211 Parque Raul Seixas Cohab II",-46.443940328741604,-23.552806424343697
+166,167,Casa de Cultura Antônio Marcos,"Rua Irineu Bonardi 169, Vila Pedroso",-46.450732199409515,-23.495974023916485
+167,168,Alfredo Volpi,"R Victorio Santim, 206",-46.45340243109914,-23.537863230680784
+168,169,Casa de Cultura Sao Mateus,"R José Francisco dos Santos, 502",-46.48939036930759,-23.598620372226886
+169,170,Centro Cultural da Penha,"Lg do Rosário, 20, 3 andar",-46.54873312437462,-23.525862573624803
+170,171,Raul Seixas,"R Inspetor Mário Teixeira, 70",-46.566548595926065,-23.55610069747189
+171,172,CC do Tatuapé,"R Guabiju, 49",-46.582596789675456,-23.533321431666252
+172,173,"Oficina Cultural do Brás ""AMÂNCIO MAZZAROPI""","R Visconde de Parnaiba, 2.437",-46.60402030204691,-23.543688397397915
+173,174,CC Chico Science (Antiga CC do Ipiranga),"Av Tancredo Neves, 1.265",-46.60937003841897,-23.6169448152775
+174,175,Casa de Cultura Tremembé,"R Maria Amélia Lopes Azevedo, 190",-46.622792944165965,-23.460999683596217
+175,176,Liceu de Artes e Ofícios,"R da Cantareira, 1.351",-46.62690357420218,-23.533029153363863
+176,177,Espaço Cultural Classes Laboriosas,"R Roberto Simonsen,  22",-46.63200985620049,-23.549594279517326
+177,178,Caixa Cultural,"Pc da Sé, 111",-46.633076904121836,-23.5492012752355
+178,179,Conjunto Cultural da Caixa,"Pc da Sé, 111 - 3 andar",-46.633076904121836,-23.5492012752355
+179,180,Espaço Bovespa,"R 15 de Novembro, 272",-46.634496885531654,-23.546307221141944
+180,181,Espaço Cultural BM&F,"Pc Antônio Prado, 48",-46.634524905973244,-23.54547622784493
+181,182,Espaço Cultural da Bolsa de Mercadorias & Futuros,"Pc Antônio Prado, 48",-46.634524905973244,-23.54547622784493
+182,183,Espaço Nossa Caixa,"R Álvares Penteado, 70, 2 mezanino",-46.63479985876392,-23.548018261120486
+183,184,Centro Cultural do Banco do Brasil,"R Álvares Penteado, 112",-46.63486391375775,-23.547495274405133
+184,185,Centro Cultural Correios,"Edificio Central dos Correios - Av. São João, s/nº Vale do Anhangabaú",-46.636883930953026,-23.54393324100955
+185,186,Oficina Cultural Oswald de Andrade,"R Três Rios, 363",-46.63804475126878,-23.529635151133373
+186,187,Espaço Cultural Santo Agostinho (Colégio),"R Apeninos, 118",-46.63929221358277,-23.569332387239545
+187,188,Galeria Olido,"Av São  João, 473 - Mezanino",-46.63931791029059,-23.543510181698167
+188,189,Universidade Livre de Música Tom Jobim,"R Gal Osório, 147",-46.63933889477649,-23.535543151621457
+189,190,Instituto Cultural Usiminas,"Av do Café, 277",-46.64023383694994,-23.634751767595144
+190,191,Centro Cultural São Paulo,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+191,192,Espaço Cultura-IBEP Nacional,"R Santo Amaro, 766",-46.64068306178238,-23.55620529232432
+192,193,Estação Júlio Prestes,"R Maua, 51",-46.64072784578307,-23.534882119847655
+193,194,Instituto de Arte Contemporânea -  IAC,"Rua Álvaro Alvim, 90 - 1º andar",-46.641303394777346,-23.589399513168136
+194,195,Centro Cultural Copobianco,"R Álvaro de Carvalho, 97",-46.64147298956851,-23.54873125386278
+195,196,"Acervo da Memória e do Viver Afro-Brasileira Caio Egydio Aranha, antigo Centro Cultural Jabaquara","R Arsênio Tavolieri, 45",-46.6450941155433,-23.650890854991896
+196,197,Sala Pretérito Perfeito,"Lg do Arouche, 99",-46.645235008212055,-23.541812136899946
+197,198,Casa das Rosas - Galeria,"Av Paulista, 37",-46.64523733784209,-23.57125332705527
+198,199,Espaço Cultural Fundação Japão,"Av Paulista, 37-10 andar",-46.64523733784209,-23.57125332705527
+199,200,Centro Cultural Santa  Catarina,"Av Paulista , 200",-46.645609280632186,-23.56966232115334
+200,201,Itaú Cultural,"Av Paulista, 149",-46.64633634309109,-23.57054536448411
+201,202,Associação Palas Athena,"R Leôncio de Carvalho, 99",-46.64636333826207,-23.571162296279454
+202,203,Espaço Cultural Porto Seguro,"Av Rio Branco, 1489",-46.64669994041949,-23.53156107338686
+203,204,Espaço Cultural dos Bancários Lelia Abramo,"R Carlos Sampaio, 305",-46.64678128528893,-23.568336274789985
+204,205,Matilha Cultural,"R Rego Freitas, 542",-46.647208105549765,-23.54674318785489
+205,206,Centro Cultural  SESC Vila Nova,R Dr Vila Nova s/n,-46.6505061959623,-23.546099128230395
+206,207,Instituto Universitário Maria Antônia,"R Maria Antônia, 294 - 2 andar",-46.651207160145404,-23.546125189641103
+207,208,Gabinete do Desenho/Chácata Lane,"R da Consolação, 1024",-46.651723263598015,-23.548194140815024
+208,209,Espaço Cultural Citigroup,"Av Paulista, 1111, TÚrreo",-46.6537084458238,-23.564967222320135
+209,210,Banco Real,"Av Paulista, 1374",-46.65454144704849,-23.56239620826156
+210,211,Centro Cultural FIESP,"Av Paulista, 1.313",-46.65475847299178,-23.56359528049757
+211,212,OCA - Pavilhão Lucas Nogueira Garcez,"R Pedro Álvares Cabral, s/n - Portão 2 e 3, Pavilhão Lucas Nogueira",-46.655880652855046,-23.586971415433418
+212,213,Instituto Cultural Ítalo Brasileiro,"R Frei Caneca,1071",-46.656671376163885,-23.55651118452061
+213,214,Espaço Cultural do Banco Central,"Av Paulista, 1.804",-46.657566409628544,-23.55976517009942
+214,216,Casa Mario de Andrade (Oficina da Palavra),"R Lopes Chaves, 546",-46.66056519249852,-23.530701045588643
+215,217,Galeria da Consolação,Pass. subterrânea entre Av Paulista (altura do número 2.423 da R da Consolação),-46.662586540578495,-23.555755150279357
+216,218,Joh Mabe,"Av. Brig. Luís Antônio, 4225",-46.662883812823665,-23.580039338961747
+217,219,Espaço Cultural Life,"Av Brasil, 298",-46.663760794971395,-23.577095317655715
+218,220,Memorial da América Latina,"Av Auro Soares de Moura Andrade, 664",-46.66580124671247,-23.527619947140984
+219,221,Gabriel Wickbold Studio & Gallery,"Rua Lourenço de Almeida, 167",-46.66619391206953,-23.588959368662223
+220,222,Instituto Camões,R Canadá. 324,-46.66749675006347,-23.571998183144174
+221,223,Espaço Cultural Pyndorama,"R Turiaþ·, 481",-46.66806642212606,-23.533583990124757
+222,224,Galeria Marcelo Guarnieri,"Alameda Lorena, 1966",-46.66923364114726,-23.561129138671884
+223,225,Centro Cultural da Juventude Ruth Cardoso,"Av Deputado Emílio Carlos, 3641",-46.67077693734146,-23.476292488340903
+224,226,Unibes Cultural,"R Oscar Freire,  2.500",-46.67876476446116,-23.550939101452208
+225,227,Instituto Goethe,"R Lisboa, 974",-46.68194587399357,-23.55605508737033
+226,228,Casa de Cultura Cora Coralina,"R Santana, 201 Vila São  Pedro",-46.68223206386258,-23.67083286495497
+227,229,SESC Fabrica Pompeia,R Clélia s/n,-46.68387054855909,-23.52548988140126
+228,230,Espaço Cultural Letras & Forma,"R Cap. Antônio Rosa, 454",-46.68523602390701,-23.56692318819249
+229,231,Instituto Cultural Tchekov,"R Fradique Coutinho, 825",-46.68917095321451,-23.56010111003988
+230,232,Espaço Cultural Bambu Brasil,"R Purpurina,  272",-46.691300972454016,-23.553622042456926
+231,233,Casa de Cultura Palhaço Carequinha,"R Prof. Oscar Barreto Filho, 252",-46.69201919356612,-23.735658326405094
+232,234,Instituto Cine Cultural,"Av Rebouþas, 3.507",-46.69243619499025,-23.57226421272921
+233,235,Instituto Tomie Ohtake,"Av Faria Lima, 201",-46.69505805907418,-23.56110611950647
+234,236,KVA - Centro Cultural Elenko,"R Cardeal  Arcoverde, 2.958",-46.6956562053992,-23.56996915383821
+235,237,Espaço Cultural  Tendal da Lapa,"R Guaicurus, 1.100",-46.696417677931315,-23.522328805438168
+236,238,Espaço Annablume,"R Pe. Cavalho, 275",-46.696585162057815,-23.56234212118598
+237,239,Centro Cultural Brasileiro Britanico,"R Ferreira de Araújo, 741",-46.69767717663442,-23.56418209590402
+238,240,Centro Cultural SESC Pinheiros,"R Paes Leme, 195",-46.698159205368306,-23.568078107330447
+239,241,Casa da Cultura Brasilandia,"Pç Benedita Cavalheiro, s/n",-46.69960332306475,-23.470348330404075
+240,242,CC Salvador Ligabue (Antiga CC da Freguesia do Ó),"Lg da Matriz, 215",-46.69995262277843,-23.50190665092087
+241,243,Espaço Cultural Bank Boston,"Av Dr Chucri Zaidan, 246",-46.70018872395977,-23.62126956956767
+242,244,CC de Interlagos,"R Padre José  Garzotti, 545",-46.703507945830175,-23.711686098985886
+243,245,Casa Amarela,"Pc Floriano Peixoto, 130",-46.70798921019002,-23.65103873288239
+244,246,CC de Santo Amaro,"Pc Francisco Ferreira Lopes, 434",-46.70883612224264,-23.646472691785373
+245,247,Casa de Cultura e Convívio da Lapa,"R Araçatuba, 522",-46.71095404715784,-23.53072086036064
+246,248,Casa de Vidro,"R. Gen. Almério de Moura, 200",-46.71245490944799,-23.613169439514827
+247,249,Oficina Cultural Maestro Juan Serrano,"R Joaquim Pimentel, 200",-46.71289333738401,-23.444341001630914
+248,250,Paþo das Artes,"Av da Universidade, 1",-46.71536041982241,-23.56493804803634
+249,251,Centro Cultural e de Estudos Superiores A·thos Pagano,"R Thome de Souza, 997",-46.71589208504454,-23.526975803590123
+250,252,Instituto Butantã,"Av Dr Vital Brasil, 1.500",-46.71647651476701,-23.568518153926632
+251,253,Centro Cultural Alumni,"R Brasiliense, 65",-46.717972145461616,-23.63583361038196
+252,254,CC do Butantã,"R Junta Mizumoto, 13",-46.732874959642615,-23.587320233061114
+253,255,Centro Cultural Monte Azul,"R Tomßs de Souza, 552",-46.73857058854388,-23.647390697213982
+254,256,CC do M'Boi Mirim,"R Inácio Dias da Silva, s/n",-46.742735981505184,-23.67315591006303
+255,257,Casa de Cultura de Sacolão das Artes,"Av Cândido José Xavier, 577 Pq Sto Antônio",-46.75673795154221,-23.662303902557873
+256,258,Casa de Cultura Campo Limpo,"R Haroldo de Azevedo,alt do, 100 cep",-46.77583697112171,-23.63365862533987
+257,259,Espaço de Artes Unicid,"R Cesário Galeno, 475",-46.559761331004594,-23.535999586811336
+258,260,Design & Graphic Center,"R Dona Ana Neri, 793",-46.616600705275296,-23.56113340179019
+259,261,Estação Brás - CPTN e Metrô- mezanino,"R Domingos Paiva, s/n",-46.61781558073247,-23.543962355417683
+260,262,Arquivo do Estado,"R Voluntários da Patria, 596",-46.626574395319835,-23.515323058012243
+261,263,Estacão Sé do Merô,Pç. da Sé s/n,-46.63340490122325,-23.550243269951466
+262,264,Espaço Cultural da Bolsa,"Pc Antônio Prado, 48",-46.634524905973244,-23.54547622784493
+263,265,Salve Jorge Centro,"Pc Antônio Prado, 33",-46.63497687752724,-23.5457952138025
+264,266,Galeria de Arte - Espaço Cultural Casa de PortuGal,"Av Liberdade, 602",-46.637694007552845,-23.557907321853676
+265,267,Galeria Fotoforma,"R Alcindo Parreira, 50",-46.6392423621402,-23.590017458914335
+266,268,Galeria Olido,"Av São João, 473 - Sobreloja",-46.63931791029059,-23.543510181698167
+267,269,Centro Cultural São Paulo,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+268,270,Centro Cultural São Paulo - piso Caio Graco,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+269,271,Ateliê Sandro Solsona,"R Franca Pinto, 378",-46.6405703669687,-23.586633435747274
+270,272,Galeria de Exposicões do Complexo J·lio Prestes,"R Maua, 51",-46.64072784578307,-23.534882119847655
+271,273,Atelier Centro de SãoPaulo,"R Sete de Abril, 235 conj. 502",-46.64182000170188,-23.545977234393266
+272,274,Biblioteca Mário de Andrade,"R da Consolação, 94",-46.64230898818349,-23.547271169125086
+273,275,Bruno Musatti,"R Pedro Américo, 32, 14 andar, conjunto A",-46.64249403088902,-23.541574170064692
+274,276,Estádio Risco,"Av São Luís, 187 - 2? andar, loja 4",-46.64298201904187,-23.54653116178515
+275,277,Casa Contemporânea,"Rua Cap. Macedo, 370 Vila Mariana",-46.64352352917117,-23.592924466694527
+276,278,Espaço Pívô,"Av Ipiranga, 200, bloco B, 2º andar",-46.64460308712054,-23.54667919116628
+277,279,Espaço Porto Seguro de Fotografia,"Al Barão de Piracicaba, 740",-46.645326951241195,-23.530406084323186
+278,280,Galeria SESC Paulista,"Av Paulista, 119",-46.645981370710544,-23.570731355358426
+279,281,Calligraphia Galeria e Loja de Arte,"R Avanhandava, 40A",-46.64611513368034,-23.55051424588611
+280,282,Galeria Deco,"R dos Franceses, 153",-46.64779021922888,-23.55951123761924
+281,283,Graphias Casa da Gravura+L1451,"R Joaquim Tavora, 1.605",-46.64790153246297,-23.588613453238533
+282,284,Faculdade  Belas Artes de São Paulo,"R José Antônio Coelho, 879",-46.64880749896077,-23.581310391448735
+283,285,Escritório de Arte de São Paulo,"R Conselheiro Carrao, 640",-46.6488292532606,-23.55790023913853
+284,286,White Cube,"Rua Agostinho Rodrigues Filho, 550",-46.649973693741735,-23.599679475090767
+285,287,Galeria SãoPaulo,"R Estado de Israel, 1456",-46.650297674098894,-23.593701461863514
+286,288,"Galeria 10,20 x 3,60","R Jaguaribe, 262",-46.65075416412215,-23.541571157983824
+287,289,Galeria Transversal,"R dos Bosque, 206",-46.65088195433537,-23.526052983568945
+288,290,Centro Universitário Maria Antônia,"R Maria Antônia, 294",-46.651207160145404,-23.546125189641103
+289,291,Instituto de Arte Contemporânea (IAC),"R Maria Antônia, 258",-46.651207160145404,-23.546125189641103
+290,292,Espaço 465,"R Vitorino Carmilo, 465",-46.65180409797217,-23.53299109601841
+291,293,Centro Fecomercio de Eventos,"R Dr Plínio Barreto, 285",-46.6524063380166,-23.55794018978117
+292,294,Central,"R Fortunato , 236",-46.652514136561116,-23.54091809330781
+293,295,Escritório de Arte Augusta 664,"R Augusta, 664",-46.6526762511881,-23.551805148320003
+294,296,Pussycat  Galeria,"R Jaguaribe, 482",-46.65278922068726,-23.541439106516233
+295,297,Galeria IMS (Shopping Frei Caneca),"R Frei Caneca, 569, 3? piso",-46.65279728984258,-23.554104228228095
+296,298,Instituto Moreira Salles,"R Frei Caneca, 569, 3? piso",-46.65279728984258,-23.554104228228095
+297,299,Galeria Jacques Ardies,"R do Livramento, 221",-46.65313259682118,-23.580006333917044
+298,300,Emma Thomas,"R Estados Unidos,2205",-46.65401213459379,-23.531634047733753
+299,301,Fundação Bienal de São Paulo,"Av Pedro Álvares Cabral, s/n, PortÒo 3",-46.654219716287514,-23.587989391186312
+300,302,Galeria Pilar,"Rua Barão de Tatuí, 389 - Vila Buarque",-46.65428016355292,-23.539451137869868
+301,303,Centro Cultural FIESP - Galeria de Arte do Sesi,"Av Paulista, 1.313",-46.65475847299178,-23.56359528049757
+302,304,Triad3,"R Brig. Galvão, 296",-46.655204139934035,-23.532290062812287
+303,305,Ponto Cultural do Instituto Religare,"R Lopes de Oliveira, 492",-46.65577808951659,-23.531361062702
+304,306,Galeria Merc·rio,"R Bela Cintra, 350",-46.655990338938665,-23.55246115315398
+305,307,Parque Av Galeria de Arte,"Av Paulista, 1776",-46.65724746552943,-23.55985219063251
+306,308,Galeria Vanbax,"R Pamplona, 1.135",-46.65726552058621,-23.567370294194088
+307,309,Espaço Arte M. Mizrahi,"Av Higienópolis, 618 - piso Higienópolis (loja 342)",-46.65774625811603,-23.542271137690683
+308,310,Galeria Seta - Escritório de Arte,"R Antônio Carlos, 282",-46.65786041427427,-23.556716137972263
+309,311,D-concept  Escritório de Arte,"R Bela Cintra, 532, 1? andar",-46.658028389295495,-23.5533041691354
+310,312,Spazio Surreale,"R Caconde, 132",-46.65851066254836,-23.5745112896589
+311,313,Instituto Europeu Designe - IED,"R MaranhÒo, 617",-46.65861631096689,-23.544307122127076
+312,314,Galeria de Arte Almeida e Dale,"R Caconde, 152",-46.6587396331977,-23.574473266378337
+313,315,Centro Cultural da Caixa - Conjunto Nacional,"Av Paulista, 2.083",-46.660491460964465,-23.558562191019032
+314,316,Ana Cláudia Roso Escritório de Arte,"R José Maria Lisboa, 1.008 - Sobreloja",-46.66077256562139,-23.565584245971433
+315,317,Casa de Artes Galeria,"R Bahia, 871",-46.661011382784665,-23.550652119575926
+316,318,Adriana Penteado Arte Contemporânea,"R Peixoto Gomide, 1.503",-46.66175164083534,-23.565461174052242
+317,319,Galeria Arte 57,"R Tatui, 104",-46.66186663496439,-23.566269231932864
+318,320,Instituto Cultural Cervantes,"Av Paulista, 2439 - TÚrreo",-46.66270149269173,-23.556537111742955
+319,321,Aogosto Augusta,"R Augusta, 2.161",-46.66270759225938,-23.560507180703723
+320,322,Lugar PantemporÔneo,"Av Nove de Julho, 3653",-46.66304770087729,-23.571051275183144
+321,323,Documenta Galeria de Arte,"R Peixoto Gomide, 1740",-46.66353763841437,-23.56683019103445
+322,324,Regina Pinho de Almeida Escrit¾rio de Arte,"R Peixoto Gomide, 1789",-46.66367569152586,-23.567329257426756
+323,325,Escritório de Arte Oswaldo Kathalian,"R Haddock Lobo, 858",-46.66391157050646,-23.55959317314637
+324,326,Galeria Sylvio Nery,"R Oscar Freire, 164",-46.66396564233503,-23.567560216069168
+325,327,Dconcept  Escritório de Arte,"Al Lorena, 1257 G1",-46.664399641454935,-23.565665186288683
+326,328,Antiquário Patrimônio,"Al Ministro Rocha Azevedo, 1068",-46.6645416532033,-23.565934210257268
+327,329,Casa,"R Itápolis, 1468",-46.66463950409365,-23.551626150499878
+328,330,Estação SP Design,"R Haddock Lobo, 1012",-46.66492260106524,-23.56060212920236
+329,331,Galeria Mônica Filgueiras,"R Bela Cintra, 1533",-46.66503058689544,-23.559447183075378
+330,332,Galeria Vermelho,"R Minas Gerais, 350 - sala 3",-46.665194584090166,-23.554872167340644
+331,333,Lordello & Gobbi Escrit¾rio de Arte,"R Peixoto Gomide, 2020",-46.6654747036888,-23.568569249530714
+332,334,Memorial da América Latina,"Av Auro Soares de Moura Andrade, 664",-46.66580124671247,-23.527619947140984
+333,335,Caribe Galeria de Arte,"R Monte Alegre, 47",-46.665829310560305,-23.53139500802396
+334,336,Galeria Horizonte,"R João Lourenþo, 79",-46.66586691505447,-23.592144386510547
+335,337,Galeria Sérgio Caribe,"R João Lourenþo, 79",-46.66586691505447,-23.592144386510547
+336,338,Escritório de Arte Renot,"Al Ministro Rocha Azevedo, 1327",-46.66601472115702,-23.56785720969792
+337,339,Galeria Bergamin,"R Rio Preto, 63",-46.66607769030759,-23.56672216148561
+338,340,Galeria Paulistana,"Al Franca, 1.430",-46.66620360685199,-23.559746156458765
+339,341,Luisa Strina,"R Oscar Freire, 502",-46.66634773105819,-23.565453232880934
+340,342,Panamericana Escola de Arte e Design,"R Groenlandia, 77",-46.66649585562633,-23.581388300398626
+341,343,Galeria Arvani Arte,"R Oscar Freire, 540",-46.666640688102405,-23.565053214543713
+342,344,Galeria Brito Central,"R Oscar Freire, 562",-46.66668966408155,-23.565006183843032
+343,345,Paulo Kuczynski Escrit¾rio de Arte,"Al Lorena, 1661",-46.66727871868632,-23.563183172137137
+344,346,Livraria Futuro Infinito,"Al Franca, 1567",-46.66736964729382,-23.559042122096294
+345,347,Arte Aplicada,"R Haddock Lobo, 1406",-46.667602635722126,-23.563133192735524
+346,348,Espaço Maria Bonita,"R Oscar Freire, 702",-46.6677566581772,-23.564120166339556
+347,349,Nobrega Antiquário Galeria,"R Pe. João Manoel, 1231",-46.66782070175457,-23.56724320333197
+348,350,Galeria Mali Villas-Boas,"R Bento de Andrade, 559",-46.66813393725831,-23.584334334954935
+349,351,Galeria Roberto Camasmie,"R Bela Cintra, 1992",-46.66834864864738,-23.562182166328263
+350,352,Livraria Gaudi,"R Augusta, 2872",-46.66857576988801,-23.565387162942226
+351,353,Zipper Galeria,"R Estados Unidos, 1494",-46.66889274788998,-23.566849179581205
+352,354,Galeria Melissa,"R Oscar Freire, 827",-46.668972731863306,-23.563753133318635
+353,355,La Galerie Francine,"Al Lorena, 1.998",-46.66937567381348,-23.56073317499819
+354,356,Galeria Mendes Wood,"R da Consolação, 3358",-46.669614733805595,-23.561410130115632
+355,357,Casa Amarela,"R Bolívia, 370",-46.669822792366446,-23.570819245723058
+356,358,Dan Galeria,"R Estados Unidos, 1.638",-46.66992071386377,-23.56584418832114
+357,359,IQ Art Gallery,"R Dr Melo Alves, 294",-46.67013065690055,-23.560075164573647
+358,360,Galeria Euroart Castelli,"R Colombia, 157",-46.67028977294341,-23.567898202497126
+359,361,Collectors Arte SÚculo XX,"R Melo Avles, 369",-46.67035274075239,-23.560765123708066
+360,362,Rarebit,"R Mello Alves, 360",-46.670513723085946,-23.56063615888056
+361,363,Centro Cultural da Juventude Ruth Cardoso,"Av Deputado Emílio Carlos, 3641",-46.67077693734146,-23.476292488340903
+362,364,Plastik,"R Dr Melo Alves, 459",-46.67102268128896,-23.56139915897014
+363,365,Galeria Área Artis,"R Normandia, 92",-46.671507172793795,-23.608078439089468
+364,366,Galeria Judith Dapra,"R Monte Alegre, 1286",-46.67291948727025,-23.540568050222316
+365,367,Portal Galeria de Arte,"R Estados Unidos, 2.241",-46.67485884261564,-23.563046165474216
+366,368,Nova André Galeria,"R Estados Unidos, 2.280",-46.67486978771481,-23.562596164261745
+367,369,Baro Senna,"R Gabriel Monteiro da Silva, 296",-46.67556879883463,-23.563465191593895
+368,370,Casa da Fotografia Fuji,"Av Vereador José Diniz, 3.400",-46.675733369580776,-23.61825850244566
+369,371,Espaço Paulo Mitchell,"R da Mata, 70",-46.67666495819215,-23.579772228430574
+370,372,Leica Gallery,"R da Mata, 70",-46.67666495819215,-23.579772228430574
+371,373,Fundação Stickel - Espaço Alternativo,"R Ribeirao Claro, 37",-46.67725616030588,-23.59733841169478
+372,374,Smith Galeria,"R João Moura, 417",-46.67729780948614,-23.56163618022961
+373,375,Estádio Buck,"R Lopes do Amaral, 123",-46.67741615800365,-23.590583317361794
+374,376,Espaço Cultural 689,"Al Gabriel Monteiro da Silva, 689",-46.67767183911952,-23.566602167291528
+375,377,Galeria Brasiliana,"R Arthur de Azevedo, 520",-46.677684774568206,-23.559795088357717
+376,378,Classica e Moderna,"Al Gabriel Monteiro da Silva, 813",-46.67815487035431,-23.567532207618694
+377,379,Galeria  Val de Almeida Jr.,"R Artur de Azevedo, 613",-46.67819082873824,-23.56065814901334
+378,380,Aloísio Cravo Arte e Leilões,"R Groenlandia, 1897",-46.67825691712328,-23.568639196852647
+379,381,Verve Gasleria,"R Lisboa, 285",-46.67874588442254,-23.56160709727538
+380,382,Galeria Thomas Cohn,"Av Europa, 641",-46.679130040664724,-23.576420261029277
+381,383,Baro Cruz,"R Clodomiro Amazonas, 526/8",-46.679193146490334,-23.589020328420876
+382,384,Nara Roesler,"Av Europa, 655",-46.67923600767067,-23.57649424694344
+383,385,Marilia Razuk Galeria de Arte,"Av Nove de Julho, 5.719 - loja 2",-46.6798810315342,-23.58088622031613
+384,386,Amoa Konoy Arte Indígena,"R João Moura, 1002",-46.68021183829067,-23.55700114034709
+385,387,Canvas Galeria de Arte,"R Joaquim Antunes, 187",-46.680219869688614,-23.56663921470731
+386,388,Galeria Choque Cultural,"R João Moura, 997",-46.68042285995778,-23.557226149388033
+387,389,Collegio das Artes,"R Francisco Leitao, 265",-46.68095388533165,-23.56248210392339
+388,390,Gravura Brasileira - Gabriel,"Al Gabriel Monteiro da Silva, 1325",-46.681073931136176,-23.571332161541722
+389,391,Casa Galeria,"Av Dr Cardoso de Melo, 758",-46.6814772861978,-23.599999368887474
+390,392,Valu Oria,"R Gabriel Monteiro da Silva, 1.403",-46.6814799454506,-23.571973244825298
+391,393,Base 7 Projetos Culturais,"R Cônego Eugênio Lima (LEITE), 639",-46.68153985751447,-23.563541145362823
+392,394,Ovo,"R Gomes de Carvalho., 830",-46.68164027234,-23.598619337536967
+393,395,Casa TriÔngulo,"R Paes de Araújo, 77",-46.68170310177741,-23.583978296640442
+394,396,Luciana  Brito Galeria,"R Gomes de Carvalho., 842",-46.681727265764984,-23.59857938550107
+395,397,Firma Casa,"Al Gabriel Monteiro da Silva, 1487",-46.6817939955532,-23.572616224930513
+396,398,Galeria Jaqueline Martins,"R Dr. Virgílio de Carvalho Pinto, 74 1? e 2? andares",-46.682792895050234,-23.5647791669227
+397,399,Coletivo Galeria,"R dos Pinheiros, 493",-46.68304192463425,-23.565817195855946
+398,400,Galeria Pro Arte,"Av Gabriel Monteiro da Silva, 1644",-46.683289067414016,-23.573336177979687
+399,401,Restaurante Jam Warehouse,"R Lopes Neto, 308",-46.683528138258986,-23.588109320695672
+400,402,Rosa Barbosa,"R Auriflama, 87",-46.683991950267625,-23.5664911221378
+401,403,Nova André Galeria - Esculturas - Al. Gabriel Monteiro,"Al. Gabriel Monteiro da Silva, 1753",-46.684038084709265,-23.574253201890002
+402,404,Galeria Pop - Rojo Art Space - Livraria Pop,R Dr Virgílio de Carvalho Pinto 297,-46.68425896747762,-23.563271149874883
+403,405,Companhia das Artes,"R Adolfo Tabacow, 144",-46.684542115729656,-23.583973279680794
+404,406,Bia D¾ria,"Al Gabriel Monteiro da Silva, 1802",-46.68454905582953,-23.5740122490543
+405,407,Galeria de Babel,"R Virgilio de Carvalho Pinto, 426",-46.684615931183046,-23.562111152804295
+406,408,Miolo Espaço de Arte Contemporânea,"Av Prof. Alfonso Bovero, 1022",-46.684756728415806,-23.53730296436098
+407,409,Galeria Nuvem,"R Mateus Grou, 355",-46.6857079708099,-23.56330610526244
+408,410,Acervo da Choque,"R Medeiros de Albuquerque, 250",-46.68590791902693,-23.555580091711494
+409,411,Ricardo Camargo Galeria,"R Frei GalvÒo, 121",-46.68604119287091,-23.580664276804143
+410,412,Casa do Saber,"R Dr Mário Ferraz, 414",-46.686262177314845,-23.58420927170671
+411,413,Território da Foto,"R Mateus Grou, 580",-46.68649497721973,-23.561326109779554
+412,414,Galeria Oeste,"R Mateus Grou, 618",-46.68667399862062,-23.56106915666119
+413,415,Galeria Arte Infinita,"R Mateus Grou, 629",-46.68709301112495,-23.561118159479808
+414,416,Jo Slaviero e Guedes Galeria de Arte,"Al Gabriel Monteiro da Silva, 2074",-46.68736308368679,-23.574085209740726
+415,417,Galeria Eduardo H. Fernandes,"R Harmonia, 145",-46.68753297484015,-23.556651049860765
+416,418,A Estufa,"R Wisard, 53",-46.687974876622874,-23.55476708068854
+417,419,Paparazzi,"Av Pedroso de Morais, 100",-46.6881190270336,-23.568418181372536
+418,420,Renot Antiques (Shopping Iguatemi),"Av Brig. Faria Lima, 2232",-46.688696129295714,-23.5772602610746
+419,421,Shopping Iguatemi - Espaço fashion,"Av Brig. Faria Lima, 2.232",-46.688696129295714,-23.5772602610746
+420,422,Espaço Anexo/Espaço Ophicina,"R Aspicuelta, 329",-46.68887896331831,-23.557200098885804
+421,423,Espaço + Soma,,-46.68891600243191,-23.558572097204635
+422,424,Galeria Raquel Arnaud,"R Fidalga, 125",-46.68899594927794,-23.558236120402306
+423,425,Atelier Piratininga,"R Fradique Coutinho, 934",-46.68930202264075,-23.55902907311696
+424,426,Galeria Bolsa de Arte,"R Mourato Coelho, 790",-46.689634032434334,-23.560662087514565
+425,427,Galeria Favo,R Fradique Coutinho. 1004,-46.68968797658479,-23.558470068044087
+426,428,Galeria Uirapuru,"Av Faria Lima, 1795/52",-46.689690141862,-23.572554156257006
+427,429,Daslu - N·cleo Vivo da Arte,"Av Chedid Jafet, 131",-46.68976628890484,-23.591723351434258
+428,430,Gravura Brasileira - Fradique,"R Fradique Coutinho, 953",-46.68997103813517,-23.55917910841922
+429,431,Grafiteria,"R Simão Álvares , 601",-46.6900330657955,-23.562663162584716
+430,432,Heloisa Paternostro Escritório de Arte,"R Simão Álvares , 648",-46.69004404361713,-23.562189141963113
+431,433,Oficina da Luz,"R Irmao Lucas, 102",-46.69085406187236,-23.56410014035578
+432,434,Workplace Funchal,"R Funchal., 538",-46.69096240863708,-23.59496631766803
+433,435,Imã Galeria,"R Fradique Coutinho, 1239",-46.69139294980133,-23.556934108405386
+434,436,DOC Galeria,"R Aspicuelta, 662",-46.69158003244026,-23.558646082748812
+435,437,Millan Antônio,"R Fradique Coutinho, 1360",-46.691581024786515,-23.555779095206855
+436,438,Galeria Contempo,"Rua Mourato Coelho, 1246",-46.692094022202184,-23.557209124484828
+437,439,Fnac Pinheiros,"Av Pedroso de Morais, 858",-46.69226606082734,-23.562753105165747
+438,440,Galeria Fortes Vilaça,"R Fradique Coutinho, 1.500",-46.69251596079544,-23.55474309950105
+439,441,Galeria de Arte A Hebraica,"R Hungria, 1.000",-46.6927162405787,-23.57863018989936
+440,442,Galeria M·ltipla de Arte,"Av Morumbi, 7986",-46.69390870261002,-23.620293547401054
+441,443,Casa da Xiclet,"R Fradique Coutinho, 1855",-46.69456796150227,-23.55219601990155
+442,444,Galpao 15,"R Prof. José Leite  e Oiticica, 237",-46.69568567387978,-23.621478482654265
+443,445,Espaço Burle Marx - Saraiva Magastore,"Av Roque Petroni Jr., 1080 - TÚrreo",-46.69752874309354,-23.62298351058863
+444,446,Estação,"R Ferreira de Araújo, 625",-46.697879193715735,-23.56327715001401
+445,447,Jockey Club de SãoPaulo,"Av Lineu de Paula Machado, 1.263 - 1 andar",-46.69862931057432,-23.57983521055555
+446,448,Espaço Arte Morumbi Shopping,"Av Roque Petroni Jr., 1.089",-46.6990097569704,-23.623215540669783
+447,449,Fnac Morumbi (shopping Morumbi),"Av Roque Petroni Jr., 1.089 - Piso TÚrreo",-46.6990097569704,-23.623215540669783
+448,450,Estádio  Quinn,"R Ourania, 231",-46.699118046903905,-23.553565007869018
+449,451,Senac Lapa Scipiao - geleria,"R ScipiÒo, 67",-46.69924580696987,-23.5219008128418
+450,452,Paidéia,"Rua Darwin, 153 - Santo Amaro",-46.70035710657428,-23.65516281028118
+451,453,Camara Americana de ComÚrcio de SãoPaulo,"R da Paz, 1431",-46.70167486744267,-23.62995154988543
+452,454,Galeria Leme,"Av. Waldemar Ferreira, 130",-46.70390229948786,-23.571229160805338
+453,455,Atelié Ely Bueno,"Pc Silveira Santos, 2",-46.705450218146304,-23.559850082839493
+454,456,Pinakotheke SãoPaulo,"R Ministro Nelson Hungria, 200",-46.70546679528137,-23.61610644717575
+455,457,Espaço E. Piva - Galeria Cooperartista,"Av Morumbi, 5062",-46.71326587216197,-23.608643409115786
+456,458,Casa dos Macacos,"R dos Combatentes do Gueto, 29",-46.71477277418706,-23.59842032835904
+457,459,Auditorio HM,"R José Ramon Urtiza, 206",-46.73589143941735,-23.63678365273382
+458,460,Casa Guilherme de Almeida,"R Macapá, 187",-46.674157618916084,-23.546924091253498
+459,461,Museu da Imaginação,"Rua Ricardo Cavatton, 251",-46.703263674892135,-23.510441718613087
+460,462,Museu do Meio Ambiente  - Parque do Carmo,"Av Afonso de Sampaio e Souza, 951",-46.469017873034694,-23.57042930387774
+461,463,Museu do Tietê,"R Guira Acangatara, 70 - Parque Ecológico",-46.50982318968735,-23.49324358894907
+462,464,Memorial do Sport Club Corinthians Paulista,"R São Jorge, 777",-46.56703842979328,-23.527239443357104
+463,465,Museu Memória do Jacanã,"R São Luís Gonzaga, 30",-46.58445534815699,-23.465035878310264
+464,466,Museu do Automóvel de São Paulo,"R 1822, 1.472",-46.59888965090685,-23.598525758347435
+465,467,Museu de Arte Mágica e Iluminismo e Prestidigitação João Peixoto do Santos,"R Silva Bueno, 519, conj. 42",-46.602180590695966,-23.582879592664582
+466,468,Capela Imperial/Casa do Grito,"Parque da Independência, s/n",-46.60989468551151,-23.581345587658422
+467,469,Museu Paulista da Universidade de São Paulo (Museu do Ipiranga),"Parque da Independência, s/n",-46.61009572498865,-23.585960631897056
+468,470,Arquivo da Cúria Mertropolitana de São Paulo,"Av Nazaré, 993",-46.6102248148014,-23.592633620836143
+469,471,Museu de Zoologia da USP,"Av Nazare, 481",-46.610630749526834,-23.5883716050608
+470,472,Espaço Museológico do Monumento - IndependÛcia,"Parque da Independência, s/n",-46.6106406468989,-23.578725554718964
+471,473,Memorial da Imigração,"R Visconde de Parnaiba, 1.316",-46.6126954456259,-23.549998339007463
+472,474,Museu Académico Cadete Eduardo Pinheiro,"Av Agua Fria, 1923",-46.61895295466665,-23.47183579939372
+473,475,Museu Histórico Dr. Eduardo de Campos Rosmaninho da Associaçao Portuguesa de Desportos,R Comendador Nestor Pereira,-46.61987636890249,-23.52178515104642
+474,476,Museu Peniteciário Paulista,Av Ataliba Leonel (dependências da Penitenciária do Estado),-46.62290828741662,-23.50624405861505
+475,477,Museu do Cinema Avtuzzo,"Av Lins Vasconcelos, 1.042 conj. 82",-46.623447864267305,-23.57343142263356
+476,478,Museu dos Transportes Públicos Gaetano Ferolla,"Av Cruzeiro do Sul, 780 - Estação Armênia",-46.62524047311683,-23.524887150569583
+477,479,Arquivo do Estado,"R Voluntários da Pátria, 596",-46.626574395319835,-23.515323058012243
+478,480,Fundação Patrimônio Histórico da Energia,"R Lavapés, 463",-46.627161819280154,-23.56016939171924
+479,481,Instituto Museu e Biblioteca de Odontologia de SãoPaulo,"R Voluntários da Patria , 547",-46.62726241849787,-23.514947067246432
+480,482,Museu Botânico Dr. João Barbosa Rodrigues,"Av Miguel Estéfano,  3.031",-46.62745859127929,-23.640560877468307
+481,483,Catavento - Cultural e Educacional,"Pc Centro Cívico Ulisses Guimarães, s/n - Palácio das Indústrias, Pq. D.Pedro",-46.628167728487604,-23.54409327137855
+482,484,Museu da Policia Militar,"R Dr Jorge Miranda, 308",-46.63024270658908,-23.5318151995586
+483,485,Museu de Arte Sacra,"Av Tiradentes, 676",-46.63082261945635,-23.530537198418326
+484,486,Acervo Esportivo Cultural e Histórico do Clube Regatas Tietê,"Av Santos Dumont, 343",-46.6316176256492,-23.523164075186877
+485,487,"Museu da Cidade de São Paulo ""Solar da Marquesa de Santos""","R Roberto Simonsen, 136 - Pßtio do ColÚgio",-46.63227482917905,-23.548556262497065
+486,488,Casa da Imagem (antiga Casa N·mero 1),"R Roberto Símonsen, 136 - B",-46.632278858106226,-23.54855730384585
+487,489,Museu e Capela Padre José de  Anchieta,"Pc Pátio do Colégio, 2",-46.63234889282912,-23.547653265734976
+488,490,Museu da Caixa Econômica Federal,"Pc da Sé, 111 - sexto andar",-46.633076904121836,-23.5492012752355
+489,491,Casa Modernista,"R Santa Cruz, 325",-46.633423363565065,-23.59630153026424
+490,492,Museu do Tribunal de Justiça do Estado de São  Paulo,"Pç. da Sé, s/n - 2 andar - Palácio da Justica",-46.63355092939335,-23.55200029924834
+491,493,Arquivo Histórico Municipal,"Pc Cel. Fernando Prestes, 152",-46.634022692713685,-23.52981614601844
+492,494,Pinacoteca do Estado,"Jardim da Luz,  2 - Estação Tiradentes",-46.634116708492336,-23.534555180096692
+493,495,Farol Santander,"R João Brícola,  24 ",-46.63424884442461,-23.54586923869761
+494,496,Museu Florestal Octavio Veccchi,"R do Horto, 931",-46.63476023738477,-23.462041597514094
+495,497,Museu da Língua Portuguesa,"Pc da Luz, s/n",-46.6355207455577,-23.535120173203932
+496,498,Museu Histórico da Imigração Japonesa,"R São Joaquim, 381 - 7 e 9 andares",-46.63556402779627,-23.560830367852276
+497,499,Museu José Bonifício,"R Benjamin constant,158 - 7andar",-46.6358109287009,-23.54960120757965
+498,500,Museu Lasar Segal,"R Berta, 111",-46.63589530987639,-23.594587569544867
+499,501,Museu do Telefone,"R Benjamin constant,174, 5 andar",-46.6361429655714,-23.549504250649353
+500,502,Museu da Arte Brasileira - MAB-Centro,"Pc Patriarca, 78",-46.636571930322695,-23.547363256213732
+501,503,Museu da Faculdade de Direito da USP,"Lg do São Francisco, 95",-46.6372479895162,-23.550169260651344
+502,504,Centro Historico de Aeroclube de São Paulo,"Av Olavo Fontoura, 650 - Campo de Marte",-46.63821165553941,-23.512441990602795
+503,505,Museu do Teatro Municipal,"Baixos do Viaduto do Chß, s/n",-46.638796906666876,-23.545918184740536
+504,506,Estação Pinacoteca,"Largo General Osório, 66",-46.63910488670897,-23.535241115137705
+505,507,Memorial da Resistência de São Paulo,"Lgo. Gal. Osório, 66",-46.63910488670897,-23.535241115137705
+506,508,Galeria Olido,"Av. São João, 473",-46.63931791029059,-23.543510181698167
+507,509,Pinacoteca Municipal - Centro Cultural São Paulo,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+508,510,Museu Paulo Machado de Carvalho (Museu do Futebol),"Av Brig. Luiz Antônio, 917, 9 andar",-46.641290106570224,-23.558081247460866
+509,511,Museu da Saúde Pública Emílio Ribas,"R Tenente Pena, 100",-46.642717856021456,-23.52640802991868
+510,512,Museu Prof. Dr. Wlademir da Pr·ssia Gomes Ferraz (Escola Paulista da Medicina/Unifesp),"R Botucatu, 740",-46.643202569211624,-23.59821849828296
+511,513,Fundação Energia e Saneamento,"Al Cleveland, 601",-46.643775930362565,-23.530598116907417
+512,514,Museu da Diversidade,"Rua do Arouche, 24",-46.64438307544402,-23.54304917502564
+513,515,Museu do Sítio da Ressaca,"R Nadra Raffoul Mokodsi, 3",-46.64495211507248,-23.650533864277115
+514,516,Museu Histórico Beata Heinrich,"Av Paulista, 200",-46.645609280632186,-23.56966232115334
+515,517,Itaú Numismática - Instituto Cultural Itaú,"Av Paulista ,149 - 9 andar",-46.64633634309109,-23.57054536448411
+516,518,Museu Memórias do Bixiga e Museu Adoniran Barbosa,"R dos Inglêses, 118",-46.64761227103372,-23.55902025210044
+517,519,Museu do Ëculos Gioconda Giannini,"R dos InglÛses., 108",-46.647620217478995,-23.55891126291944
+518,520,Museu do Instituto Biológico,"R Dr Amâncio de Carvalho, 546",-46.6482775064529,-23.58520443461813
+519,521,MUBA - Museu de Belas Artes,"Rua José Antônio Coelho, 879",-46.648863457852976,-23.581319369535706
+520,522,Memorial do Ensino Municipal,"R Diogo de Faria, 1247",-46.64924660242824,-23.595520478773405
+521,523,Centro de Arqueologia de São Paulo,"R Santo Anselmo, 101",-46.64928580597101,-23.50685794026317
+522,524,Sítio Morrinhos (Centro de Arqueologia de São Paulo),"R Santo Anselmo, 101",-46.64928580597101,-23.50685794026317
+523,525,Acervo e Museu Monteiro Lobato,"R Gal Jardim, 485",-46.649495184223206,-23.545050152521288
+524,526,Museu da Irmandade da Santa Casa de Misericórdia,"R Dr Cesário Motta Jr, 112",-46.650346123106225,-23.54280315337443
+525,527,Museu de Ciências Farmacéuticas Paulo Queiroz Marques (Santa Casa),"R Dr Cesßrio Motta Jr, 112",-46.650346123106225,-23.54280315337443
+526,528,Centro Histórico e Cultural Mackenzie,"Rua Itambé, 143",-46.65328325383581,-23.54644917242829
+527,529,Cidade Matarazzo,"Alameda Rio Claro, 190 - Bela Vista",-46.653655408579446,-23.561405267181957
+528,530,Museu de Arte Contemporânea - MAC,"Av Pedro Álvares  Cabral, 1301 - Portão 3",-46.65385867814367,-23.587944382815103
+529,531,OCA - Pavilhão Lucas Nogueira Garcez,"Av Pedro Álvares Cabral, s/n",-46.655880652855046,-23.586971415433418
+530,532,Museu de Valores do Banco Central,"Av Paulista,1804 térreo",-46.65593847753136,-23.56256726378037
+531,533,Museu de Arte de SãoPaulo Assis Chateaubriand - MASP,"Av Paulista, 1.578",-46.6561334630822,-23.561430176485242
+532,534,Museu Afro Brasil,"R Pedro Álvares Cabral, s/n - Portão 10, Pavilhão Padre Manoel da Nóbrega",-46.65618468044858,-23.586401347719786
+533,535,Pavilhão das Culturas Brasileiras,"R Pedro Álvares Cabral, s/n - Portão 10, Pavilhão Padre Manoel da Nóbrega",-46.65618468044858,-23.586401347719786
+534,536,Museu da Farmácia,"R Itacolomi, 601",-46.657635331370564,-23.549232110258966
+535,537,Museu da Aeronáutica,Pavilhão Lucas Garcez - Parque Ibirapuera,-46.65776773899032,-23.585504375553057
+536,538,Museu de Arte Moderna  MAM - Ibirapuera,Av Pedro Álvares Cabral. s/n - portão 3,-46.65930279406795,-23.5867123883542
+537,539,Museu da Cerveja,"Pc Nossa Senhora Aparecida, 76",-46.661687937474746,-23.603947443865156
+538,540,Museu da Arte Brasileira - MAB,"R Alagoas, 903 Pacaembu",-46.66322337956055,-23.544825110502547
+539,541,Museu de Arte Brasileira,"R Alagoas, 903",-46.66322337956055,-23.544825110502547
+540,542,Museu da Estrela - Casa dos Sonhos,"Av República do Líbano, 501",-46.663599840887265,-23.58481135076241
+541,543,Museu do Futebol,"Pc Charles Miller, s/n",-46.66541551034428,-23.54923413481914
+542,544,Memorial da America Latina - PavilhÒo da Criatividade,"Av Auro Soares de Moura Andrade, 664",-46.66580124671247,-23.527619947140984
+543,545,Museu Geológico do Estado Waldemar Levrcve,"Av Francisco Matarazzo, 455 Parque da Água Branca",-46.668416322901365,-23.52992498397113
+544,546,Museu do Clube Atlético Paulistano,"R Honduras, 1400",-46.66863171627602,-23.56810817098848
+545,547,Museu Coroplastico Augusto Esteves,"Av Dr Arnaldo, 455 - 2? andar",-46.67119568494081,-23.55519915765779
+546,548,Museu Histórico de Faculdade de Medicina da USP (Prof. Carlos da Silva Lacaz),"Av Dr Arnaldo, 455 - quarto  andar - Prédio Principal",-46.67119568494081,-23.55519915765779
+547,549,Museu da Cultura (PUC),"R Monte Alegre, 984",-46.6713045347736,-23.538442989722007
+548,550,Centro Hitórico-cultural de Enfermagem Iberoamericana,"Av Dr Eneas Carvalho Aguiar, 419",-46.67169567205077,-23.55655508518619
+549,551,Museu Tecnico-Científico Oscar Freire,"R Teodoro Sampaio, 115",-46.67200069651238,-23.55454213693359
+550,552,Museu Contemporaneo das Invenc§es,"Av Dr Homem de Mello, 1.109",-46.674659478777464,-23.533423958875225
+551,553,Fundação Cultural Ema Gordon Klabin,Rua Portugal 43 - Jardim Europa,-46.6759669205357,-23.57354217734135
+552,554,Museu da Imagem e do Som - MIS,"Av Europa, 158",-46.676466885081375,-23.57274222180369
+553,555,Museu Brasileiro da Escultura - MuBE,"R Alemanha, 221",-46.67686596542202,-23.573309255003316
+554,556,Vozoteca,"Pc Benedito Calixto, 86 apto. 62",-46.68059878968931,-23.5583960924684
+555,557,Museu da Casa Brasileira,"Av Brig. Faria Lima, 2.705",-46.68479708089904,-23.57997125321706
+556,558,Centro Pro-Memoria Hans Nobiling,"R Angelina Maffei Vita, 493",-46.69021423767828,-23.579756206475317
+557,559,Instituto Museu da Pessoa Net,"R Delfna, 342",-46.69574506602171,-23.55296700489453
+558,560,Museu da Pessoa,R Natingui. 1100,-46.69781207484488,-23.556152041298873
+559,561,Estação Ciência - USP,"R Guaicurus, 1.274/1.394",-46.69851577319121,-23.521041795505276
+560,562,Museu do Turfe/Curadoria da Memória do Turfe,Av Lineu de Paula Machado,-46.70086330440971,-23.578004216947917
+561,563,Museu do Computador,"Av Rio Bonito, 1.201",-46.70396051882764,-23.683005912567197
+562,564,Casa do Bandeirante,"Pc Monteiro Lobato, s/n",-46.71008037606953,-23.56155711382106
+563,565,Museu Espirita,"R Guaricanga, 357/359",-46.71033092381662,-23.523476802791617
+564,566,Fundação Maria Luisa e Oscar Americano,"Av Morumbi, 4.077",-46.71121074056111,-23.60345240822986
+565,567,Instituto Lina Bo e P.M. Bardi,"R Bandeirante Sampaio Soares, 420",-46.71169482308169,-23.61322848027076
+566,568,Acervo do Palácio dos Bandeirantes,"Av Morumbi, 4.500",-46.71225974472008,-23.601236345471428
+567,569,Coleção de Artes Visuais do Instituto de Estudos Brasileiros da Universidade de São Paulo - IEB/USP,"R Prof. Mello Moraes, 140",-46.71292142527279,-23.563621086108967
+568,570,Capela do Morumbi - integra Museu da Cid. SP,"Av Morumbi, 5.387",-46.713327911501764,-23.61173342690014
+569,571,Museu do Crime - Academia de Polícia Dr. Coriolano Nogueira Cobra,"Pc Reynaldo Porchat, 219 Portão 1 - 2º andar, ala 4 USP",-46.713562446144074,-23.565392131481094
+570,572,Paço das Artes,"Av da Universidade, 1 - USP",-46.71536041982241,-23.56493804803634
+571,573,Museu da Educacão e do Brinquedo,"Av da Universidade, 308 bloco B - sala, 42",-46.71581247697983,-23.562621094680058
+572,574,Museu Biológico do Instituto Butantã,"Av Dr Vital Brasil, 1.500",-46.71647651476701,-23.568518153926632
+573,575,Museu de Microbiologia do Instituto Butantã,"Av Dr Vital Brasil, 1.500",-46.71647651476701,-23.568518153926632
+574,576,Museu Histórico de Instituto Butantã,"Av Dr Vital Brasil, 1.500",-46.71647651476701,-23.568518153926632
+575,577,Memorial do São Paulo Futebol Clube,"Pc Roberto Gomes Pedrosa, Portão 17",-46.72041592795869,-23.601589397572692
+576,578,Instituto de Estudos Brasileiros da USP,"Av Prof. Mello Moraes, travessa 8, 14",-46.7207024742397,-23.559256006641945
+577,579,Coleçao Mário de Andrade (Biblioteca do IEB),"Av Professor Melo Moraes, 1235 - bloco D,  2 andar",-46.72100744976809,-23.55873999580913
+578,580,Museu do Folclore - Casa do Sertanista,"Pc Dr Ennio Barbato, s/n",-46.72166668570638,-23.584258241999166
+579,581,Museu de Ciências da USP (MAC-USP),"R  da Reitoria, 109, Bl. L, Sala 104",-46.72268951472241,-23.559900060558487
+580,582,Museu de Arte Contemporânea - MAC-USP,"R da Pç. do Relógio, 160",-46.723138560145486,-23.559772998736673
+581,583,"Museu de Rochas, Minerais e Minérios (vinculado ao Instituto de Geociências - IGc)",Av Prof. Martins Rodrigues,-46.725436548112434,-23.554771967180333
+582,584,Museu de Farmácia (vinculado - Faculdade de Ciências Farmacéuticas/FCF),"Av Prof. Lineu Prestes, 580 (ao lado da Diretoria)",-46.72667761979476,-23.56612907164508
+583,585,Museu da Anatomia  Veterinária - MAV Prof. Plínio Pinto e Silva,"Av Prof. Lúcio Martins Rodrigues, Trav.  4, Bloco 7 - USP",-46.72731755441869,-23.556270026817288
+584,586,Museu da Abadia de São Geraldo,"R Santo Américo, 357",-46.72856000969068,-23.604066364796797
+585,587,Museu de Geociências da USP,"R do Lago, 562",-46.729067633905885,-23.56156104204707
+586,588,Museu Oceanográfico do Instituto Oceanográfico da Universidade de São  Paulo,"Pc Oceanográfico, 191 - USP",-46.732160645773305,-23.56075202029335
+587,589,Fundação Museu Tecnologia de SãoPaulo,"Av Eng. Billings, 526",-46.73379653777101,-23.549848922686234
+588,590,Museu de Anatomia Humana Prof. Alfonso Bovero,"Edif.  Biomédicas III - sala 4 - Av Prof. Lineu Prestes, 2.415",-46.740113854076526,-23.56472201128256
+589,591,Museu de Arqueologia  e Etnologia da USP,"Av Prof. Almeida Prado, 1.466",-46.74077882503005,-23.559335948376265
+590,592,Museu do Relógio Professor Dimas de Melo Pimenta,"Av Mofarrej, 840",-46.74425951200445,-23.52952569593486
+591,593,Museu da Associação dos Funcionários Públicos,"Av dos Funcionários Públicos, 2051",-46.770076429444686,-23.746313418452406
+592,594,Secretaria da Fazenda do Estado de São Paulo - Centro de Informaþ§es TÚcnicas - Biblioteca - SeþÒo,"Av Rangel Pestana, 300 - 17 andar - sala 2010",-46.630599881476584,-23.55028228166531
+593,595,Secretaria Municipal de Negócios Jurídicos,"Patio do Colégio, quinto e sexto andar",-46.63279986517942,-23.548533231755798
+594,596,Tribunal de Justica do Estado de SãoPaulo,"Pc da Sé, 279 - 4 andar",-46.63355092939335,-23.55200029924834
+595,597,Biblioteca  Juiz Renato de Salles Abreu - 2º Tribunal de Alçada Civil,"Pc João Mendes, s/n - 19 andar",-46.63425194064117,-23.55302527798326
+596,598,Tribunal de Alcada Criminial de São Paulo,"Pc João Mendes, s/n - 14 andar",-46.63425194064117,-23.55302527798326
+597,599,Ministério da Fazenda - Delegacia do Ministério no Estado,"Av Prestes Maia, 733 - 22 andar",-46.63457084801221,-23.538261151038938
+598,600,Biblioteca Emilio Rangel Pestana - BOVESPA,"R XV de Novembro, 275 - Subsolo",-46.63496487689469,-23.546543230625435
+599,601,Secretaria da Seguranca Pública - Divisão de Serviços Auxiliares - DENARC - Servico de Doc. e Bibli,"R Brig. Tobias, 527 - 8 andar",-46.63543782392067,-23.538480144563845
+600,602,Sec. de Hab. e Desenvolvimento Urbano do MSP - Ass.  de LegislacÒo TÚcnica - Setor de DocumentaþÒo/ B,"R São Bento, 405 - décimo andar - sala 101 B",-46.63548292138482,-23.545568198772276
+601,603,Rede Ferroviária Federal S/A (REFESA) - Unidade de Documentação - DiviSão Patrimônio e Preservação,"Pc da Luz, 1 (Estação da Luz)",-46.6355207455577,-23.535120173203932
+602,604,SEADE - Fundação Sistema Estadual de Analise de Dados - Central de Dados e ReferÛncia - Biblioteca M,"Av Casper Líbero, 464 - Térreo",-46.63575776997723,-23.537503221601824
+603,605,Associaçãoo Viva o Centro,"R Líbero Badaro, 425 - 4 andar",-46.63639091918277,-23.545813211972675
+604,606,Biblioteca Febraban,"R Líbero Badaro, 425 - 22 andar",-46.63639091918277,-23.545813211972675
+605,607,Ministério Publico do Estado de São Paulo,"R do Riachuelo, 115",-46.636781000093016,-23.551051290357606
+606,608,Faculdade de Direito da USP,"Lg São Francisco, 95",-46.6372479895162,-23.550169260651344
+607,609,AFPESP - Associaçãodos Funcionários Públicos dos Estado de SãoPaulo,"R Formosa,367 - 16 andar",-46.63745891575088,-23.54517626078029
+608,610,Banespa (Edificio Matarazzo),R Dr FalcÒo Filho. 56 - 10 andar,-46.63766894312573,-23.547549200445914
+609,611,"Instituto Hans Staden do Ciências, Letras e IntercÔmbio Cultural Brasileiro-AlemÒo","R SÚte de Abril, 59 - 2, 3 e 8 andares",-46.640649961114285,-23.547206234009032
+610,612,"Sec.da Indústria, Comércio, Ciência e Tecnologia do Est.de São Paulo","Av Rio Branco, 1269",-46.64575300191144,-23.533201060859334
+611,613,Academia Paulista de Letras,"Lg do Arouche, 312/324",-46.64607302002947,-23.54081914999557
+612,614,IAB (Instituto de Arquitetos do Brasil),"R Bento de Freitas, 306",-46.64703607293307,-23.54460311829948
+613,615,Biblioteca UMAPAZ (Universidade Livre do Meio Ambiente e Cultura da Paz) - SVMA,"Av IV Centenßrio, 1268 - Portão 7",-46.66329196144702,-23.59430139433453
+614,616,Malba Tahan,"R Bras Pires Meira, 100",-46.7096486847265,-23.689515048001695
+615,617,Cantareira NorteShopping - Cineflix,"Av. Raimundo Pereira de Magalhães, 11.001",-46.723317548657626,-23.445458923407667
+616,618,Cantareira NorteShopping - Cineflix,"Av. Raimundo Pereira de Magalhães, 11.001",-46.723317548657626,-23.445458923407667
+617,619,Cantareira NorteShopping - Cineflix,"Av. Raimundo Pereira de Magalhães, 11.001",-46.723317548657626,-23.445458923407667
+618,620,Cantareira NorteShopping - Cineflix,"Av. Raimundo Pereira de Magalhães, 11.001",-46.723317548657626,-23.445458923407667
+619,621,Cantareira NorteShopping - Cineflix,"Av. Raimundo Pereira de Magalhães, 11.001",-46.723317548657626,-23.445458923407667
+620,622,Sala Cinematographos,"Rua Cardoso de Almeida, 1943",-46.673417578838155,-23.546419048898745
+621,623,Multimovie Itaim Paulista,"Av Marechal Tito, 7579",-46.3808989460148,-23.485711393852622
+622,624,Multimovie Itaim Paulista,"Av Marechal Tito, 7579",-46.3808989460148,-23.485711393852622
+623,625,Biblioteca Cora Coralina,"R Otelo A. Ribeiro, 113",-46.41008469445341,-23.5447065831309
+624,626,Multimovie Itaquera,"R Augusto Carlos Bauman, 851",-46.44741128042971,-23.531757246302284
+625,627,Multimovie Itaquera,"R Augusto Carlos Bauman, 851",-46.44741128042971,-23.531757246302284
+626,628,Shopping Metrô Itaquera (Cinépolis Box Itaquera),"Av José Pinheiro Borges, s/n, 1º piso,",-46.471477746909436,-23.54101516110211
+627,629,Shopping Metrô Itaquera (Cinépolis Box Itaquera),"Av José Pinheiro Borges, s/n, 1º piso,",-46.471477746909436,-23.54101516110211
+628,630,Shopping Metrô Itaquera (Cinépolis Box Itaquera),"Av José Pinheiro Borges, s/n, 1º piso,",-46.471477746909436,-23.54101516110211
+629,631,Shopping Metrô Itaquera (Cinépolis Box Itaquera),"Av José Pinheiro Borges, s/n, 1º piso,",-46.471477746909436,-23.54101516110211
+630,632,Shopping Metrô Itaquera (Cinépolis Box Itaquera),"Av José Pinheiro Borges, s/n, 1º piso,",-46.471477746909436,-23.54101516110211
+631,633,Shopping Metrô Itaquera (Cinépolis Box Itaquera),"Av José Pinheiro Borges, s/n, 1º piso,",-46.471477746909436,-23.54101516110211
+632,634,Shopping Metrô Itaquera (Cinépolis Box Itaquera),"Av José Pinheiro Borges, s/n, 1º piso,",-46.471477746909436,-23.54101516110211
+633,635,Shopping Metrô Itaquera (Cinépolis Box Itaquera),"Av José Pinheiro Borges, s/n, 1º piso,",-46.471477746909436,-23.54101516110211
+634,636,Interlar Aricanduva (Cinemark),"Av Aricanduva, 5.555",-46.50332345069377,-23.561973002233035
+635,637,Interlar Aricanduva (Cinemark),"Av Aricanduva, 5.555",-46.50332345069377,-23.561973002233035
+636,638,Interlar Aricanduva (Cinemark),"Av Aricanduva, 5.555",-46.50332345069377,-23.561973002233035
+637,639,Interlar Aricanduva (Cinemark),"Av Aricanduva, 5.555",-46.50332345069377,-23.561973002233035
+638,640,Interlar Aricanduva (Cinemark),"Av Aricanduva, 5.555",-46.50332345069377,-23.561973002233035
+639,641,Interlar Aricanduva (Cinemark),"Av Aricanduva, 5.555",-46.50332345069377,-23.561973002233035
+640,642,Interlar Aricanduva (Cinemark),"Av Aricanduva, 5.555",-46.50332345069377,-23.561973002233035
+641,643,Interlar Aricanduva (Cinemark),"Av Aricanduva, 5.555",-46.50332345069377,-23.561973002233035
+642,644,Interlar Aricanduva (Cinemark),"Av Aricanduva, 5.555",-46.50332345069377,-23.561973002233035
+643,645,Interlar Aricanduva (Cinemark),"Av Aricanduva, 5.555",-46.50332345069377,-23.561973002233035
+644,646,Interlar Aricanduva (Cinemark),"Av Aricanduva, 5.555",-46.50332345069377,-23.561973002233035
+645,647,Interlar Aricanduva (Cinemark),"Av Aricanduva, 5.555",-46.50332345069377,-23.561973002233035
+646,648,Interlar Aricanduva (Cinemark),"Av Aricanduva, 5.555",-46.50332345069377,-23.561973002233035
+647,649,Interlar Aricanduva (Cinemark),"Av Aricanduva, 5.555",-46.50332345069377,-23.561973002233035
+648,650,Shopping Center Penha (Moviecom),"R Dr João Ribeiro, 304",-46.547122046063045,-23.524146529157942
+649,651,Shopping Center Penha (Moviecom),"R Dr João Ribeiro, 304",-46.547122046063045,-23.524146529157942
+650,652,Shopping Center Penha (Moviecom),"R Dr João Ribeiro, 304",-46.547122046063045,-23.524146529157942
+651,653,Shopping Center Penha (Moviecom),"R Dr João Ribeiro, 304",-46.547122046063045,-23.524146529157942
+652,654,Shopping Center Penha (Moviecom),"R Dr João Ribeiro, 304",-46.547122046063045,-23.524146529157942
+653,655,Shopping Center Penha (Moviecom),"R Dr João Ribeiro, 304",-46.547122046063045,-23.524146529157942
+654,656,Shopping Anália Franco (UCI),"Av Regente Feijó, 1.739",-46.55979053894448,-23.558975695053437
+655,657,Shopping Anália Franco (UCI),"Av Regente Feijó, 1.739",-46.55979053894448,-23.558975695053437
+656,658,Shopping Anália Franco (UCI),"Av Regente Feijó, 1.739",-46.55979053894448,-23.558975695053437
+657,659,Shopping Anália Franco (UCI),"Av Regente Feijó, 1.739",-46.55979053894448,-23.558975695053437
+658,660,Shopping Anália Franco (UCI),"Av Regente Feijó, 1.739",-46.55979053894448,-23.558975695053437
+659,661,Shopping Anália Franco (UCI),"Av Regente Feijó, 1.739",-46.55979053894448,-23.558975695053437
+660,662,Shopping Anália Franco (UCI),"Av Regente Feijó, 1.739",-46.55979053894448,-23.558975695053437
+661,663,Shopping Anália Franco (UCI),"Av Regente Feijó, 1.739",-46.55979053894448,-23.558975695053437
+662,664,Shopping Anália Franco (UCI),"Av Regente Feijó, 1.739",-46.55979053894448,-23.558975695053437
+663,665,Sílvio Romero,"R Coelho Lisboa, 434",-46.57257874117789,-23.548330575502096
+664,666,Sílvio Romero,"R.Coelho Lisboa, 434",-46.57257874117789,-23.548330575502096
+665,667,Shopping Boulevard Tatuapé (Cinemark),"R Goncalves Crespo, s/n, terceiro piso",-46.576730693497694,-23.5390395026097
+666,668,Shopping Boulevard Tatuapé (Cinemark),"R Goncalves Crespo, s/n, terceiro piso",-46.576730693497694,-23.5390395026097
+667,669,Shopping Boulevard Tatuapé (Cinemark),"R Goncalves Crespo, s/n, terceiro piso",-46.576730693497694,-23.5390395026097
+668,670,Shopping Boulevard Tatuapé (Cinemark),"R Goncalves Crespo, s/n, terceiro piso",-46.576730693497694,-23.5390395026097
+669,671,Shopping Boulevard Tatuapé (Cinemark),"R Goncalves Crespo, s/n, terceiro piso",-46.576730693497694,-23.5390395026097
+670,672,Shopping Metrô Tatuapé (Cinemark),"R Domingos Agostim, 91 - piso G2",-46.57679270764011,-23.541471509268803
+671,673,Shopping Metrô Tatuapé (Cinemark),"R Domingos Agostim, 91 - piso G2",-46.57679270764011,-23.541471509268803
+672,674,Shopping Metrô Tatuapé (Cinemark),"R Domingos Agostim, 91 - piso G2",-46.57679270764011,-23.541471509268803
+673,675,Shopping Metrô Tatuapé (Cinemark),"R Domingos Agostim, 91 - piso G2",-46.57679270764011,-23.541471509268803
+674,676,Shopping Metrô Tatuapé (Cinemark),"R Domingos Agostim, 91 - piso G2",-46.57679270764011,-23.541471509268803
+675,677,Shopping Metrô Tatuapé (Cinemark),"R Domingos Agostim, 91 - piso G2",-46.57679270764011,-23.541471509268803
+676,678,Shopping Metrô Tatuapé (Cinemark),"R Domingos Agostim, 91 - piso G2",-46.57679270764011,-23.541471509268803
+677,679,Shopping Metrô Tatuapé (Cinemark),"R Domingos Agostim, 91 - piso G2",-46.57679270764011,-23.541471509268803
+678,680,Shopping Central Plaza (Cinemark),"Av Dr Francisco Mesquita, 1.000",-46.58608533419912,-23.593647744533275
+679,681,Shopping Central Plaza (Cinemark),"Av Dr Francisco Mesquita, 1.000",-46.58608533419912,-23.593647744533275
+680,682,Shopping Central Plaza (Cinemark),"Av Dr Francisco Mesquita, 1.000",-46.58608533419912,-23.593647744533275
+681,683,Shopping Central Plaza (Cinemark),"Av Dr Francisco Mesquita, 1.000",-46.58608533419912,-23.593647744533275
+682,684,Shopping Central Plaza (Cinemark),"Av Dr Francisco Mesquita, 1.000",-46.58608533419912,-23.593647744533275
+683,685,Shopping Central Plaza (Cinemark),"Av Dr Francisco Mesquita, 1.000",-46.58608533419912,-23.593647744533275
+684,686,Shopping Central Plaza (Cinemark),"Av Dr Francisco Mesquita, 1.000",-46.58608533419912,-23.593647744533275
+685,687,Shopping Central Plaza (Cinemark),"Av Dr Francisco Mesquita, 1.000",-46.58608533419912,-23.593647744533275
+686,688,Shopping Central Plaza (Cinemark),"Av Dr Francisco Mesquita, 1.000",-46.58608533419912,-23.593647744533275
+687,689,Shopping Central Plaza (Cinemark),"Av Dr Francisco Mesquita, 1.000",-46.58608533419912,-23.593647744533275
+688,690,Urnas - Heliópolis,"R Mina, 38",-46.59158964870473,-23.61714293375635
+689,691,Mooca Shopping (Cinemark),"R Cap. Pacheco Chaves, 313",-46.594123379486014,-23.58149568035734
+690,692,Mooca Shopping (Cinemark),"R Cap. Pacheco Chaves, 313",-46.594123379486014,-23.58149568035734
+691,693,Mooca Shopping (Cinemark),"R Cap. Pacheco Chaves, 313",-46.594123379486014,-23.58149568035734
+692,694,Mooca Shopping (Cinemark),"R Cap. Pacheco Chaves, 313",-46.594123379486014,-23.58149568035734
+693,695,Mooca Shopping (Cinemark),"R Cap. Pacheco Chaves, 313",-46.594123379486014,-23.58149568035734
+694,696,Mooca Shopping (Cinemark),"R Cap. Pacheco Chaves, 313",-46.594123379486014,-23.58149568035734
+695,697,Shopping Metrô Tucuruvi (Cinemark),"Av. Dr. Antônio Maria Laet,566",-46.60250170372882,-23.479618957555854
+696,698,Shopping Metrô Tucuruvi (Cinemark),"Av. Dr. Antônio Maria Laet,566",-46.60250170372882,-23.479618957555854
+697,699,Shopping Metrô Tucuruvi (Cinemark),"Av. Dr. Antônio Maria Laet,566",-46.60250170372882,-23.479618957555854
+698,700,Shopping Metrô Tucuruvi (Cinemark),"Av. Dr. Antônio Maria Laet,566",-46.60250170372882,-23.479618957555854
+699,701,Shopping Metrô Tucuruvi (Cinemark),"Av. Dr. Antônio Maria Laet,566",-46.60250170372882,-23.479618957555854
+700,702,Shopping Metrô Tucuruvi (Cinemark),"Av. Dr. Antônio Maria Laet,566",-46.60250170372882,-23.479618957555854
+701,703,Biblioteca Roberto Santos,"R Cisplatina, 505",-46.602646649312284,-23.587667654362605
+702,704,Biblioteca Adelfa Figueiredo,"Pc Ilo Otani, 146",-46.61105928095235,-23.526550266164584
+703,705,Shopping Center Norte (Cinemark),"Tv Casalbuono, 120",-46.61860430197369,-23.515275099163777
+704,706,Shopping Center Norte (Cinemark),"Tv Casalbuono, 120",-46.61860430197369,-23.515275099163777
+705,707,Shopping Center Norte (Cinemark),"Tv Casalbuono, 120",-46.61860430197369,-23.515275099163777
+706,708,Shopping Center Norte (Cinemark),"Tv Casalbuono, 120",-46.61860430197369,-23.515275099163777
+707,709,Shopping Center Norte (Cinemark),"Tv Casalbuono, 120",-46.61860430197369,-23.515275099163777
+708,710,Shopping Center Norte (Haway),"Tv Casalbuono, 120",-46.61860430197369,-23.515275099163777
+709,711,Shopping Center Norte (Haway),"Tv Casalbuono, 120",-46.61860430197369,-23.515275099163777
+710,712,Shopping Center Norte (Haway),"Tv Casalbuono, 120",-46.61860430197369,-23.515275099163777
+711,713,Shopping D (Cinemark),"Av Cruzeiro do Sul, 1.100",-46.62411345318277,-23.521578177345546
+712,714,Shopping D (Cinemark),"Av Cruzeiro do Sul, 1.100",-46.62411345318277,-23.521578177345546
+713,715,Shopping D (Cinemark),"Av Cruzeiro do Sul, 1.100",-46.62411345318277,-23.521578177345546
+714,716,Shopping D (Cinemark),"Av Cruzeiro do Sul, 1.100",-46.62411345318277,-23.521578177345546
+715,717,Shopping D (Cinemark),"Av Cruzeiro do Sul, 1.100",-46.62411345318277,-23.521578177345546
+716,718,Shopping D (Cinemark),"Av Cruzeiro do Sul, 1.100",-46.62411345318277,-23.521578177345546
+717,719,Shopping D (Cinemark),"Av Cruzeiro do Sul, 1.100",-46.62411345318277,-23.521578177345546
+718,720,Shopping D (Cinemark),"Av Cruzeiro do Sul, 1.100",-46.62411345318277,-23.521578177345546
+719,721,Shopping D (Cinemark),"Av Cruzeiro do Sul, 1.100",-46.62411345318277,-23.521578177345546
+720,722,Shopping D (Cinemark),"Av Cruzeiro do Sul, 1.100",-46.62411345318277,-23.521578177345546
+721,723,Cine Santana,"R Voluntários da Pátria , 2.192",-46.62604326058101,-23.501085977395327
+722,724,Shopping Plaza Sul (Playarte),"Pc Leonor Kaupa,100",-46.62756636269823,-23.619876687406517
+723,725,Shopping Plaza Sul (Playarte),"Pc Leonor Kaupa,100",-46.62756636269823,-23.619876687406517
+724,726,Shopping Plaza Sul (Playarte),"Pc Leonor Kaupa,100",-46.62756636269823,-23.619876687406517
+725,727,Shopping Plaza Sul (Playarte),"Pc Leonor Kaupa,100",-46.62756636269823,-23.619876687406517
+726,728,Shopping Plaza Sul (Playarte),"Pc Leonor Kaupa,100",-46.62756636269823,-23.619876687406517
+727,729,Shopping Plaza Sul (Playarte),"Pc Leonor Kaupa,100",-46.62756636269823,-23.619876687406517
+728,730,Biblioteca Raul Boop,"R Muniz de Souza, 1.155",-46.62908699969394,-23.572605458419112
+729,731,Centro Cultural do Banco do Brasil,"R Álvares Penteado, 112",-46.63486391375775,-23.547495274405133
+730,732,Museu Lasar SeGal,"R Berta, 111",-46.63589530987639,-23.594587569544867
+731,733,Shopping Santa Cruz (Cinemark),"R Domingos de Morais, 2.564",-46.6374694063724,-23.599110576142188
+732,734,Shopping Santa Cruz (Cinemark),"R Domingos de Morais, 2.564",-46.6374694063724,-23.599110576142188
+733,735,Shopping Santa Cruz (Cinemark),"R Domingos de Morais, 2.564",-46.6374694063724,-23.599110576142188
+734,736,Shopping Santa Cruz (Cinemark),"R Domingos de Morais, 2.564",-46.6374694063724,-23.599110576142188
+735,737,Shopping Santa Cruz (Cinemark),"R Domingos de Morais, 2.564",-46.6374694063724,-23.599110576142188
+736,738,Shopping Santa Cruz (Cinemark),"R Domingos de Morais, 2.564",-46.6374694063724,-23.599110576142188
+737,739,Shopping Santa Cruz (Cinemark),"R Domingos de Morais, 2.564",-46.6374694063724,-23.599110576142188
+738,740,Shopping Santa Cruz (Cinemark),"R Domingos de Morais, 2.564",-46.6374694063724,-23.599110576142188
+739,741,Shopping Santa Cruz (Cinemark),"R Domingos de Morais, 2.564",-46.6374694063724,-23.599110576142188
+740,742,Shopping Santa Cruz (Cinemark),"R Domingos de Morais, 2.564",-46.6374694063724,-23.599110576142188
+741,743,Shopping Santa Cruz (Cinemark),"R Domingos de Morais, 2.564",-46.6374694063724,-23.599110576142188
+742,744,Biblioteca Viriato Correa,"R Sena Madureira, 298",-46.638960430204136,-23.593270513162064
+743,745,Galeria Olido,"Av São João, 473 - Primeiro Piso",-46.63931791029059,-23.543510181698167
+744,746,Centro Cultural São Paulo,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+745,747,Paris,"Av Ipiranga, 808",-46.64055100320473,-23.542738183130087
+746,748,Marabá Playarte,"Av Ipiranga, 757",-46.64134894062745,-23.542545185328816
+747,749,Marabá Playarte,"Av Ipiranga, 757",-46.64134894062745,-23.542545185328816
+748,750,Marabá Playarte,"Av Ipiranga, 757",-46.64134894062745,-23.542545185328816
+749,751,Marabá Playarte,"Av Ipiranga, 757",-46.64134894062745,-23.542545185328816
+750,752,Marabá Playarte,"Av Ipiranga, 757",-46.64134894062745,-23.542545185328816
+751,753,Shopping Pátio Paulista - Playarte Splendor Paulista,"R Treze de Maio, 1.947",-46.64339231276015,-23.5706813683889
+752,754,Shopping Pátio Paulista - Playarte Splendor Paulista,"R Treze de Maio, 1.947",-46.64339231276015,-23.5706813683889
+753,755,Shopping Pátio Paulista (Cinemark),"R Treze de Maio, 1.947",-46.64339231276015,-23.5706813683889
+754,756,Shopping Pátio Paulista (Cinemark),"R Treze de Maio, 1.947",-46.64339231276015,-23.5706813683889
+755,757,Shopping Pátio Paulista (Cinemark),"R Treze de Maio, 1.947",-46.64339231276015,-23.5706813683889
+756,758,Shopping Pátio Paulista (Cinemark),"R Treze de Maio, 1.947",-46.64339231276015,-23.5706813683889
+757,759,Shopping Pátio Paulista (Cinemark),"R Treze de Maio, 1.947",-46.64339231276015,-23.5706813683889
+758,760,Shopping Pátio Paulista (Cinemark),"R Treze de Maio, 1.947",-46.64339231276015,-23.5706813683889
+759,761,Shopping Pátio Paulista (Cinemark),"R Treze de Maio, 1.947",-46.64339231276015,-23.5706813683889
+760,762,Santana Parque Shopping (UCI),"R Conselheiro Moreira de Barros, 2780, terceiro piso",-46.64535956079893,-23.483000724500062
+761,763,Santana Parque Shopping (UCI),"R Conselheiro Moreira de Barros, 2780, terceiro piso",-46.64535956079893,-23.483000724500062
+762,764,Santana Parque Shopping (UCI),"R Conselheiro Moreira de Barros, 2780, terceiro piso",-46.64535956079893,-23.483000724500062
+763,765,Santana Parque Shopping (UCI),"R Conselheiro Moreira de Barros, 2780, terceiro piso",-46.64535956079893,-23.483000724500062
+764,766,Santana Parque Shopping (UCI),"R Conselheiro Moreira de Barros, 2780, terceiro piso",-46.64535956079893,-23.483000724500062
+765,767,Santana Parque Shopping (UCI),"R Conselheiro Moreira de Barros, 2780, terceiro piso",-46.64535956079893,-23.483000724500062
+766,768,Santana Parque Shopping (UCI),"R Conselheiro Moreira de Barros, 2780, terceiro piso",-46.64535956079893,-23.483000724500062
+767,769,Santana Parque Shopping (UCI),"R Conselheiro Moreira de Barros, 2780, terceiro piso",-46.64535956079893,-23.483000724500062
+768,770,Itaú Cultural,"Av Paulista, 149",-46.64633634309109,-23.57054536448411
+769,771,Itaú Cultural,"Av Paulista, 149",-46.64633634309109,-23.57054536448411
+770,772,Cinemateca,"Lgo. Senador Raul Cardoso, 207",-46.646456592440416,-23.59212149146153
+771,773,Cinemateca,"Lgo. Senador Raul Cardoso, 207",-46.646456592440416,-23.59212149146153
+772,774,Cine Zip.net Recriarte Bijou,"Pc Franklin Roosevelt, 172",-46.64654410946081,-23.54900020328744
+773,775,Matilha Cultural,"R Rego Freitas, 542",-46.647208105549765,-23.54674318785489
+774,776,Biblioteca Monteiro Lobato,"R Gal Jardim, 485",-46.649495184223206,-23.545050152521288
+775,777,Gemini,"Av Paulista, 807",-46.65114241605361,-23.566506256842423
+776,778,Gemini,"Av Paulista, 807",-46.65114241605361,-23.566506256842423
+777,779,Reserva Cultural,"Av Paulista, 900",-46.65122139777501,-23.56518429311424
+778,780,Reserva Cultural,"Av Paulista, 900",-46.65122139777501,-23.56518429311424
+779,781,Reserva Cultural,"Av Paulista, 900",-46.65122139777501,-23.56518429311424
+780,782,Reserva Cultural,"Av Paulista, 900",-46.65122139777501,-23.56518429311424
+781,783,Sala Maria Antônia,"R Maria Antônia, 283",-46.651595228617715,-23.54642213782877
+782,784,Espaço Itaú de Cinema - Frei Caneca,"R Frei Caneca, 569 - Terceiro piso",-46.65279728984258,-23.554104228228095
+783,785,Espaço Itaú de Cinema - Frei Caneca,"R Frei Caneca, 569 - Terceiro piso",-46.65279728984258,-23.554104228228095
+784,786,Espaço Itaú de Cinema - Frei Caneca,"R Frei Caneca, 569 - Terceiro piso",-46.65279728984258,-23.554104228228095
+785,787,Espaço Itaú de Cinema - Frei Caneca,"R Frei Caneca, 569 - Terceiro piso",-46.65279728984258,-23.554104228228095
+786,788,Espaço Itaú de Cinema - Frei Caneca,"R Frei Caneca, 569 - Terceiro piso",-46.65279728984258,-23.554104228228095
+787,789,Espaço Itaú de Cinema - Frei Caneca,"R Frei Caneca, 569 - Terceiro piso",-46.65279728984258,-23.554104228228095
+788,790,Espaço Itaú de Cinema - Frei Caneca,"R Frei Caneca, 569 - Terceiro piso",-46.65279728984258,-23.554104228228095
+789,791,Espaço Itaú de Cinema - Frei Caneca,"R Frei Caneca, 569 - Terceiro piso",-46.65279728984258,-23.554104228228095
+790,792,Espaço Itaú de Cinema - Frei Caneca,"R Frei Caneca, 569 - Terceiro piso",-46.65279728984258,-23.554104228228095
+791,793,Shopping Cidade de São Paulo,"Av. Paulista, 1230",-46.652993426528404,-23.563529267744855
+792,794,Shopping Cidade de São Paulo,"Av. Paulista, 1230",-46.652993426528404,-23.563529267744855
+793,795,Shopping Cidade de São Paulo,"Av. Paulista, 1230",-46.652993426528404,-23.563529267744855
+794,796,Shopping Cidade de São Paulo,"Av. Paulista, 1230",-46.652993426528404,-23.563529267744855
+795,797,Shopping Cidade de São Paulo,"Av. Paulista, 1230",-46.652993426528404,-23.563529267744855
+796,798,Shopping Cidade de São Paulo,"Av. Paulista, 1230",-46.652993426528404,-23.563529267744855
+797,799,Museu de Arte Moderna - MAM,"Pq. Ibirapuera, s/n - Portão 3",-46.65675370886801,-23.588215406703235
+798,800,Shopping Pátio Higienópolis (Cinemark),"Av Higienópolis, 646",-46.65774625811603,-23.542271137690683
+799,801,Shopping Pátio Higienópolis (Cinemark),"Av Higienópolis, 646",-46.65774625811603,-23.542271137690683
+800,802,Shopping Pátio Higienópolis (Cinemark),"Av Higienópolis, 646",-46.65774625811603,-23.542271137690683
+801,803,Shopping Pátio Higienópolis (Cinemark),"Av Higienópolis, 646",-46.65774625811603,-23.542271137690683
+802,804,Shopping Pátio Higienópolis (Cinemark),"Av Higienópolis, 646",-46.65774625811603,-23.542271137690683
+803,805,Shopping Pátio Higienópolis (Cinemark),"Av Higienópolis, 646",-46.65774625811603,-23.542271137690683
+804,806,Espaço Itaú de Cinema - Augusta,"R Augusta, 1.470 /1.475",-46.658917463727946,-23.556356204949076
+805,807,Espaço Itaú de Cinema - Augusta,"R Augusta, 1.470 /1.475",-46.658917463727946,-23.556356204949076
+806,808,Espaço Itaú de Cinema - Augusta,"R Augusta, 1.470 /1.475",-46.658917463727946,-23.556356204949076
+807,809,Espaço Itaú de Cinema - Augusta,"R Augusta, 1.470 /1.475",-46.658917463727946,-23.556356204949076
+808,810,Espaço Itaú de Cinema - Augusta,"R Augusta, 1.470 /1.475",-46.658917463727946,-23.556356204949076
+809,811,Playarte Bristol - UOL,"Av Paulista, 2.064",-46.6595934916495,-23.558408152380327
+810,812,Playarte Bristol - UOL,"Av Paulista, 2.064",-46.6595934916495,-23.558408152380327
+811,813,Playarte Bristol - UOL,"Av Paulista, 2.064",-46.6595934916495,-23.558408152380327
+812,814,Playarte Bristol - UOL,"Av Paulista, 2.064",-46.6595934916495,-23.558408152380327
+813,815,Playarte Bristol - UOL,"Av Paulista, 2.064",-46.6595934916495,-23.558408152380327
+814,816,Playarte Bristol - UOL,"Av Paulista, 2.064",-46.6595934916495,-23.558408152380327
+815,817,Playarte Bristol - UOL,"Av Paulista, 2.064",-46.6595934916495,-23.558408152380327
+816,818,Cine Bombril,"Av Paulista, 2.073",-46.66050652163214,-23.559082170932463
+817,819,Cine Bombril,"Av Paulista, 2.073",-46.66050652163214,-23.559082170932463
+818,820,Cine Livraria Cultura,"Av Paulista, 2073",-46.66050652163214,-23.559082170932463
+819,821,Cine Livraria Cultura,"Av Paulista, 2073",-46.66050652163214,-23.559082170932463
+820,822,Cinesesc,"R Augusta, 2.075",-46.66250655792934,-23.56063015517955
+821,823,Belas Artes,"R da Consolação, 2.423",-46.662586540578495,-23.555755150279357
+822,824,Belas Artes,"R da Consolação, 2.423",-46.662586540578495,-23.555755150279357
+823,825,Belas Artes,"R da Consolação, 2.423",-46.662586540578495,-23.555755150279357
+824,826,Belas Artes,"R da Consolação, 2.423",-46.662586540578495,-23.555755150279357
+825,827,Belas Artes,"R da Consolação, 2.423",-46.662586540578495,-23.555755150279357
+826,828,Belas Artes,"R da Consolação, 2.423",-46.662586540578495,-23.555755150279357
+827,829,Faap,"R Alagoas, 903",-46.66322337956055,-23.544825110502547
+828,830,Cine Clube Vitrine,"R Augusta, 2.530",-46.66607362201325,-23.563248197645766
+829,831,Cine Clube Vitrine,"R Augusta, 2.530",-46.66607362201325,-23.563248197645766
+830,832,Cine Clube Vitrine,"R Augusta, 2.530",-46.66607362201325,-23.563248197645766
+831,833,Shopping Ibirapuera,"Av Ibirapuera,  3.103",-46.66711217380631,-23.61023847271826
+832,834,Shopping Ibirapuera,"Av Ibirapuera,  3.103",-46.66711217380631,-23.61023847271826
+833,835,Shopping Ibirapuera,"Av Ibirapuera,  3.103",-46.66711217380631,-23.61023847271826
+834,836,Centro Cultural da Juventude Ruth Cardoso,"Av Deputado EmÝlio Carlos, 3641",-46.67077693734146,-23.476292488340903
+835,837,PUC/SP,"R Monte Alegre, 984",-46.67130051963142,-23.53844303285136
+836,838,Lumiére Playarte,"R Joaquim Floriano, 339",-46.67362395644035,-23.584422309191346
+837,839,Lumiére Playarte,"R Joaquim Floriano, 339",-46.67362395644035,-23.584422309191346
+838,840,Kinoplex  Itaim,"R Joaquim Floriano,  466",-46.67482796981614,-23.58445827930615
+839,841,Kinoplex  Itaim,"R Joaquim Floriano,  466",-46.67482796981614,-23.58445827930615
+840,842,Kinoplex  Itaim,"R Joaquim Floriano,  466",-46.67482796981614,-23.58445827930615
+841,843,Kinoplex  Itaim,"R Joaquim Floriano,  466",-46.67482796981614,-23.58445827930615
+842,844,Kinoplex  Itaim,"R Joaquim Floriano,  466",-46.67482796981614,-23.58445827930615
+843,845,Kinoplex  Itaim,"R Joaquim Floriano,  466",-46.67482796981614,-23.58445827930615
+844,846,Shopping West Plaza (Playarte),"Av Francisco Matarazzo, s/n - bloco B",-46.67532442929019,-23.526569916809894
+845,847,Shopping West Plaza (Playarte),"Av Francisco Matarazzo, s/n - bloco B",-46.67532442929019,-23.526569916809894
+846,848,Museu da Imagem e do Som - MIS,"Av Europa, 158",-46.676466885081375,-23.57274222180369
+847,849,Museu da Imagem e do Som - MIS,"Av Europa, 158",-46.676466885081375,-23.57274222180369
+848,850,Shopping Interlagos (Cinemark),"Av Interlagos, 2.255",-46.677800041777004,-23.675163861033152
+849,851,Shopping Interlagos (Cinemark),"Av Interlagos, 2.255",-46.677800041777004,-23.675163861033152
+850,852,Shopping Interlagos (Cinemark),"Av Interlagos, 2.255",-46.677800041777004,-23.675163861033152
+851,853,Shopping Interlagos (Cinemark),"Av Interlagos, 2.255",-46.677800041777004,-23.675163861033152
+852,854,Shopping Interlagos (Cinemark),"Av Interlagos, 2.255",-46.677800041777004,-23.675163861033152
+853,855,Shopping Interlagos (Cinemark),"Av Interlagos, 2.255",-46.677800041777004,-23.675163861033152
+854,856,Shopping Interlagos (Cinemark),"Av Interlagos, 2.255",-46.677800041777004,-23.675163861033152
+855,857,Shopping Interlagos (Cinemark),"Av Interlagos, 2.255",-46.677800041777004,-23.675163861033152
+856,858,Shopping Interlagos (Cinemark),"Av Interlagos, 2.255",-46.677800041777004,-23.675163861033152
+857,859,Shopping Interlagos (Cinemark),"Av Interlagos, 2.255",-46.677800041777004,-23.675163861033152
+858,860,Bourbon Shopping Pompeia - Espaço Itaú de Cinema - Pompéia,"Rua Palestra Itália, 500 - Terceiro piso",-46.68111951487446,-23.526577867456634
+859,861,Bourbon Shopping Pompeia - Espaço Itaú de Cinema - Pompéia,"Rua Palestra Itália, 500 - Terceiro piso",-46.68111951487446,-23.526577867456634
+860,862,Bourbon Shopping Pompeia - Espaço Itaú de Cinema - Pompéia,"Rua Palestra Itália, 500 - Terceiro piso",-46.68111951487446,-23.526577867456634
+861,863,Bourbon Shopping Pompeia - Espaço Itaú de Cinema - Pompéia,"Rua Palestra Itália, 500 - Terceiro piso",-46.68111951487446,-23.526577867456634
+862,864,Bourbon Shopping Pompeia - Espaço Itaú de Cinema - Pompéia,"Rua Palestra Itália, 500 - Terceiro piso",-46.68111951487446,-23.526577867456634
+863,865,Bourbon Shopping Pompeia - Espaço Itaú de Cinema - Pompéia,"Rua Palestra Itália, 500 - Terceiro piso",-46.68111951487446,-23.526577867456634
+864,866,Bourbon Shopping Pompeia - Espaço Itaú de Cinema - Pompéia,"Rua Palestra Itália, 500 - Terceiro piso",-46.68111951487446,-23.526577867456634
+865,867,Bourbon Shopping Pompeia - Espaço Itaú de Cinema - Pompéia,"Rua Palestra Itália, 500 - Terceiro piso",-46.68111951487446,-23.526577867456634
+866,868,Bourbon Shopping Pompeia - Espaço Itaú de Cinema - Pompéia,"Rua Palestra Itália, 500 - Terceiro piso",-46.68111951487446,-23.526577867456634
+867,869,Bourbon Shopping Pompeia - Espaço Itaú de Cinema - Pompéia,"Rua Palestra Itália, 500 - Terceiro piso",-46.68111951487446,-23.526577867456634
+868,870,Bourbon Shopping Pompeia - Espaço Itaú de Cinema - Pompéia,"Rua Palestra Itália, 500 - Terceiro piso",-46.68111951487446,-23.526577867456634
+869,871,Instituto Goethe,"R Lisboa, 974",-46.68194587399357,-23.55605508737033
+870,872,Cine Arte Lilian Lemmertz,"R Clélia, 33",-46.68314751122275,-23.5256289104785
+871,873,Cine Arte Lilian Lemmertz,"R Clélia, 33",-46.68314751122275,-23.5256289104785
+872,874,Cine Sala,"R Fradique Coutinho, 361",-46.68685196067314,-23.56359711028811
+873,875,Kinoplex Vila Olímpia,"R Olimpíadas, 360",-46.687031340155194,-23.595746370529017
+874,876,Kinoplex Vila Olímpia,"R Olimpíadas, 360",-46.687031340155194,-23.595746370529017
+875,877,Kinoplex Vila Olímpia,"R Olimpíadas, 360",-46.687031340155194,-23.595746370529017
+876,878,Kinoplex Vila Olímpia,"R Olimpíadas, 360",-46.687031340155194,-23.595746370529017
+877,879,Kinoplex Vila Olímpia,"R Olimpíadas, 360",-46.687031340155194,-23.595746370529017
+878,880,Kinoplex Vila Olímpia,"R Olimpíadas, 360",-46.687031340155194,-23.595746370529017
+879,881,Kinoplex Vila Olímpia,"R Olimpíadas, 360",-46.687031340155194,-23.595746370529017
+880,882,Shopping Center Iguatemi (Cinemark),"Av Brig. Faria Lima, 2.232, 8? piso",-46.688696129295714,-23.5772602610746
+881,883,Shopping Center Iguatemi (Cinemark),"Av Brig. Faria Lima, 2.232, 8? piso",-46.688696129295714,-23.5772602610746
+882,884,Shopping Center Iguatemi (Cinemark),"Av Brig. Faria Lima, 2.232, 8? piso",-46.688696129295714,-23.5772602610746
+883,885,Shopping Center Iguatemi (Cinemark),"Av Brig. Faria Lima, 2.232, 8? piso",-46.688696129295714,-23.5772602610746
+884,886,Shopping Center Iguatemi (Cinemark),"Av Brig. Faria Lima, 2.232, 8? piso",-46.688696129295714,-23.5772602610746
+885,887,Shopping Center Iguatemi (Cinemark),"Av Brig. Faria Lima, 2.232, 8? piso",-46.688696129295714,-23.5772602610746
+886,888,Shopping Center Iguatemi (Playarte),"Av Brig. Faria Lima, 2.232",-46.688696129295714,-23.5772602610746
+887,889,Shopping Center Iguatemi (Playarte),"Av Brig. Faria Lima, 2.232",-46.688696129295714,-23.5772602610746
+888,890,Calcenter,"Av Brig. Faria Lima, 1.884",-46.689506163251515,-23.574039172982204
+889,891,Cinépolis JK Iguatemi,"Av Presidente Juscelino Kubitscheck, 2041, piso 4",-46.68976628890484,-23.591723351434258
+890,892,Cinépolis JK Iguatemi,"Av Presidente Juscelino Kubitscheck, 2041, piso 4",-46.68976628890484,-23.591723351434258
+891,893,Cinépolis JK Iguatemi,"Av Presidente Juscelino Kubitscheck, 2041, piso 4",-46.68976628890484,-23.591723351434258
+892,894,Cinépolis JK Iguatemi,"Av Presidente Juscelino Kubitscheck, 2041, piso 4",-46.68976628890484,-23.591723351434258
+893,895,Cinépolis JK Iguatemi,"Av Presidente Juscelino Kubitscheck, 2041, piso 4",-46.68976628890484,-23.591723351434258
+894,896,Cinépolis JK Iguatemi,"Av Presidente Juscelino Kubitscheck, 2041, piso 4",-46.68976628890484,-23.591723351434258
+895,897,Cinépolis JK Iguatemi,"Av Presidente Juscelino Kubitscheck, 2041, piso 4",-46.68976628890484,-23.591723351434258
+896,898,Cinépolis JK Iguatemi,"Av Presidente Juscelino Kubitscheck, 2041, piso 4",-46.68976628890484,-23.591723351434258
+897,899,Shopping Eldorado (Cinemark),"Av Rebouþas, 3.970",-46.6966142310444,-23.57288914921838
+898,900,Shopping Eldorado (Cinemark),"Av Rebouþas, 3.970",-46.6966142310444,-23.57288914921838
+899,901,Shopping Eldorado (Cinemark),"Av Rebouþas, 3.970",-46.6966142310444,-23.57288914921838
+900,902,Shopping Eldorado (Cinemark),"Av Rebouþas, 3.970",-46.6966142310444,-23.57288914921838
+901,903,Shopping Eldorado (Cinemark),"Av Rebouþas, 3.970",-46.6966142310444,-23.57288914921838
+902,904,Shopping Eldorado (Cinemark),"Av Rebouþas, 3.970",-46.6966142310444,-23.57288914921838
+903,905,Shopping Eldorado (Cinemark),"Av Rebouþas, 3.970",-46.6966142310444,-23.57288914921838
+904,906,Shopping Eldorado (Cinemark),"Av Rebouþas, 3.970",-46.6966142310444,-23.57288914921838
+905,907,Shopping Eldorado (Cinemark),"Av Rebouþas, 3.970",-46.6966142310444,-23.57288914921838
+906,908,Jockey Club de São Paulo,"Av Lineu de Paula Machado, 1.263",-46.69862931057432,-23.57983521055555
+907,909,Shopping SP Market (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.699215406081855,-23.67870594593792
+908,910,Shopping SP Market (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.699215406081855,-23.67870594593792
+909,911,Shopping SP Market (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.699215406081855,-23.67870594593792
+910,912,Shopping SP Market (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.699215406081855,-23.67870594593792
+911,913,Shopping SP Market (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.699215406081855,-23.67870594593792
+912,914,Shopping SP Market (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.699215406081855,-23.67870594593792
+913,915,Shopping SP Market (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.699215406081855,-23.67870594593792
+914,916,Shopping SP Market (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.699215406081855,-23.67870594593792
+915,917,Shopping SP Market (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.699215406081855,-23.67870594593792
+916,918,Shopping SP Market (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.699215406081855,-23.67870594593792
+917,919,Shopping SP Market (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.699215406081855,-23.67870594593792
+918,920,Shopping Market Place (Cinemark),"Av  Dr Chucri Zaidan, 902",-46.70010073813972,-23.621544504744232
+919,921,Shopping Market Place (Cinemark),"Av  Dr Chucri Zaidan, 902",-46.70010073813972,-23.621544504744232
+920,922,Shopping Market Place (Cinemark),"Av  Dr Chucri Zaidan, 902",-46.70010073813972,-23.621544504744232
+921,923,Shopping Market Place (Cinemark),"Av  Dr Chucri Zaidan, 902",-46.70010073813972,-23.621544504744232
+922,924,Shopping Market Place (Cinemark),"Av  Dr Chucri Zaidan, 902",-46.70010073813972,-23.621544504744232
+923,925,Shopping Market Place (Cinemark),"Av  Dr Chucri Zaidan, 902",-46.70010073813972,-23.621544504744232
+924,926,Shopping Market Place (Cinemark),"Av  Dr Chucri Zaidan, 902",-46.70010073813972,-23.621544504744232
+925,927,Shopping Market Place (Cinemark),"Av  Dr Chucri Zaidan, 902",-46.70010073813972,-23.621544504744232
+926,928,Biblioteca Mario Schenberg,"R Catão, 611",-46.70066181969189,-23.526656875595023
+927,929,Shopping Center Lapa (Centerplex),"R Catão, 72 quarto piso",-46.70107281329316,-23.521254798606694
+928,930,Shopping Center Lapa (Centerplex),"R Catão, 72 quarto piso",-46.70107281329316,-23.521254798606694
+929,931,Shopping Center Lapa (Centerplex),"R Catão, 72 quarto piso",-46.70107281329316,-23.521254798606694
+930,932,Shopping Boavista (Moviecom),"R Borba Gato, 59",-46.70137616336585,-23.655544797984927
+931,933,Shopping Boavista (Moviecom),"R Borba Gato, 59",-46.70137616336585,-23.655544797984927
+932,934,Shopping Boavista (Moviecom),"R Borba Gato, 59",-46.70137616336585,-23.655544797984927
+933,935,Shopping Boavista (Moviecom),"R Borba Gato, 59",-46.70137616336585,-23.655544797984927
+934,936,Shopping Boavista (Moviecom),"R Borba Gato, 59",-46.70137616336585,-23.655544797984927
+935,937,Biblioeca Belmonte,"R Paulo Eiro, 525",-46.70843319158463,-23.65058776101018
+936,938,Cinépolis Largo 13,"R Amador Bueno, 219",-46.71019818295907,-23.65252772124223
+937,939,Cinépolis Largo 13,"R Amador Bueno, 219",-46.71019818295907,-23.65252772124223
+938,940,Cinépolis Largo 13,"R Amador Bueno, 219",-46.71019818295907,-23.65252772124223
+939,941,Cinépolis Largo 13,"R Amador Bueno, 219",-46.71019818295907,-23.65252772124223
+940,942,Cinépolis Largo 13,"R Amador Bueno, 219",-46.71019818295907,-23.65252772124223
+941,943,Cinépolis Largo 13,"R Amador Bueno, 219",-46.71019818295907,-23.65252772124223
+942,944,Cinépolis Largo 13,"R Amador Bueno, 219",-46.71019818295907,-23.65252772124223
+943,945,Cinépolis Largo 13,"R Amador Bueno, 219",-46.71019818295907,-23.65252772124223
+944,946,Shopping Cidade Jardim (Cinemark),"Av MagalhÒes de Castro, 12.000",-46.71729211196218,-23.62755559277655
+945,947,Shopping Cidade Jardim (Cinemark),"Av Magalhães de Castro, 12.000",-46.71729211196218,-23.62755559277655
+946,948,Shopping Cidade Jardim (Cinemark),"Av Magalhães de Castro, 12.000",-46.71729211196218,-23.62755559277655
+947,949,Shopping Cidade Jardim (Cinemark),"Av Magalhães de Castro, 12.000",-46.71729211196218,-23.62755559277655
+948,950,Shopping Cidade Jardim (Cinemark),"Av Magalhães de Castro, 12.000",-46.71729211196218,-23.62755559277655
+949,951,Shopping Cidade Jardim (Cinemark),"Av Magalhães de Castro, 12.000",-46.71729211196218,-23.62755559277655
+950,952,Shopping Cidade Jardim (Cinemark),"Av Magalhães de Castro, 12.000",-46.71729211196218,-23.62755559277655
+951,953,Tietê Plaza Shopping,"Av. Raimundo Pereira de Magalhães, 1465",-46.71877390486133,-23.506478648399646
+952,954,Tietê Plaza Shopping,"Av. Raimundo Pereira de Magalhães, 1465",-46.71877390486133,-23.506478648399646
+953,955,Tietê Plaza Shopping,"Av. Raimundo Pereira de Magalhães, 1465",-46.71877390486133,-23.506478648399646
+954,956,Tietê Plaza Shopping,"Av. Raimundo Pereira de Magalhães, 1465",-46.71877390486133,-23.506478648399646
+955,957,Tietê Plaza Shopping,"Av. Raimundo Pereira de Magalhães, 1465",-46.71877390486133,-23.506478648399646
+956,958,Tietê Plaza Shopping,"Av. Raimundo Pereira de Magalhães, 1465",-46.71877390486133,-23.506478648399646
+957,959,Tietê Plaza Shopping,"Av. Raimundo Pereira de Magalhães, 1465",-46.71877390486133,-23.506478648399646
+958,960,Shopping Fiesta - Multicine Fiesta,"Av Guarapiranga, 752",-46.722023489471404,-23.665063863353136
+959,961,Shopping Fiesta - Multicine Fiesta,"Av Guarapiranga, 752",-46.722023489471404,-23.665063863353136
+960,962,Shopping Fiesta - Multicine Fiesta,"Av Guarapiranga, 752",-46.722023489471404,-23.665063863353136
+961,963,Shopping Fiesta - Multicine Fiesta,"Av Guarapiranga, 752",-46.722023489471404,-23.665063863353136
+962,964,Cineusp,"R do Anfiteatro, 181 favo, 4 Colmeia",-46.72203851596214,-23.55851998657483
+963,965,Shopping Villa-Lobos (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.72291247444742,-23.55104697486576
+964,966,Shopping Villa-Lobos (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.72291247444742,-23.55104697486576
+965,967,Shopping Villa-Lobos (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.72291247444742,-23.55104697486576
+966,968,Shopping Villa-Lobos (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.72291247444742,-23.55104697486576
+967,969,Shopping Villa-Lobos (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.72291247444742,-23.55104697486576
+968,970,Shopping Villa-Lobos (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.72291247444742,-23.55104697486576
+969,971,Shopping Villa-Lobos (Cinemark),"Av Nacões Unidas, 22.540 - bloco C",-46.72291247444742,-23.55104697486576
+970,972,Shopping Butantã Playarte,"Av Prof. Francisco Morato,  2.718",-46.72542378268512,-23.584694252894714
+971,973,Shopping Butantã Playarte,"Av Prof. Francisco Morato,  2.718",-46.72542378268512,-23.584694252894714
+972,974,Shopping Butantã Playarte,"Av Prof. Francisco Morato,  2.718",-46.72542378268512,-23.584694252894714
+973,975,Shopping Jardim Sul (UCI),"Av Giovanni Gronchi, 5.819",-46.73620135534486,-23.631226603588477
+974,976,Shopping Jardim Sul (UCI),"Av Giovanni Gronchi, 5.819",-46.73620135534486,-23.631226603588477
+975,977,Shopping Jardim Sul (UCI),"Av Giovanni Gronchi, 5.819",-46.73620135534486,-23.631226603588477
+976,978,Shopping Jardim Sul (UCI),"Av Giovanni Gronchi, 5.819",-46.73620135534486,-23.631226603588477
+977,979,Shopping Jardim Sul (UCI),"Av Giovanni Gronchi, 5.819",-46.73620135534486,-23.631226603588477
+978,980,Shopping Jardim Sul (UCI),"Av Giovanni Gronchi, 5.819",-46.73620135534486,-23.631226603588477
+979,981,Shopping Jardim Sul (UCI),"Av Giovanni Gronchi, 5.819",-46.73620135534486,-23.631226603588477
+980,982,Shopping Jardim Sul (UCI),"Av Giovanni Gronchi, 5.819",-46.73620135534486,-23.631226603588477
+981,983,Shopping Jardim Sul (UCI),"Av Giovanni Gronchi, 5.819",-46.73620135534486,-23.631226603588477
+982,984,Shopping Jardim Sul (UCI),"Av Giovanni Gronchi, 5.819",-46.73620135534486,-23.631226603588477
+983,986,Raposo Shopping (Cinemark),"Rod. Raposo Tavares, Km 14,5",-46.75139824150444,-23.587960252524464
+984,987,Raposo Shopping (Cinemark),"Rod. Raposo Tavares, Km 14,5",-46.75139824150444,-23.587960252524464
+985,988,Raposo Shopping (Cinemark),"Rod. Raposo Tavares, Km 14,5",-46.75139824150444,-23.587960252524464
+986,989,Raposo Shopping (Cinemark),"Rod. Raposo Tavares, Km 14,5",-46.75139824150444,-23.587960252524464
+987,990,Raposo Shopping (Cinemark),"Rod. Raposo Tavares, Km 14,5",-46.75139824150444,-23.587960252524464
+988,991,Raposo Shopping (Cinemark),"Rod. Raposo Tavares, Km 14,5",-46.75139824150444,-23.587960252524464
+989,992,Raposo Shopping (Cinemark),"Rod. Raposo Tavares, Km 14,5",-46.75139824150444,-23.587960252524464
+990,993,Shopping Campo Limpo,"Estrada do Campo Limpo, 459",-46.75772689119953,-23.64966375049
+991,994,Fábrica de Cultura  do Parque Belém,"Av. Celso Garcia, 2231",-46.58870590043684,-23.535010449153233
+992,995,Fábrica de Cultura de Brasilândia,"Rua General Penha Brasil, 2508",-46.67535877288375,-23.452727300775255
+993,996,Fábrica de Cultura de Capão Redondo,"Rua Bacia de São Francisco, s/n",-46.78725362675571,-23.678631034709472
+994,997,Fábrica de Cultura de Cidade de Tiradentes,"Rua Henriqueta Noguez Brieba, 281",-46.418778950713765,-23.568586729212136
+995,998,Fábrica de Cultura de Jaçanã,"Rua Raimundo Eduardo da Silva, 138",-46.57912116951508,-23.450666866061237
+996,999,Fábrica de Cultura de Jardim São Luís,"Rua Antônio Ramos Rosa,37",-46.74934086161398,-23.661675820996248
+997,1000,Fábrica de Cultura de Sapopemba,"Rua Augustin Luberti, 300",-46.488402455286,-23.614639437993244
+998,1001,Fábrica de Cultura de Vila Nova Cachoeirinha,"Rua Conselheiro Moreira de Barros, 3977",-46.65068954097381,-23.47538160486813
+999,1002,Fábrica de Cultura do Itaim Paulista,"Rua Estudantes da China, 500",-46.37257884383328,-23.50174461619972
+1000,1003,Instituto Cultural Arte em Construção - Instituto Pombas Urbanas,"R dos Metalúrgicos, 2.100",-46.39940870883083,-23.600926030056115
+1001,1004,Casa de Cultura de Vila Curuçá,"Rua Pedra Dourada, 65 - Jardim Rubru",-46.407646572215775,-23.526051522050803
+1002,1005,SESC Itaquera,Av Fernanda do Espírito Santo Alves,-46.469285864882245,-23.572008328908186
+1003,1006,Teatro Popular do SESI da Cidade  A. E. Carvalho,"R Deodato Saraiva da Silvam, 110",-46.47664079888624,-23.5358130748138
+1004,1007,Teatro Flávio Império,"R Prof. Alves Pedroso, 600",-46.52363344224684,-23.50111855867129
+1005,1008,Teatro Paulo Setúbal,"Av Renata , 163",-46.540581194696784,-23.571829920076663
+1006,1009,Shopping Penha,"R Dr João Ribeiro, 304 -1 piso",-46.547122046063045,-23.524146529157942
+1007,1010,Teatro Martins Penna,"Lg do Rosário, 20",-46.54873312437462,-23.525862573624803
+1008,1011,Teatro Eva Wilma,"R Antônio de Lucena, 146",-46.55042622652186,-23.543694657274333
+1009,1012,Espaço Cultural do Colégio Meta Lux,"Av Dr Eduardo Cotching, 678",-46.554418489682575,-23.56355777709423
+1010,1013,Teatro Drumon,"R Francisco Marengo, 1.470",-46.55880641335497,-23.55031661439539
+1011,1014,Shopping Anália Franco,"Av Rejente Feijo , 1.739",-46.55979053894448,-23.558975695053437
+1012,1015,Teatro Corinthians,"R São Jorge, 777",-46.56703842979328,-23.527239443357104
+1013,1016,Astros Sports Bar,"R Serra do Japi, 909",-46.568655609802946,-23.54731958837898
+1014,1017,Teatro Fernando Torres,"R Pe. Estevão Pernet, 588",-46.56935161377819,-23.54248855612982
+1015,1018,Shopping Sílvio Romero,"R Coelho Lisboa, 334",-46.57267665741914,-23.547339571489154
+1016,1019,Shopping Metrô Tatuapé,"Av Radial Leste, s/n",-46.576583731700666,-23.54147552397333
+1017,1020,SESC Belenzinho,"R Padre Adelino, 1000",-46.58429793945057,-23.544795489266374
+1018,1021,SESC Belenzinho,"R Padre Adelino, 1000",-46.58429793945057,-23.544795489266374
+1019,1022,Teatro Liceu Santa Cruz,"R Nicasio, 420",-46.58506813669622,-23.572216648099506
+1020,1023,Teatro do Clube Guapira,"R Dr José Camargo Aranha, 404",-46.588580422969635,-23.459547842084778
+1021,1024,CEU Heliopolis,"Av Estrada das Lágrimas, 2385",-46.592382676786094,-23.623089961423144
+1022,1025,Teatro Arthur Azevedo,"Av Paes de Barros, 955",-46.59714726787502,-23.563243527210528
+1023,1026,Shopping Mart Noivas,"R Chico Pontes, 1.500",-46.59874787912496,-23.509916168756163
+1024,1027,Armazém XIX,"R Mário Costa, 13",-46.59882709549378,-23.53356538382782
+1025,1028,Vila Maria ZÚlia,"R Cachoeira, esquina R dos Prazeres",-46.59948204962206,-23.533736370903263
+1026,1029,Espaço Cultural Fagulhas D'Arte,"R Bartolomeu de Torales, 200",-46.60046163110109,-23.473292913278904
+1027,1030,Casa de Teatro Maria José de Carvalho,"R Silva Bueno, 1533",-46.60131562413013,-23.592063731704002
+1028,1031,Galpão 10,"R Leocadia Cintra, 160",-46.60218833370466,-23.557380494323553
+1029,1032,Espaço Sobrevento,"R Cel. Albino BairÒo, 42",-46.60511730034797,-23.542152385786725
+1030,1033,Teatro Popular do SESI  Vila das Mercês,"R J·lio Felipe Guedes, 138",-46.60743613911728,-23.63344391980839
+1031,1034,Teatro Maria Imaculada,"Av Nazare, 711",-46.61009480050775,-23.590379641053467
+1032,1035,Teatro Anhembi Morumbi,"R Dr Almeida Lima, 1.176",-46.61088844186405,-23.551650394386467
+1033,1036,Sesc Santana,"Av Luiz Dumont Villares, 579",-46.61304599009207,-23.496570990784214
+1034,1037,Teatro  Jardim São Paulo (Colégio),"Av Leoncio de Magalhães, 382",-46.6156980760526,-23.497564035803702
+1035,1038,Porão das Artes,"Av Lins de Vasconcelos, 875",-46.622473906116134,-23.57109443351453
+1036,1039,Espaço Cultural Sest,"R Alfredo Guedes, 209",-46.624497283102926,-23.506166083403418
+1037,1040,Espaço Cultural Mater Magistra,"R Vigario Albernaz, 290",-46.62505725441293,-23.605000688464173
+1038,1041,Teatro APCD,"R Voluntários da Patria , 547",-46.62726241849787,-23.514947067246432
+1039,1042,Espaço Galpão Cinco,"R Almeida Torres, 119",-46.62866592243837,-23.567857401856948
+1040,1043,Teatro Alfredo Mesquita,"Av Santos Dumont, 1.770",-46.628742505850354,-23.51315703137914
+1041,1044,Estação 7,"R Alfredo Pujol, 381",-46.6298053364115,-23.500487944980303
+1042,1045,SESC Carmo,"R do Carmo, 147",-46.630215871260845,-23.551645281516567
+1043,1046,Oficna de Teatro Rosina Pagan,"Rua Dr. Lopes de Almeida, 223",-46.63190328234138,-23.59657957261301
+1044,1047,Espaço Cultural Classes Laboriosas,"R Roberto Simonsen,  22",-46.63200788511569,-23.549593306868907
+1045,1048,Casa da Imagem,"R Roberto Simonsen,  136B",-46.632278858106226,-23.54855730384585
+1046,1049,Fatec - Teatro,"Av Tiradentes, 615",-46.632723705455696,-23.529457099649832
+1047,1050,Caixa Cultural,"Pc da Sé, 111",-46.633076904121836,-23.5492012752355
+1048,1051,Teatro Lírico Equipe,"Pc Almeida J·nior., 86",-46.633530965042866,-23.557380316148773
+1049,1052,CadoPô,"R Afonso Pena, 272",-46.63414872322274,-23.529561160368175
+1050,1053,Teatro Paulinas,"R Dona Inácia Uchoa, 62",-46.63508021279827,-23.58556751296477
+1051,1054,Espaço das Artes,"R Domingos de Moraes, 1497",-46.635381329605984,-23.589188460742633
+1052,1055,Teatro Escola Célia Helena,"R Barão de Iguape, 113",-46.63613199529595,-23.55826728162913
+1053,1056,Cultura Inglesa Saúde,"R Paracatu, 531",-46.63667259264754,-23.621603735501957
+1054,1057,Teatro TAIB,"R TrÛs Rios, 246",-46.63680776749452,-23.52930113269972
+1055,1058,Casa do Povo,"Rua Três Rios, 252 - Bom Retiro",-46.63684080034335,-23.529145102382017
+1056,1059,Cultura Inglesa Vila Mariana,"R Madre Cabrini, 413",-46.638035424607494,-23.592251546887535
+1057,1060,Teatro Renault,"Av Brig. Luís Antônio, 411",-46.6384720026677,-23.55432222494158
+1058,1061,Teatro dos Arcos,"R Jandaia,  218",-46.63880603882494,-23.555396289330172
+1059,1062,Teatro Ressurreição,"R dos Jornalistas,  123",-46.63922992744854,-23.644740845358992
+1060,1063,Teatro Santo Agostinho,"R Apeninos, 118",-46.639313211950785,-23.569311396096555
+1061,1064,Teatro Imprensa,"R Jaceguai, 400",-46.640071111911794,-23.55525029430606
+1062,1065,Teatro Cosipa Cultura,"Av do Café, 277",-46.64023383694994,-23.634751767595144
+1063,1066,Cabare Picasso,"R àlvaro de Carvalho, 25",-46.640379011931884,-23.548838247965268
+1064,1067,Centro Cultural SãoPaulo,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+1065,1068,Centro Cultural SãoPaulo,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+1066,1069,Centro Cultural SãoPaulo,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+1067,1070,Centro Cultural SãoPaulo,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+1068,1071,Centro Cultural SãoPaulo,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+1069,1072,Centro Cultural SãoPaulo,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+1070,1073,Teatro Novo,"R Domingos de Moraes, 348",-46.640738273318796,-23.580502375264377
+1071,1074,Teatro do Sol,"Rua Damiana da Cunha, 413, Santa Terezinha",-46.64087153943156,-23.500505942503683
+1072,1075,Teatro Ziembinski,"R Martiniano de Carvalho, 97",-46.64118112272749,-23.55974026749453
+1073,1076,Espaço Redimunho,"Rua Álvaro de Carvalho, 75",-46.64127299097232,-23.548709253983937
+1074,1077,Teatro Brigadeiro,"Av Brig. Luís Antônio, 884",-46.64141008782602,-23.55763830957709
+1075,1078,Teatro Jardel Filho,"Av Brig. Luiz Antônio, 884",-46.64141008782602,-23.55763830957709
+1076,1079,Centro Cultural Copobianco,"R Álvaro de Carvalho, 97",-46.64147298956851,-23.54873125386278
+1077,1080,Teatro Oficina,"R Jaceguai, 520",-46.641492050644864,-23.555074288451905
+1078,1081,Teatro Oficina,"R Jaceguai, 520",-46.641492050644864,-23.555074288451905
+1079,1082,Vila Itororó,"Rua Pedroso, 238",-46.64151316723607,-23.562479257125876
+1080,1083,Espaço dos Fofos Encenam,"R Adoniran Barbosa, 151",-46.641753129135054,-23.555927241451855
+1081,1084,Teatro Popular União e Olho Vivo,"R Newton Prado, 766",-46.641823754828195,-23.521307028374967
+1082,1085,Casarão do Belvedere,"R Pedroso, 267",-46.641876218029104,-23.562739287299948
+1083,1086,Espaço e Cia. Do Pássaro Voo e Teatro,"Rua Álvaro de Carvalho, 177",-46.642253084475875,-23.548999253987187
+1084,1087,Teatro Bela Vista,"R Major Diogo, 547",-46.64289209657036,-23.556046239162637
+1085,1088,Teatro Bela Vista,"R Major Diogo, 547",-46.64289209657036,-23.556046239162637
+1086,1089,Casa da Dona Yaya,"R Major Diogo, 353",-46.643088092651915,-23.554383228490234
+1087,1090,TBC - Teatro Brasileiro de Comédia,"R Major Diogo, 315",-46.64310614483118,-23.553960239956574
+1088,1091,TBC - Teatro Brasileiro de Comédia,"R Major Diogo, 315",-46.64310614483118,-23.553960239956574
+1089,1092,TBC - Teatro Brasileiro de Comédia,"R Major Diogo, 315",-46.64310614483118,-23.553960239956574
+1090,1093,TBC - Teatro Brasileiro de Comédia,"R Major Diogo, 315",-46.64310614483118,-23.553960239956574
+1091,1094,TBC - Teatro Brasileiro de Comédia,"R Major Diogo, 315",-46.64310614483118,-23.553960239956574
+1092,1095,Jaraguá (Novotel Jaraguá),"R Martins Fontes, 71",-46.6432930907884,-23.548522214100345
+1093,1096,Casarão da Escola Paulista de Restauro,"R Major Diogo, 91",-46.64329711406477,-23.551972191818937
+1094,1097,Teatro Marcos Lindenberg,"R Botucatu, 862",-46.643304543199726,-23.599245510974253
+1095,1098,Teatro João Caetano,"R Borges Lagoa, 650",-46.643344577842086,-23.59674253864876
+1096,1099,Teatro Pirandello,"R Major Diogo, 578",-46.643417130329944,-23.55631223051555
+1097,1100,Teatro Engenho de Arte,"R Major Diogo, 128",-46.643790154996395,-23.552384269586156
+1098,1101,Teatro Itália,"Av Ipiranga, 344",-46.64386603357475,-23.545382197662402
+1099,1102,Teatro Fernando Azevedo,"Pc da República, 53",-46.64397707532863,-23.544151188940955
+1100,1103,Teatro Macunaima,"R Fortaleza, 68",-46.64410816255209,-23.55960431535854
+1101,1104,Teatro Macunaima,"R Fortaleza, 68",-46.64410816255209,-23.55960431535854
+1102,1105,Teatro Macunaima,"R Fortaleza, 68",-46.64410816255209,-23.55960431535854
+1103,1106,Liceu Coração de Jesus,"Al. Nothmann,233",-46.64418394387563,-23.53137005077427
+1104,1107,Sede Luz do Faroeste,"Rua do Triunfo, 305",-46.64418785751897,-23.529873056115928
+1105,1108,SESC Vila Mariana,"R Pelotas, 141",-46.644389448347056,-23.582490427827047
+1106,1109,Theatro Cabaret Ribalta,"R Conselheiro Ramalho, 673",-46.64451716555905,-23.557804229196908
+1107,1110,Espaço Cultural Pinho de Riga,"R Conselheiro Ramalho, 599",-46.64462115023783,-23.557218238404225
+1108,1111,Teatro Bella,"R Rui Barbosa, 399",-46.64522721567783,-23.558979230220995
+1109,1112,Teatro Sérgio Cardoso,"R Rui Barbosa, 153",-46.64523617699923,-23.556663232206237
+1110,1113,Teatro Sérgio Cardoso,"R Rui Barbosa, 153",-46.64523617699923,-23.556663232206237
+1111,1114,Teatro Sérgio Cardoso,"R Rui Barbosa, 153",-46.64523617699923,-23.556663232206237
+1112,1115,Casa de Gioconda,"R Conselheiro Carrão, 288",-46.6453421938752,-23.557530280480147
+1113,1116,Top Teatro,"Rua Rui Barbosa, 201 - Bela Vista",-46.64541216882518,-23.55722621309186
+1114,1117,Teatro do Clube Helvetia,"Av Indianópolis, 3145",-46.64547184170969,-23.62427669823131
+1115,1118,Teatro Hilton,"Av Ipiranga, 165",-46.645596104349046,-23.546285170619736
+1116,1119,Teatro Santa Catarina,"Av Paulista, 200",-46.645609280632186,-23.56966232115334
+1117,1120,Teatro Ágora,"R Rui Barbosa, 672",-46.6456712794549,-23.561621301004028
+1118,1121,Ópera,"R Rui Barbosa, 266",-46.64597822354053,-23.558008292479773
+1119,1122,Teatro Horizonte,"R BarÒo de Campinas, 308",-46.64611497754351,-23.53784114925247
+1120,1123,Teatro Cultura Artística,"R Nestor Pestana, 196",-46.64611715083307,-23.549135211033732
+1121,1124,Espaço Cultura Galharufa,"Pc Franklin Roosevelt, 82",-46.64625911626724,-23.548320170498485
+1122,1125,SP Escola de Teatro,"Pça. Roosevelt, 210 - Consolação",-46.64628216254227,-23.54816514756364
+1123,1126,Miniteadro,"Pc Franklin Roosevelt, 108",-46.646348100204555,-23.548465157734086
+1124,1127,Teatro Mars,"R João Passalacqua, 80",-46.646406143888875,-23.553830241734744
+1125,1128,Teatro Pequeno Alto,"R Teodoro Baima, 78",-46.64645609765675,-23.546677193280825
+1126,1129,Espaço dos Parlapatões,"Pc Franklin Roosevelt, 158",-46.646469153248404,-23.548786166667426
+1127,1130,Teatro Aliança Francesa,"R Gal Jardim, 182",-46.64649509603894,-23.544587173687358
+1128,1131,Teatro Aliança Francesa,"R Gal Jardim, 182",-46.64649509603894,-23.544587173687358
+1129,1132,Companhia do Feijão,"R Teodoro Baima, 68",-46.64650913549787,-23.546610168905804
+1130,1133,Teatro do Ator,"Pc Roosevelt, 172",-46.64654117127019,-23.54900023439828
+1131,1134,Espaço Cultural dos Satyros,"Pc Roosevelt, 214",-46.646551165482634,-23.549409200061863
+1132,1135,Espaço Satyros 2,"Pc Franklin Roosevelt ,  214",-46.6465511283501,-23.54940622046416
+1133,1136,Teatro Studio Heleny Guariba,"Pç. Roosevelt, 184",-46.646568150362796,-23.549082214542103
+1134,1137,Teatro de Arena Eugênio Kusnet,"R Teodoro Baima, 94",-46.646610073496326,-23.54694421382077
+1135,1138,Clube Glória,"R Treze de Maio, 830",-46.64670628935255,-23.56061123152746
+1136,1139,Espaço Cultural dos Bancários,"R Carlos Sampaio, 305",-46.64678128528893,-23.568336274789985
+1137,1140,Espaço Cultural Lelia Abramo,"R Carlos Sampaio, 305",-46.64678128528893,-23.568336274789985
+1138,1141,Teatro Ruth Escobar,"R dos Inglêses, 209",-46.64703826382253,-23.55978523811794
+1139,1142,Teatro Ruth Escobar,"R dos Inglêses, 209",-46.64703826382253,-23.55978523811794
+1140,1143,Teatro Ruth Escobar,"R dos Inglêses, 209",-46.64703826382253,-23.55978523811794
+1141,1144,V Ëpera,"R Gal Jardim, 233",-46.64710112833717,-23.544958132019296
+1142,1145,N. Ex T N·cleo Experimental de Teatro,"R Rego Freitas, 454",-46.64715712942659,-23.54589117934462
+1143,1146,Maquinaria,"R Treze de Maio, 240 , 2 andar",-46.64726015931258,-23.555223235415678
+1144,1147,Teatro da Vertigem,"R Treze de Maio, 240, 1? andar",-46.64726015931258,-23.555223235415678
+1145,1148,Espaço Elevador,"R Treze de Maio, 222",-46.64727024171848,-23.555136257421637
+1146,1149,"Casa, Café e Teatro","R Treze de Maio, 176",-46.64731517888038,-23.55470223816947
+1147,1150,Casa e Teatro Grupo Gattu,"R dos Inglêses,182",-46.64741529432625,-23.559697261471342
+1148,1151,Espaço Incenna,"Rua Bagé, 308",-46.64766348245483,-23.584609445528002
+1149,1152,Teatro Lucas Pardo Filho,"R Gravatai, 47",-46.64784911037726,-23.54901419311984
+1150,1153,Studio Piollin,"R Santo Antônio, 1319",-46.64808822967376,-23.55633321904597
+1151,1154,Teatro Paiol,"R Amaral Gurgel, 164",-46.64829307538653,-23.543293144118763
+1152,1155,Galpão do Folias,"R Ana Cintra, 213",-46.64841304994969,-23.538517112723977
+1153,1156,Espaço Cultural Santa Cecília,"R Frederico Abranches, 118",-46.64900607282359,-23.54059510594871
+1154,1157,O Lugar,"R Augusta,325",-46.649348218173465,-23.551230220626675
+1155,1158,Club Noir,"R Augusta,331",-46.649414183663765,-23.551053159830772
+1156,1159,União Cultural Brasil Estados Unidos,"R Cel. Oscar Porto, 208",-46.649470457272415,-23.572105334367603
+1157,1160,Biblioteca Monteiro Lobato,"R Gal Jardim, 485",-46.649495184223206,-23.545050152521288
+1158,1161,Teatro Maria Della Costa,"R Paim, 72",-46.64959928208065,-23.554635217074228
+1159,1162,Café Concerto Uranus,"R Dr Carvalho de Mendonca, 40",-46.6498850040441,-23.534039104904497
+1160,1163,Teatro Uniban,"Av Rudge, 315",-46.649885931560554,-23.525541054074292
+1161,1164,Teatro das Nações,"Av São João, 1.737",-46.649931125114314,-23.537562140547227
+1162,1165,Teatro das Nações,"Av São João, 1.737",-46.649931125114314,-23.537562140547227
+1163,1166,Teatro Bibi Ferreira,"Av Brig. Luís Antônio, 931",-46.650002063344594,-23.537572134167895
+1164,1167,Café Teatro e Cia.,"R Dr Vila Nova, 241",-46.65032513839078,-23.545962164166642
+1165,1168,Teatro Escola Macunaima,"R Adolfo Gordo, 238",-46.650404032334365,-23.532355051245467
+1166,1169,Teatro Escola Macunaima,"R Adolfo Gordo, 238",-46.650404032334365,-23.532355051245467
+1167,1170,Teatro Escola Macunaima,"R Adolfo Gordo, 238",-46.650404032334365,-23.532355051245467
+1168,1171,SESC Consolação,"R Dr Vila Nova, 245",-46.6505061959623,-23.546099128230395
+1169,1172,SESC Consolação,"R Dr Vila Nova, 245",-46.6505061959623,-23.546099128230395
+1170,1173,SESC Consolação,"R Dr Vila Nova, 245",-46.6505061959623,-23.546099128230395
+1171,1174,Funarte,"Al Nothmann, 1.058",-46.651118100446034,-23.53535004247638
+1172,1175,Funarte,"Al Nothmann, 1.058",-46.651118100446034,-23.53535004247638
+1173,1176,Funarte,"Al Nothmann, 1.058",-46.651118100446034,-23.53535004247638
+1174,1177,TUSP,"R Maria Antônia, 294 -1? andar",-46.651207160145404,-23.546125189641103
+1175,1178,Tusp - Sala Plínio Marcos,"R Maria Antônia, 294",-46.651207160145404,-23.546125189641103
+1176,1179,Teatro e Bar CemitÚrio de Autom¾veis,"R Frei Caneca, 384",-46.65142329137684,-23.55261818039196
+1177,1180,Estação Caneca,"R Frei Caneca, 384",-46.651436280173115,-23.55260720612821
+1178,1181,Casas 5PSA,"R Frederico Abranches, 415",-46.65154114123983,-23.539131132812557
+1179,1182,Teatro Gazeta,"Av Paulista, 886 Conj. 920",-46.65166442040606,-23.565382224417256
+1180,1183,Chácara Lane,"Rua da Consolação, 1024",-46.65177318331601,-23.54819911904422
+1181,1184,Espaço Cuca - Teatro,"R Anhanguera,484",-46.65210097038377,-23.523544979276224
+1182,1185,Teatro Raul Cortez,"R Dr Plinio Barreto, 285",-46.6524063380166,-23.55794018978117
+1183,1186,Teatro Nair Belo,"R Frei Caneca, 569, 3? piso",-46.65279728984258,-23.554104228228095
+1184,1187,Teatro Shopping Frei Caneca,"R Frei Caneca, 569 - 6? andar",-46.65279728984258,-23.554104228228095
+1185,1188,Castelinho,"R Apa, 236",-46.652799125182476,-23.535275030744014
+1186,1189,Casa Livre,"R dos Pirineus, 107",-46.65292913425008,-23.534150103117543
+1187,1190,Teatro do Incêndio,"Rua da Consolação, 1219",-46.65295229720261,-23.54959819988427
+1188,1191,Teatro Commune,"R da Consolação, 1218",-46.65322424907789,-23.549045185708767
+1189,1192,Frey Café & Coisinhas,"R Frei Caneca, 703",-46.654115291717545,-23.554198213473377
+1190,1193,Teatro Júlia Bergmann,"R Cruzeiro, 256",-46.654187059858344,-23.525205974105
+1191,1194,Centro Cultural FIESP,"Av Paulista, 1.313",-46.65475847299178,-23.56359528049757
+1192,1195,Teatro Augusta,"R Augusta, 943",-46.654863321551424,-23.55350521905472
+1193,1196,Teatro Augusta,"R Augusta, 943",-46.654863321551424,-23.55350521905472
+1194,1197,L'Osteria del Gale,"R Pamplona, 957",-46.656084447868345,-23.566160281893094
+1195,1198,Comedians,"R Augusta, 1129",-46.656155358763925,-23.554349154137714
+1196,1199,Centro Internacional de Teatro - Ecum,"R da Consolação, 1623",-46.65625030888928,-23.55157811611204
+1197,1200,Centro Internacional de Teatro - Ecum,"R da Consolação, 1623",-46.65625030888928,-23.55157811611204
+1198,1201,Centro Internacional de Teatro - Ecum,"R da Consolação, 1623",-46.65625030888928,-23.55157811611204
+1199,1202,Casa Laboratório,"R Conselheiro Brotero, 182",-46.656364137375704,-23.52891204787776
+1200,1203,Casa Laboratório para as Artes do Teatro,"R Conselheiro Brotero, 182",-46.656364137375704,-23.52891204787776
+1201,1204,Cultura Inglesa Higienópolis,"Av Higienópolis, 449",-46.656647291591966,-23.54412312159679
+1202,1205,Museu de Arte Moderna - MAM,"Pq. Ibirapuera, s/n - PortÒo 3",-46.65675370886801,-23.588215406703235
+1203,1206,Teatro do N·cleo Experimental,"R Barra Funda, 637",-46.657179187676086,-23.52926503184601
+1204,1207,Beverlly Hills,"Av Jurucê, 1001",-46.657664016315664,-23.612372549199907
+1205,1208,Espaço Cultural Livre,"R Pamplona, 1.213",-46.65774249487006,-23.567891217514955
+1206,1209,Shopping Pátio Higienópolis - Livraria da Vila,"Av Higienópolis, 618",-46.65774625811603,-23.542271137690683
+1207,1210,Teatro Folha (Shopping Pßtio Higienópolis),"Av Higienópolis, 618 - piso 2",-46.65774625811603,-23.542271137690683
+1208,1211,DJ Club,"Al Franca, 241",-46.65791252234753,-23.567248258070826
+1209,1212,MAM Higienópolis,"Av Higienópolis, 698",-46.65817632318094,-23.54252707599701
+1210,1213,Espaço Cênico Teatrix,"R Peixoto Gomide, 1066",-46.65912848863746,-23.562307219647867
+1211,1214,Teatro Eva Herz (Livraria Cultura),"Av Paulista, 2073 - Conjunto Nacional",-46.66050652163214,-23.559082170932463
+1212,1215,Teatro Renaissance,"Al Santos, 2.233",-46.66249454907624,-23.5588981981285
+1213,1216,Puri,"R Augusta, 2052",-46.6629875322506,-23.560030190238
+1214,1217,Faap,"R Alagoas, 903",-46.66322337956055,-23.544825110502547
+1215,1218,Teatro Laura Abramo  (Faculdade Santa Marcelina),"R Dr Emílio Ribas, 89",-46.66525640942047,-23.536165040539995
+1216,1219,Memorial da América Latina,"Av Auro Soares de Moura Andrade, 664",-46.66580124671247,-23.527619947140984
+1217,1220,Espaço Cultural Vitrine,"R Augusta, 2.530",-46.66607362201325,-23.563248197645766
+1218,1221,Shouk,"R Padre João Manuel, 1069",-46.666647672509555,-23.566196181789927
+1219,1222,Jogo Estúdio,"R Inocêncio Unhate, 120",-46.670729484115206,-23.542602069159123
+1220,1223,Mr. Blues Bar,"Av São Gabriel, 558",-46.67102288070343,-23.57833028965239
+1221,1224,Espaço Lazuli,"R Turiaçu, 799",-46.67115238904265,-23.532992993235197
+1222,1225,Faculdade de Medicina da USP,"R Dr Arnaldo, 455",-46.67119561213143,-23.555201145082787
+1223,1226,Tuca,"R Monte Alegre, 1024",-46.67138047588971,-23.53849996731671
+1224,1227,Tuca,"R Monte Alegre, 1024",-46.67138051470554,-23.538503037171406
+1225,1228,Livraria Cortez,"R Bartira, 317",-46.672054492059424,-23.538962025383384
+1226,1229,Spaco Insights,"R Pintassilgo, 405",-46.6731731930839,-23.603286444214167
+1227,1230,Oficina de Atores Nilton Travesso,"R Capote Valente, 667",-46.67708073385539,-23.556075122739255
+1228,1231,Teatro J. Safra,"Rua Josef Kryss, 318 - Pq. Industrial Tomás Edson",-46.677353350949026,-23.516946873065358
+1229,1232,Apartamento Byod,"R Oscar Freire, 2298",-46.67751371363822,-23.552852097933847
+1230,1233,AmadoDito Fábrica de Arte,"R Aimberê, 236",-46.678621538741496,-23.532899960608997
+1231,1234,Cachacaria Pompeia,"Av Nicolas Boer, 120",-46.6790254650611,-23.520280863062048
+1232,1235,Teatro Exxex,"R Clodomiro Amazonas, 99",-46.67995805134229,-23.585141292004057
+1233,1236,Oggi Cucina & Vino,"Av Brig. Faria Lima, 4.433",-46.68014421344024,-23.595115315702238
+1234,1237,Teatro do Centro da Terra,"R Piracuama, 19",-46.680196602609,-23.540591039964095
+1235,1238,Viga Espaço CÛnico,"R Capote Valente, 1323",-46.68070976440384,-23.551282101815325
+1236,1239,SESC Interlagos,"Av Manuel Alves Soares, 1.100",-46.681071890437536,-23.72760124795579
+1237,1240,Teatro Bradesco - Bourbon Shopping,"R Turiaçu, 2100 - 3 piso",-46.68111951487446,-23.526577867456634
+1238,1241,Instituto Goethe,"R Lisboa, 974",-46.68194587399357,-23.55605508737033
+1239,1242,Central das Artes,"Rua Apinagés, 1081, subsolo 1 - Perdizes",-46.682142669884236,-23.54029097862116
+1240,1243,Teatro Oswaldo Aranha,"R Florida, 108",-46.68257848570876,-23.616243526577918
+1241,1244,Espaço 2 das Artes (Shopping Pompeia Nobre),"R Clélia, 33 - 2 piso",-46.68314751122275,-23.5256289104785
+1242,1245,Teatro Plinio Marcos (Shopping Pompeia Nobre),"R ClÚlia, 33 - 2  piso",-46.68314751122275,-23.5256289104785
+1243,1246,Viradalata,"Rua Apinagés, 1387 - Sumaré",-46.68366471052398,-23.54252700105381
+1244,1247,Viradalata,"Rua Apinagés, 1387 - Sumaré",-46.68366471052398,-23.54252700105381
+1245,1248,Indac,"Cel. Melo de Oliveira , 188",-46.68417462814822,-23.53394091987567
+1246,1249,Teatro Dcio de Almeida Prado,"R Cojuba, 45A - Itaim Bibi",-46.68446214710575,-23.58697133474319
+1247,1250,Theatro Net São Paulo,"R Olimpíadas, 360",-46.687031340155194,-23.595746370529017
+1248,1251,Globe - São Paulo - Teatro,"R Cap. Prudente, 173",-46.687212077083906,-23.56839615131576
+1249,1252,Teatro Vento Forte,"R Brig. Haroldo Veloso, 150",-46.687565182214186,-23.586216245532903
+1250,1253,Centro Cultural Rio Verde,"R Belmiro Braga, 119",-46.68757296777057,-23.559750122147342
+1251,1254,Espaço Cultural Puxadinho da Praça,"Rua Belmiro Braga, 216 - Pinheiros",-46.68772092960396,-23.55891810442416
+1252,1255,Espaço Magma,"R Aspicuelta, 227",-46.6879358927989,-23.556852112680577
+1253,1256,Teatro Dell'Arte,"R João Pais, 83",-46.68806064769922,-23.62964260949501
+1254,1257,Espaço Cultural Arte Gullik,"Av Pompeia, 1.227",-46.688213730245415,-23.534904918709106
+1255,1258,Instituto Jovem,"R Cardeal Arcoverde, 1838",-46.689309978056585,-23.561925131764735
+1256,1259,Teatro da Vila,"R Jericó, 256",-46.689436920628346,-23.55118005386506
+1257,1260,Núcleo Bartolomeu,"R Dr Augusto de Miranda, 786",-46.689625650225175,-23.530084914352074
+1258,1261,Studio das Artes,"R Dr Augusto de Miranda, 786",-46.689625650225175,-23.530084914352074
+1259,1262,Teatro Santander,"Av. Pres. Juscelino Kubitschek, 2041",-46.689824348144406,-23.591689308511405
+1260,1263,Teatro Indac,"R AmÚrico Jacomino, 63",-46.69128388666298,-23.54713804552883
+1261,1264,Espaço Cultural Bambu Brasil,"R Purpurina,  272",-46.691300972454016,-23.553622042456926
+1262,1265,Inbox Cultural,"Rua Teodoro Sampaio, 2355",-46.69149408237967,-23.565609155705832
+1263,1266,Estúdio Teatro 344,"R Deputado Lacerda Franco, 344",-46.6915440525796,-23.56216912753224
+1264,1267,Teatro Brincante,"R Purpurina, 429",-46.69234499498269,-23.554641023258434
+1265,1268,GAG - Grupo de Arte Global,"R Tito, 79",-46.69276577158692,-23.528506904613554
+1266,1269,Instituto Tomie Otake,"Rua Coropés, 88",-46.69481107073418,-23.561363100060905
+1267,1270,Complexo Ohtake Cultural,"Rua Coropés, 88",-46.694881054339334,-23.561244132955593
+1268,1271,Teatro da Garagem,"R Silveira Rodrigues, 331C",-46.69492976695068,-23.5331689174221
+1269,1272,Teatro Cacilda Becker,"R Tito, 295",-46.695017739642736,-23.52844889284667
+1270,1273,Tendal da Lapa,"R Guaicurus, 1.100",-46.696417677931315,-23.522328805438168
+1271,1274,Teatro das Artes (Shopping Eldorado),"Av Rebouças,  3.970 Terceiro Piso",-46.69661523728645,-23.572891215157924
+1272,1275,Espaço Cultural Pulsarte,"R Pereira Leite, 55",-46.69727090418776,-23.542025984563058
+1273,1276,Espaço Cultural Rudolf Steiner,R da Fraternidade 156,-46.69791699299039,-23.642259649681833
+1274,1277,Estação Ciência - USP,"R Guaicurus, 1.274",-46.69851577319121,-23.521041795505276
+1275,1278,Espaço Cultural Vivo,"Av Dr Chucri Zaidan, 860",-46.69972481325593,-23.622168534286057
+1276,1279,Paideia,"R Darwin, 153",-46.70004215189137,-23.655201751711093
+1277,1280,Teatro Paulo Eiró,"Av Adolfo Pinheiro, 765",-46.70217105185647,-23.646728571467538
+1278,1281,Biblioteca Prestes Maia,"Av João Dias, 822",-46.709006096929755,-23.64512273210334
+1279,1282,Teatro Leopoldo Fróes,"Rua Antônio Bandeira, 114 - Vila Cruzeiro",-46.70909717085557,-23.64540274176943
+1280,1283,Teatro Humboldt,"Av Eng. Alberto Kuhlmann,  525",-46.71012972440619,-23.68755800874156
+1281,1284,Teatro Alfa-Real,"R Bento Branco de Andrade Filho, 722",-46.72137541466573,-23.65110671434762
+1282,1285,Laboratório ECA,"Av Prof.Luciano Gualberto -TR Av J,  215",-46.72464652251018,-23.557958039203694
+1283,1286,Laboratório ECA,"Av Prof.Luciano Gualberto -TR Av J,  215",-46.72464652251018,-23.557958039203694
+1284,1287,Teatro Popular do SESI  Vila Leopoldina,"R Carlos Weber, 835",-46.72966632219636,-23.527695729968883
+1285,1288,Teatro UMC,"Av. Imperatriz Leopoldina, 550",-46.73430437042036,-23.527838713029418
+1286,1289,Espaço Vizinho Legal,"Rua Barcelona, 412",-46.7475847945179,-23.544848851487327
+1287,1290,Espaço Cultural SEST/SENAT,"Av. Cândido Portinari, 1100 - Vila Jaguara",-46.7562095720062,-23.506566486376737
+1288,1291,Continental Shopping Center,"Av Leão Machado, 100 - 3 piso",-46.757464967891835,-23.547729883489122
+1289,1292,Continental Shopping Center,"Av Leão Machado, 100 - 3 piso",-46.757464967891835,-23.547729883489122
+1290,1293,Engenho Teatral,Lg do Campo Limpo s/n,-46.77396695416645,-23.633878674442975
+1291,1294,CEMUCAN,"R Mesopotânea, s/n Km 25 da Raposo Tavares",-46.83901862002521,-23.597763179258198
+1292,1295,Audio Club,"Av. Francisco Matarazzo, 694",-46.66987936080971,-23.52840097423145
+1293,1296,Casa de Cultura de São Miguel Paulista,"R Irineu Bonardi, 169",-46.43764794911762,-23.49532004559235
+1294,1297,Expresso Brasil,"Av Aricanduva, 11.500",-46.490137301510266,-23.584578244483428
+1295,1298,O Canal,"R dona Cecília de Santana, 481",-46.51679042151329,-23.51753363618285
+1296,1299,Lua Nova - Recanto dos Cantadores,"R Conselheiro Carrão, 451",-46.55428027449789,-23.538915597296814
+1297,1300,Led Slay,"Av Celso Garcia, 5765",-46.55774627858973,-23.53046851031041
+1298,1301,Shopping Anália Franco,"Av Regente Feijó, 1.739",-46.55979053894448,-23.558975695053437
+1299,1302,Stones Music Bar,"Av Prof. Luís Ignácio de Anhaia Melo, 2935",-46.565763790308466,-23.58230084108723
+1300,1303,Maavah Bar,"Rau Airi,16",-46.56934958949387,-23.5393805431078
+1301,1304,Talking Jazz Music Club,"R Coelho Lisboa, 686",-46.57203872381057,-23.550422623021085
+1302,1305,Cassiano Ricardo,"Av Celso Garcia, 4.200",-46.57220859216172,-23.536151530280865
+1303,1306,Black Steel Bar,"R Coelho Lisboa, 398",-46.57252470927721,-23.547757594756714
+1304,1307,SESC Belenzinho,"R Padre Adelino, 1000",-46.58429793945057,-23.544795489266374
+1305,1308,Fofinho Rock Bar,"Av Celso Garcia, 2728",-46.58620289835894,-23.536207422082505
+1306,1309,Instituto de Artes Unesp,"R Dom Luís Lasanha, 400",-46.610180784720015,-23.591274649833146
+1307,1310,Bar Taberna Sherwood,"Av Luís Dumont Villares,  1.012",-46.611447955841896,-23.493168055277057
+1308,1311,Consulado da Cerveja,"R Eduardo Espínola Filho, 70",-46.611705051969416,-23.495371989606546
+1309,1312,Saint Patrick's Pub,"Av Luiz Dumont Villares, 655",-46.612615040584565,-23.4960700180432
+1310,1313,Teatro Jardim São Paulo,"Av Leôncio de Magalhães, 382",-46.6156980760526,-23.497564035803702
+1311,1314,Empório Vergueiro,"R Vergueiro, 6.386",-46.61585504781676,-23.6019426472059
+1312,1315,Cervejaria Polo Norte,"Av Nova Cantareira, 4.077",-46.617067878190674,-23.46467270484276
+1313,1316,Novo Hotel Center Norte,"Av Zaki Narchi, 500",-46.62049627075688,-23.511955078139206
+1314,1317,Café Concerto Cultura Inglesa Santana,"R Duarte de Azevedo, 550",-46.620847206895874,-23.50137800029768
+1315,1318,Santana Hall,"Av Cruzeiro do Sul, 2.737",-46.6256673293576,-23.507010043774205
+1316,1319,Fim do Mundo Bar & Espaço da Cultura,"R Alfredo Pujol, 403",-46.63005538187036,-23.500508987815245
+1317,1320,SESC Carmo,"R do Carmo, 147",-46.630215871260845,-23.551645281516567
+1318,1321,Galpão Tiradentes,"Av Tiradentes, 846",-46.63081661369382,-23.528676107226723
+1319,1322,Clube Espéria,"Av Santos Dumont, 1.313",-46.63166949942781,-23.516856100820384
+1320,1323,Hangar  110,"R Rodolfo Miranda, 110",-46.632540660013966,-23.52558509376422
+1321,1324,Pinacoteca do Estado,"Pc da Luz, 2",-46.63418178209151,-23.534376147566764
+1322,1325,Monsteiro de São Bento - Teatro,"R São Bento, s/n",-46.634355872774336,-23.54372025283524
+1323,1326,Bunkyo - Sociedade Brasileira de Cultura Japonesa e AssistÛncia Social,"R São Joaquim, 381 - 7 e 9 andares",-46.63556402779627,-23.560830367852276
+1324,1327,Cine Joia,"Praça Carlos Gomes,82",-46.63606096165934,-23.55341830609232
+1325,1328,Kitsch Club,"R Vergueiro, 2676",-46.63664225794852,-23.585310494983307
+1326,1329,Teatro Fecap (Fundação Escola de Comércio Álvares Penteado),"Av Liberdade,532",-46.63752001607757,-23.55732931946281
+1327,1330,Casa de Portugal,"Av Liberdade, 602",-46.637694007552845,-23.557907321853676
+1328,1331,Bar Brahma Aeroclube - Campo de Marte,"Av Olavo Fontoura, 650",-46.63821165553941,-23.512441990602795
+1329,1332,Auditório Elis Regina - Palácio das Convenções Anhembi,"Av Olavo Fontoura, 1209",-46.64015667197174,-23.51577799669125
+1330,1333,Clube Caravaggio,"R Álvaro de Carvalho, 40",-46.640214990956785,-23.548629210988338
+1331,1334,Sesc 24 de Maio,"Rua 24 de Maio, 208",-46.640223967997294,-23.54428617500897
+1332,1335,Sesc 24 de Maio,"Rua 24 de Maio, 208",-46.640223967997294,-23.54428617500897
+1333,1336,Centro Cultural São Paulo,"R Vergueiro, 1.000",-46.6405422191465,-23.570383323537595
+1334,1337,Bar Brahma,"Av São João, 677",-46.64108400502077,-23.542341187055897
+1335,1338,Acústica São Paulo,"R Martiniano de Carvalho, 266",-46.64202817356312,-23.561078278577863
+1336,1339,Biblioteca Mario de Andrade,"R da Consolação, 94",-46.64230898818349,-23.547271169125086
+1337,1340,Holiday Inn Parque Anhembi,"R Prof. Milton Rodrigues, 100",-46.642674728086284,-23.516814044106393
+1338,1341,SESC Bom Retiro,"Al. Nothmann, 185",-46.64353494759695,-23.531106088696834
+1339,1342,Salao Principal do Circolo Italiano,"Av São Luís, 50  primeiro andar",-46.643740056041565,-23.545499207185514
+1340,1343,TD - Teatro de Danca,"Av Ipiranga, 344 - subsolo",-46.64386603357475,-23.545382197662402
+1341,1344,Royal,"R da Consolação, 222",-46.64391501797486,-23.54748519489206
+1342,1345,Sapori di Rosi,"Av Ipiranga, 200, térreo do edifício Copan",-46.6451491028025,-23.546682175376603
+1343,1346,Casa das Rosas,"Av Paulista, 37",-46.64523733784209,-23.57125332705527
+1344,1347,Teatro Denoy de Oliveira,"R Rui Barbosa, 323",-46.64526722312701,-23.55836122667071
+1345,1348,Quadra dos Gaviões da Fiel,"R Cristina Tomás, 183",-46.64539984332569,-23.51992898588382
+1346,1349,Espaço Bacarelli,"R Estado de Israel, 553",-46.64541155307099,-23.59457651005942
+1347,1350,Ocean Club,"R Nestor Pestana, 189",-46.6455550970961,-23.549363214327766
+1348,1351,Mundo Pessante,"R Treze de Maio, 825",-46.645834260865165,-23.560825273300868
+1349,1352,Odissey Club,"R Nestor Pestana, 60",-46.64588213178868,-23.548189158274873
+1350,1353,Unidade Provisória Sesc Av Paulista,"Av Paulista, 119",-46.645981370710544,-23.570731355358426
+1351,1354,Villaggio Café,"Pc Don Orione, 298",-46.6461212683204,-23.55979422884526
+1352,1355,Centro Cultural Itaú,"Av Paulista, 149",-46.64633634309109,-23.57054536448411
+1353,1356,Moai Loung,"R João Passalacqua, 80",-46.646406143888875,-23.553830241734744
+1354,1357,Espaço Satyros,"Pc Franklin Roosevelt, 214",-46.64658912820187,-23.54915423461916
+1355,1358,Café do Bixiga,"R Treze de Maio, 76",-46.64729123347074,-23.55380325779472
+1356,1359,Afrospot,"R Treze de Maio, 48",-46.6472922237164,-23.553584172988135
+1357,1360,The Wall Café,"R Treze de Maio, 152",-46.647340198901816,-23.554454182532446
+1358,1361,Café Piu Piu,"R Treze de Maio, 134",-46.64735419098117,-23.554327249322405
+1359,1362,Café Aurora,"R Treze de Maio, 112",-46.647373161066504,-23.55412820182874
+1360,1363,Bar Sacode a Poeira,"R Maria Borba,77",-46.648980122443795,-23.54741721100124
+1361,1364,Bar Berlin,"R Conego Vicente Miguel Marino, 85",-46.64927596787677,-23.526835058659252
+1362,1365,O Lugar,"R Augusta, 325",-46.649348218173465,-23.551230220626675
+1363,1366,Teatro União Cultural,"R Mßrio Amaral, 209",-46.64959438405915,-23.572230351893538
+1364,1367,Oasis Club,"R Augusta, 430",-46.650492228803344,-23.551050209055028
+1365,1368,Café SãoPaulo Conceito,"R Santa Cecília, 52",-46.650553158817175,-23.539240139578887
+1366,1369,Juke Joint,"R Frei Caneca, 304",-46.650981262558915,-23.552159170811397
+1367,1370,Outs,"R Augusta, 486",-46.65103620250042,-23.551288160776565
+1368,1371,Inferno,"R Augusta, 511",-46.65115821342579,-23.55180222207359
+1369,1372,Eapaco Cultural Viva Maria,"R Canuto do Val, 85",-46.65172112359534,-23.54061713931634
+1370,1373,Studio SP Baixo Augusta,"R Augusta, 591",-46.651768300774975,-23.55181217737144
+1371,1374,Fnac Paulista,"Av Paulista, 901",-46.65177936009577,-23.565987293344943
+1372,1375,Da Leoni,"Rua Augusta, 591",-46.65184930261379,-23.552023166679177
+1373,1376,Beco 203,"R Augusta, 609",-46.65195631336496,-23.552050204199844
+1374,1377,Café Camalehon,"R Piauí, 103",-46.653318258850106,-23.548456136007882
+1375,1378,Vegas,"R Augusta, 765",-46.65341334147753,-23.552641189111778
+1376,1379,Hotel Intercontinental,"Al Santos, 1.123",-46.65441844865126,-23.565933215767327
+1377,1380,Lady Hell,"R Bela Cintra, 124",-46.6545563145579,-23.551408141164348
+1378,1381,Casa de Francisca,"Rua Quintino Bocaiúva, 22",-46.65503155373602,-23.570804275899757
+1379,1382,Santa Augusta,"R Augusta, 976",-46.655436324493394,-23.553205184804355
+1380,1383,Macabi,"Av Angélica,  634",-46.65554524221059,-23.53847505312604
+1381,1384,Vila do Samba,"R João Rudge, 340",-46.6559209189169,-23.513196949993393
+1382,1385,Museu de Arte de SãoPaulo Assis Chateaubriand - MASP,"Av Paulista, 1.578",-46.6561334630822,-23.561430176485242
+1383,1386,Cruz Vermelha - anfiteatro,"Av Moreira Guimarães,  699",-46.65655392758888,-23.613389551886325
+1384,1387,Kabul,"R Pedro Taques, 124",-46.657008342468345,-23.55269213748451
+1385,1388,Tapas Club,"R Augusta, 1.246",-46.65731140122183,-23.554955135824414
+1386,1389,Geni,"R Bela Cintra, 539",-46.657819352550824,-23.553585161511066
+1387,1390,Sarajevo,"R Augusta, 1385",-46.65791343597944,-23.556164186542954
+1388,1391,Funhouse,"R Bela Cintra, 567",-46.658193440274026,-23.55353015150068
+1389,1392,Astronete,"R Matias Aires, 183-B,",-46.65846941961821,-23.555382198407305
+1390,1393,Instituto Moreira Salles,"R Piaui, 844 -1 andar",-46.65885528220799,-23.544469104454592
+1391,1394,Conservatório Musical Souza Lima,"R José Maria Lisboa, 745",-46.659256518339475,-23.56763819749311
+1392,1395,CB,"R Brig. Galvão, 871",-46.659561165115846,-23.529073037150717
+1393,1396,Clash Club,"R Barra Funda, 969",-46.659773178409246,-23.527377963856093
+1394,1397,Espaço Musical Zimbo Trio,"Av Agami, 333",-46.660427929984465,-23.6001743935102
+1395,1398,Casa da Bisa,"Av Baruel, 616",-46.66093291326368,-23.503641814425563
+1396,1399,Livraria da Esquina,"R do Bosque, 1254",-46.66104913269606,-23.523606950016916
+1397,1400,Golden Cross Jazz Club,"Av Angélica, 2331",-46.66127841802909,-23.552764146047302
+1398,1401,Tom Jazz,"Av Angélica,  2331",-46.66127841802909,-23.552764146047302
+1399,1402,Havana Club,"Al Santos, 2.233",-46.66249454907624,-23.5588981981285
+1400,1403,Renaissance,"Al Santos, 2.233",-46.66249454907624,-23.5588981981285
+1401,1404,D-edge,"Al Olga,  170",-46.662509246975006,-23.52817502439504
+1402,1405,Hole Club,"R Augusta, 2203",-46.6635146074123,-23.561418183060773
+1403,1406,Milo Garage,"R Minas Gerais,203",-46.66374456413875,-23.554221170695453
+1404,1407,ALL Black,"R Oscar Freire, 163",-46.664237707442354,-23.567802201893056
+1405,1408,Syndikat Jazz Club,"R Moacir Piza, 64",-46.66428256045306,-23.558988150933388
+1406,1409,Buchanan's Lounge by Ranieri,"Al. Lorena, 1221",-46.66435163336721,-23.565750223099652
+1407,1410,Little Darling,"Av Iraí, 22",-46.664877098250756,-23.609273482770696
+1408,1411,Blackmore Rock,"Al dos Maracatins, 1317",-46.664927086123555,-23.611313490233346
+1409,1412,Ao Vivo Music,"R Inhambu, 229",-46.665279030607074,-23.597909410982673
+1410,1413,Quintal do Espeto,"Av dos Carinás, 520",-46.66581822028631,-23.6144234821674
+1411,1414,Sattva Jazz Night,"Al Itu, 1564",-46.66632262551814,-23.55783616652121
+1412,1415,Memphis,"Av dos Imares, 295",-46.666534183152876,-23.61200447500688
+1413,1416,Lousiana Café e Bar,"Av Jacutinga, 432",-46.666791065849885,-23.60274238054308
+1414,1417,Hotel Unique,"Av Brig. Luís Antônio, 4700",-46.66710485707336,-23.58181331834326
+1415,1418,Café Paon,"Av Pavão, 950",-46.66769216471046,-23.607625421478666
+1416,1419,Nasty Club,"Al Lorena, 1717",-46.66776763719649,-23.562934203438548
+1417,1420,Orbital,"R Augusta, 2.849",-46.6678467445247,-23.565691175905286
+1418,1421,Old Vic Pub,"R Diogo Jacome, 613",-46.66786505777017,-23.59732241797147
+1419,1422,Ton Ton Jazz e Music Bar,"Al dos Pamaris, 55",-46.66815114545735,-23.611678457343285
+1420,1423,Espaço das Américas,"Rua Tagipuru, 795 - Barra Funda",-46.66840335834498,-23.527631986437935
+1421,1424,Wild Horse Café,"Almeda dos Pamaris, 54",-46.668553241409455,-23.61140846975076
+1422,1425,Espaço das Americas,"Av Francisco Matarazzo, 530",-46.66855338339978,-23.528220955206375
+1423,1426,Galpão Barra Funda,"Av Francisco Matarazzo, 530",-46.66855338339978,-23.528220955206375
+1424,1427,Bourbon Street Music Club,"R dos Chanes, 127",-46.66919420403967,-23.612704448365616
+1425,1428,Ébano,"Av Helio Pellegrino, 531",-46.66960606119242,-23.597969415912836
+1426,1429,Baretto (Hotel Fasano),"R Vitorio Fasano, 88",-46.66987771503988,-23.56446619219731
+1427,1430,Supremo Musical,"R Oscar Freire, 1.000",-46.670145681877415,-23.562595148595662
+1428,1431,Expo Barra Funda,"R Tagipuru, 1000",-46.67022030882347,-23.52744191786734
+1429,1432,Villa Country,"Av Francisco Matarazzo, 774",-46.67043640239906,-23.52800398782639
+1430,1433,Centro Cultural da Juventude Ruth Cardoso,"Av Deputado Emílio Carlos, 3641",-46.67077693734146,-23.476292488340903
+1431,1434,Centro Cultural da Juventude Ruth Cardoso,"Av Deputado Emílio Carlos, 3641",-46.67077693734146,-23.476292488340903
+1432,1435,Soulive MusicaBar,"R Normandia, 51",-46.67094720071196,-23.608014482621403
+1433,1436,Leporace,"R Edson, 1362",-46.671100431270865,-23.625898536781342
+1434,1437,Espaço Cachuera!,"R Monte Alegre, 1.094",-46.67180745368388,-23.539146006623703
+1435,1438,Infierno,"R Oscar Freire, 1.225",-46.67182975299544,-23.561219180549696
+1436,1439,Aldeia Turiassu,"R Turiaçu, 928",-46.67216543697305,-23.53220000393033
+1437,1440,Me Gusta Café,"Av Cotovia, 269",-46.67305722331273,-23.605482468119202
+1438,1441,Musicalis,"R Dr Sodré, 38",-46.673327035070734,-23.5915533675595
+1439,1442,Cervejaria Continental,"Av Presidente Juscelino Kubitschek,373",-46.67414506078029,-23.586997332374978
+1440,1443,Oribah,"Av Presidente Juscelino Kubitscheck, 535",-46.67513609171995,-23.587951341188706
+1441,1444,Teatro do CIEE,"R Tabapuã, 445",-46.675257043914044,-23.583095248085904
+1442,1445,Kia Ora Pub,"R Dr Eduardo de Souza Aranha, 377",-46.675461080109685,-23.589076334116236
+1443,1446,All Of Jazz,"R João Cachoeira, 1.366",-46.67583615431333,-23.592345354038862
+1444,1447,Espaço Via Marquês,"R Marquês de SãoVicente, 1589",-46.67627634481515,-23.519265874139037
+1445,1448,Teatro Espaço Juca Chaves (Hipermercado Extra),"R João Cachoeira, 899, 2 piso",-46.676416073885065,-23.587833327243104
+1446,1449,Espaço Santa Clara,"R João Ramalho, 1085",-46.67642850579931,-23.5343539852692
+1447,1450,Na Mata Café,"R da Mata, 70",-46.67666495819215,-23.579772228430574
+1448,1451,Museu Brasileiro da Escultura - MuBE,R Alemanha. 221,-46.67686596542202,-23.573309255003316
+1449,1452,Centro de Tradições Nordestinas,"Rua Jacofer,, 615, Jd. Pereira Leite",-46.67786024626998,-23.50811978939785
+1450,1453,Easy Club,"R Marques de São Vicente, 1.767",-46.67808142949181,-23.519053903177614
+1451,1454,Balneario das Pedras,"R Lisboa,191",-46.67833081731474,-23.562454182924586
+1452,1455,Salamandra,"R Cardeal Arcoverde, 563",-46.67859174545551,-23.55588507948057
+1453,1456,Espaço Picadeiro,"Av Interlagos, 2.601",-46.67875802261291,-23.675844916402163
+1454,1457,Centro da Cultura Judaica,"R Oscar Freire,  2.500",-46.67876476446116,-23.550939101452208
+1455,1458,Vila Duca,"R Clodomiro Amazonas,495",-46.67884612958477,-23.588630274556415
+1456,1459,Casa das Caldeiras,"Av Francisco Matarazzo, 2000",-46.679143431236994,-23.525284943089066
+1457,1460,Pueblo Bar,"R Min. Jesuino Cardoso, 104",-46.67915014525173,-23.59163736456589
+1458,1461,Urbano Club,"R Cardeal  Arcoverde, 614",-46.679328831561946,-23.555836124578082
+1459,1462,Barrogan,"R Quata, 603",-46.6795962503166,-23.597935390042654
+1460,1463,Bar Buena Vista,"R Atilio Inocente., 780",-46.67966514801829,-23.59421432356649
+1461,1464,Rey Castro,"R Min. Jesuino Cardoso, 181",-46.67977516834826,-23.592267321828892
+1462,1465,Piove,"R Jeronimo da Veiga, 75",-46.67995103902986,-23.581321258082045
+1463,1466,Corleonne Bar e Cucina,"R Atílio Inocenti, 534",-46.67996916109147,-23.592312361278815
+1464,1467,Mood Club,"R Teodoro Sampaio, 1.109",-46.68071688110245,-23.559670145887967
+1465,1468,Pennelope Bar Beats & Boutique,"R Prof. Atilio Innocenti, 380",-46.680784135699646,-23.590694286589063
+1466,1469,Academia Brasileira de Circo,"Av Francisco Matarazzo, 2030",-46.680855542188596,-23.52523386454896
+1467,1470,Spaço Quatá,"R Quatá, 804",-46.68110020525933,-23.59661733696459
+1468,1471,Tribe House,"R Henrique Schaumann, 517",-46.68115489473645,-23.56065809622081
+1469,1472,Manifesto - El Templo Del Rock,"R Iguatemi,36",-46.681413095685215,-23.58596932845352
+1470,1473,Disco,"R Prof. Atílio Innocenti, 160",-46.68141920360752,-23.58893827867951
+1471,1474,Vermont Cult,"R Pedroso Alvarenga, 1.192",-46.68243115825881,-23.58265626013772
+1472,1475,Biblioteca Alceu Amoroso Lima,"R Henrique Schaumann, 777",-46.68251486260259,-23.558474071703873
+1473,1476,Charles Edward & Cia.,"Av Presidente Juscelino Kubitschek, 1426",-46.683189185820005,-23.590639350632294
+1474,1477,Dinossauros Rock Bar,"R dos Pinheiros, 518",-46.68348198586993,-23.565618192708964
+1475,1478,Boate Passatempo,"R Jeronimo da Veiga, 446",-46.683544161583335,-23.581865266345602
+1476,1479,SESC Pompeia,"R Clélia, 93",-46.68359656402136,-23.526161891930865
+1477,1480,Teta Bar,"R Cardeal Arcoverde, 1.265",-46.684433896356595,-23.55938313025317
+1478,1481,Museu da Casa Brasileira,"Av Brig. Faria Lima, 2.705",-46.68479708089904,-23.57997125321706
+1479,1482,Soul Sister,"R Mário Ferraz, 590",-46.68544215514349,-23.585539275516126
+1480,1483,Bubu Disco Lounge,"R dos Pinheiros, 791",-46.68561598700165,-23.56708115978001
+1481,1484,Azucar,"R Dr Mário Ferraz, 423",-46.68579614316609,-23.584059281482286
+1482,1485,City Hall,"Av Presidente Juscelino Kubitschek, 1.726",-46.685985270316465,-23.591051325448873
+1483,1486,Branca Leone,"R Luís Murat, 298",-46.68632490863459,-23.557482105764922
+1484,1487,Lov.E Club & Lounge,"R Pequetita, 189",-46.68638725020132,-23.592603301840033
+1485,1488,Loveland,"R Pequetita, 205",-46.68648028864839,-23.592630375427003
+1486,1489,O do Borogodó,"R Horácio Lane, 21",-46.68655393330259,-23.560205100416674
+1487,1490,Rose Bom Bom,"R Luís Murat, 370",-46.68681995678844,-23.557779065765867
+1488,1491,Espaço Urucum,"R Cardeal Arcover,1598",-46.68724798660865,-23.56075807154422
+1489,1492,Via Funchal,"R Funchal, 65",-46.68745928933777,-23.593055356045188
+1490,1493,Tanoeiro Bar,"R Roque Petrella, 325",-46.68758662545741,-23.62077851950944
+1491,1494,Bar Madeleine,"R Aspicuelta, 201",-46.68767491453026,-23.556697098342212
+1492,1495,Grazie Dio!,"R Girassol, 67",-46.688068957094366,-23.55802007171088
+1493,1496,SPKZ,"R Inácio Pereira da Rocha, 109",-46.68825698078336,-23.55934907316618
+1494,1497,Fidalga 33,"R Fidalga, 32",-46.68827091254937,-23.558799076673882
+1495,1498,Buteco do Martinho,"R Fidalga, 66",-46.688320936896226,-23.558490063939598
+1496,1499,Bendito Seja,"R Inácio Pereira da Rocha, 141",-46.688489995921486,-23.559523082267365
+1497,1500,A Torre,"R Mourato Coelho, 569-C",-46.68881802011836,-23.56250714054817
+1498,1501,Piratininga,"R Wisard, 149",-46.688856946916516,-23.554942080196255
+1499,1502,Studio SP,"R Inácio Pereira da Rocha, 170",-46.688967938041316,-23.559324104817808
+1500,1503,The Week,"R Guaicurus, 324",-46.68902862564631,-23.522645837038052
+1501,1504,Bar Mundial,"Rua Girassol, 354",-46.689167924239406,-23.55558309361178
+1502,1505,Dynamite Pub,"R Cardeal Arcoverde, 1857",-46.68926305218832,-23.56225415788217
+1503,1506,Mojave,"R Mourato Coelho, 740",-46.68931701922428,-23.560944111749535
+1504,1507,Ëpera de SãoPaulo,"Av Pedroso de Morais, 261",-46.68937203987636,-23.56757912537206
+1505,1508,Scandal,"Av Pedroso de  Morais, 261",-46.68937203987636,-23.56757912537206
+1506,1509,Coppola Music,"R Girasol, 323",-46.68940792374656,-23.556135117744606
+1507,1510,Bar Fidel,"R Girassol, 398",-46.68950092124149,-23.555219083313258
+1508,1511,Samba,"R Fidalga, 308",-46.689604001935614,-23.55668409685293
+1509,1512,Mao Santa,"R Mourato Coelho, 816",-46.68975795544144,-23.560448081171128
+1510,1513,Livraria da Vila,"R Fradique Coutinho, 915",-46.689781979234176,-23.559447100559307
+1511,1514,Kingston Bar,"R Mourato Coelho, 860",-46.69014099910575,-23.56013608075336
+1512,1515,Dolores Bar,"R Fradique Coutinho, 1007",-46.69023396646387,-23.558797075241948
+1513,1516,Capella Beer,"R Cunha Gago, 31",-46.69031908373522,-23.567986203114714
+1514,1517,Bleecker St.,"R Inácio Pereira da Rocha, 367",-46.69041106067423,-23.56068615031487
+1515,1518,Morrison Rock Bar,"R Inacio Pereira da Rocha, 362",-46.690547025822816,-23.560288068686305
+1516,1519,Casa do Mancha,"Rua Filipe de Alcaçova, s/n",-46.690773950547744,-23.556979127693396
+1517,1520,Santa Aldeia,"R Beira Rio, 113",-46.69118035997257,-23.595297335886062
+1518,1521,Sala Crisantempo,"R Fidalga, 521",-46.69124898496594,-23.555353052840367
+1519,1522,A Lanterna,"R Fidalga, 531",-46.69134393679446,-23.55530208352561
+1520,1523,Espaço Musical,"R Paulistania, 339",-46.691527883213595,-23.547322045427293
+1521,1524,Boteco do Seu Zé,"R Mourato Coelho, 1144",-46.69154803032593,-23.557983077433573
+1522,1525,Marcenaria,"R Fradique Coutinho, 1.378",-46.69166101454796,-23.55560006054397
+1523,1526,Armazem da Vila,"R Beira Rio, 116",-46.69168037932616,-23.595152376079277
+1524,1527,Manga Rosa,"R Guararapes, 1754",-46.69174341962221,-23.603522399633214
+1525,1528,Raso da Catarina,"R Harmonia, 921 - fundos",-46.69181796090614,-23.55079106997015
+1526,1529,Blen Blen Brasil,"R Inácio Pereira da Rocha, 520",-46.691833007211606,-23.56099712394257
+1527,1530,Fnac Pinheiros,"Av Pedroso de Morais, 858",-46.69226606082734,-23.562753105165747
+1528,1531,Fnac Pinheiros,"R Pedroso de Moraes, 858",-46.69226606082734,-23.562753105165747
+1529,1532,Teatro-Escola Brincante,"R Purpurina, 428",-46.692569963492936,-23.55417207829193
+1530,1533,Clube A Hebraica,"R Hungria, 1.000",-46.6927162405787,-23.57863018989936
+1531,1534,Verissimo,"Av Nova Independência, 12",-46.6927315727221,-23.60819146908747
+1532,1535,Salve Simpatia,"R Mourato Coelho, 1329",-46.69289099353603,-23.55668907405642
+1533,1536,Espaço Cultural  Traço de União,"R Claudio Soares, 73",-46.693334154187696,-23.568422142932956
+1534,1537,Bar Mangueira,"R Claudio Soares, 124",-46.69390618281299,-23.568858115426323
+1535,1538,Serralheria Espaço Cultural,"R Guaicurus, 857",-46.69430869860489,-23.523059829795574
+1536,1539,Cigana,"R Coropés, 87",-46.69458703862086,-23.561470110685686
+1537,1540,Na Aba,"Av Brig. Faria Lima, 452",-46.69500309224015,-23.562845106633283
+1538,1541,Carioca Club,"R Cardeal Arcoverde, 2.899",-46.695036125235966,-23.56934715021916
+1539,1542,Canto da Ema,"Av Brig. Faria Lima, 364",-46.69521313086271,-23.56203714968233
+1540,1543,Clube A São Paulo - hotel Sheraton,"Av Nações Unidas,12559, piso C",-46.696878619204185,-23.609052460148273
+1541,1544,Golden Hall - WTC,"Av Nac§es Unidas, 12551",-46.696878619204185,-23.609052460148273
+1542,1545,Black Jack,"Av Adolfo Pinheiro, 1.671",-46.697375883809215,-23.639544644294517
+1543,1546,Espaço Cultural BankBoston,"Av  Dr Chucri Zaidan, 246",-46.69742474485841,-23.618162512138472
+1544,1547,Olympia,"R Clélia, 1.517",-46.69758581610727,-23.525382800037505
+1545,1548,Centro Brasileiro Britânico,"R Ferreira de Araújo, 741",-46.69767717663442,-23.56418209590402
+1546,1549,Magnolia Vila Bar,"R Marco Aurélio, 884",-46.69792887962699,-23.534627910958765
+1547,1550,Hotel Grand Hyatt,"Av das Nac§es Unidas, 13.301",-46.697971643823976,-23.615171466852857
+1548,1551,Upstairs Lounge Bar,"Av das Nações Unidas, 13.301",-46.697971643823976,-23.615171466852857
+1549,1552,Saraiva Megastore  (Shopping Morumbi),"Av Roque Petroni Jr., 1.089",-46.6990097569704,-23.623215540669783
+1550,1553,Shopping SP Market- Pc da Cultura,"Av Nações Unidas, 22.540",-46.699215406081855,-23.67870594593792
+1551,1554,Casa de Cultura da Freguesia do Ë,"Lg da Matriz, s/n",-46.69994958782051,-23.50190668404483
+1552,1555,Livraria Cultura (Shopping market Place),"Av Dr Chucri Zaidan, 902",-46.70010073813972,-23.621544504744232
+1553,1556,Boutequim,"Av Robert kennedy, 6.670",-46.70016295993359,-23.717592155623418
+1554,1557,Escola de Samba Tom Maior,"R Eugênio de Medeiros, 263",-46.701003266125646,-23.569093149153357
+1555,1558,Projeto Equilíbrio,"R Eugenio de Medeiros, 263",-46.701003266125646,-23.569093149153357
+1556,1559,Casa do Núcleo,"R Pe. Cerda,25",-46.70279302694528,-23.545375953864998
+1557,1560,Ó Jatobá,"R Sete Barras, 306",-46.70525667511899,-23.49833765070363
+1558,1561,Vox,"R Branco de Morais, 63",-46.70593196218382,-23.632674581364466
+1559,1562,Clube Transatlântico,"R José Guerra, 130",-46.70778499579499,-23.627788557523402
+1560,1563,Casa de Cultura Manoel Cardoso Mendonça,"Pc Francisco Ferreira Lopes, 434",-46.70875513865781,-23.64669770832808
+1561,1564,FundaçãoMaria Luisa e Oscar Americano,"Av Morumbi, 4.077",-46.71121074056111,-23.60345240822986
+1562,1565,FundacÒo Maria LuÝsa e Oscar Americano,"Av Morumbi, 4.077",-46.71121074056111,-23.60345240822986
+1563,1566,SESC Santo Amaro,"R Amador Bueno, 505",-46.71307028738386,-23.653506742974074
+1564,1567,SESC Santo Amaro,"R Amador Bueno, 505",-46.71307028738386,-23.653506742974074
+1565,1568,Carioca Club Interlagos,"Av. Altlântica, 3797 - Interlagos",-46.7150299808321,-23.70073806012589
+1566,1569,Reggae Night,"Av Robert  kennedy, 3.880",-46.71570394687501,-23.698728032631298
+1567,1570,Book's SP,"Rua Carmo do Rio Verde, 83",-46.71968525295584,-23.636389658921455
+1568,1571,HSBC Brasil,"R Braganca Paulista,  1.281",-46.72050721373334,-23.638496626823397
+1569,1572,Anfiteatro Camargo Guarnieri,"R Anfiteatro, 109 - Cidade Universitária",-46.72143045584014,-23.557907980799087
+1570,1573,Livraria Cultura (shopping Villa Lobos),"Av das Nações Unidas, 4.777",-46.72291247444742,-23.55104697486576
+1571,1574,Credicard Hall,"Av Nações Unidas, 17.955",-46.724237396764956,-23.64783470559821
+1572,1575,Auditorio Olivier Toni - Depto. de M·sica  da USP,"Av Luciano Gualberto, trAv J, s/n",-46.72762059334194,-23.557241000323245
+1573,1576,Diquinta,"R Baumann, 1435",-46.72844041785227,-23.53838187457841
+1574,1577,Casa de Cultura do Butantã,"R Junta Mizumoto, 13",-46.732874959642615,-23.587320233061114
+1575,1578,Centro Cultural Monte Azul,"Av Tomás de Souza, 552",-46.73858260038158,-23.647394716310274
+1576,1579,Kboom,"R Caminho do Engenho, 354",-46.743275147201196,-23.595937283054354
+1577,1580,Casa do Coqueiro,"Rua Paulistânia, 574",-46.689685934231484,-23.548723045489183
+1578,1581,Central Tecnica do Pari,"R Paschoal Ranieri, 75",-46.61964238381991,-23.52403922270201
+1579,1582,Praça das Artes,"Av SãoJoão, 281",-46.63756086717856,-23.544337174731062
+1580,1583,Escola Municipal de Bailado,"R Formosa, 215 - Centro",-46.63873092768237,-23.54585819634497
+1581,1584,Escola Municipal de Música,"R Vergueiro, 961",-46.63966720505946,-23.570694350456627
+1582,1585,Orquestra Experimental de Repertório,"R Santo Amaro, 46",-46.639937029874304,-23.550691230568116
+1583,1586,Escola Municipal de Iniciacão Artística,"R Volkswagem, s/n - Casa 3",-46.64200589702984,-23.635247735655966
+1584,1587,Bale da Cidade de SãoPaulo,"R João Passalacqua, 66",-46.646423199186756,-23.553658215070975
+1585,1588,SESC Itaquera,Av Fernando do Espírito Santos Alves,-46.46928582968611,-23.571952338456853
+1586,1589,Shopping Sílvio Romero,"R Coelho Lisboa, 334",-46.572676681057295,-23.54734155796043
+1587,1590,SESC Santo Amaro,"R Amador Bueno, 505",-46.57313868439283,-23.54732957047182
+1588,1591,SESC Belenzinho,"R Padre Adelino, 1000",-46.58429793945057,-23.544795489266374
+1589,1592,SESC Ipiranga,"R Bom Pastor, 822",-46.60838564587087,-23.584111594900374
+1590,1593,Centro Cultural do Banco do Brasil,"R Álvares Penteado, 112",-46.63486391375775,-23.547495274405133
+1591,1594,Oficina Cultural Oswald de Andrade,"R Três Rios, 363",-46.63804475126878,-23.529635151133373
+1592,1595,Teatro Municipal,"Pc Ramos de Azevedo, s/n",-46.63893796401805,-23.545350227369426
+1593,1596,Galeria Olido,"Av São João, 473 - Segundo Andar",-46.63931791029059,-23.543510181698167
+1594,1597,Galeria Olido,"Av São João, 473 - Primeiro Piso",-46.63931791029059,-23.543510181698167
+1595,1598,Estação Júlio Prestes,"Pc Júlio Prestes, s/n",-46.64076187313815,-23.533512133925008
+1596,1599,Estação Júlio Prestes,"Pc Júlio Prestes, s/n",-46.64076187313815,-23.533512133925008
+1597,1600,SESC Vila Mariana,"R Pelotas, 141",-46.644389448347056,-23.582490427827047
+1598,1601,SESC Paulista,"Av Paulista, 119",-46.645981370710544,-23.570731355358426
+1599,1602,Teatro Cultura Artística,"R Nestor Pestana, 196",-46.64611715083307,-23.549135211033732
+1600,1603,Studio Teatro X,"Pc Roosevelt, 124",-46.646400126484295,-23.548584167788544
+1601,1604,N. Ex T N·cleo Experimental de Teatro,"R Rego Freitas, 454",-46.64715712942659,-23.54589117934462
+1602,1605,SESC Consolação,"R Dr Vila Nova, 245",-46.6505061959623,-23.546099128230395
+1603,1606,Hotel Cambridge,"Av Nove de Julho, 210",-46.65091833234575,-23.56376922221115
+1604,1607,Maksoud Plaza,"Al Campinas, 150",-46.65091833234575,-23.56376922221115
+1605,1608,Centro Universitário Maria Antônia,"R Maria Antônia, 294  - 2 andar",-46.651207160145404,-23.546125189641103
+1606,1609,Teatro São Pedro,"R Barra Funda, 171",-46.65407808020785,-23.53249004845376
+1607,1610,Centro Cultural FIESP Ruth Cardoso,"Av Paulista, 1.313",-46.65475847299178,-23.56359528049757
+1608,1611,Auditório Ibirapuera,"Av Pedro Álvares Cabral, s/n, Portões 2 e 3",-46.65609971494146,-23.585159336036938
+1609,1612,Crowne Plaza,"R Frei Caneca, 1.360",-46.658862457108114,-23.558208169385708
+1610,1613,Citibank Hall,"Al dos Jamaris, 213",-46.66142002154919,-23.604996456853087
+1611,1614,Memorial da América Latina,"Av  Auro Soares de Moura Andrade, 664",-46.66580124671247,-23.527619947140984
+1612,1615,Teatro Procópio Ferreira,"R Augusta, 2.823",-46.66763969676169,-23.565594155171166
+1613,1616,Café Teatro Galley,"R Haddock Lobo, 1.626",-46.669197687863644,-23.564577161277718
+1614,1617,Teatro Ritmus,"R Teodoro Sampaio, 727",-46.67750781759609,-23.557802142355605
+1615,1618,SESC Pompeia,"R Clélia, 93",-46.68359656402136,-23.526161891930865
+1616,1619,Teatro Cultura Artística Itaim,"Av Juscelino Kubitschek, 1.830",-46.687136231638135,-23.59107928478376
+1617,1620,Cultura Inglesa Pinheiros,"R Deputado Lacerda Franco, 333",-46.6918320371236,-23.562351111733744
+1618,1621,Clube A Hebraica,"R Hungria, 1.000",-46.6927162405787,-23.57863018989936
+1619,1622,Est·dio Emme,"R Pedroso de Moraes, 1.036",-46.693141026758866,-23.56127708735897
+1620,1623,KVA - Centro Cultural Elenko,"R Cardeal  Arcoverde, 2.958",-46.6956562053992,-23.56996915383821
+1621,1624,SESC Pinheiros,"R Paes Leme, 195 - 3?",-46.698159205368306,-23.568078107330447
+1622,1625,SESC Pinheiros,"R Paes Leme, 195",-46.698159205368306,-23.568078107330447
+1623,1626,Jockey Club de São Paulo,"Av Lineu de Paula Machado, 1.263",-46.69862931057432,-23.57983521055555
+1624,1627,Teatro Santa Cruz (Colégio),"R Orobó, 277",-46.71731838529081,-23.552380999452335
+1625,1628,Teatro Paulo Autran,"Av João Dias, 2.046",-46.720405297518695,-23.64470368618552
+1626,1629,Teatro Alfa-Real,"R Bento Branco de Andrade Filho, 722",-46.72137636296067,-23.65111176059036
+1627,1630,CEU Três Pontes,"R Capachós, s/n",-46.38171289713914,-23.478445335650882
+1628,1631,CEU Parque Veredas,"R Daniel Pedro Muller, s/n- Camargo Velho",-46.39019014094071,-23.513291550505617
+1629,1632,CEU Lajeado,"R Manuel da Mota Coutinho, 293",-46.40098847709358,-23.544646656313258
+1630,1633,CEU Agua Azul,"Av dos Metalúrgicos, 1262",-46.40666488472179,-23.594178915333103
+1631,1634,CEU Inacio Monteiro,"R Br Barroso do Amazonas, s/n - Prestes Maia",-46.41184381089961,-23.57009575355702
+1632,1635,CEU Vila Curuçá,"Av Marechal Tito, 3.400 -V. Curucß",-46.41259152825108,-23.49536029811859
+1633,1636,CEU Jambeiro,"R Flores do Jambeiro, 61 - Guaianases",-46.422876920739,-23.539289438483866
+1634,1637,CEU Alto Alegre,"R Bento Guelfi, s/n",-46.42711725493302,-23.60955386056061
+1635,1638,CEU São Mateus,"R Curumatim, 201 - Pque Boa Esperanþa",-46.44956570485895,-23.60258767273772
+1636,1639,CEU São Rafael,"R Cinira Polônio, 100 - j. Rio Claro",-46.456739865223405,-23.62045270814776
+1637,1640,CEU Azul da Cor do Mar,"Av Ernesto Souza Cruz, 2171",-46.45738937934856,-23.521901100992327
+1638,1641,CEU Parque São Carlos,"R Clarear, 141 - Jdim. São Carlos",-46.47384367438928,-23.509963888736227
+1639,1642,CEU Sapopemba,R Manuel Quirino de Mattos com R Victoria Marconato Santos,-46.4944315581468,-23.60958833823108
+1640,1643,CEU Quinta do Sol,Av Luís Imparato com Av Olavo Egídio de Souza Aranha,-46.49627794449482,-23.49837164673122
+1641,1644,CEU Rosa da China,"R Clara Petrella, s/n - Jd. São Roberto",-46.500895653379466,-23.62147537525107
+1642,1645,CEU Aricanduva,"Av Olga Fadel Abarca, s/n - Av Aricanduva, alt. 5555 - quadra 280",-46.50347249700201,-23.570677047065324
+1643,1646,CEU Formosa,"R Sargento Claudiner Evaristo Dias, s/n",-46.52423994015591,-23.5802139827722
+1644,1647,CEU Tiquatira,"Av Condessa Elizabeth Robiano com R Kampala, 270",-46.55483512987969,-23.518106499012777
+1645,1648,CEU Meninos,"R Barbinos, 112 - J. Patente",-46.583672521150696,-23.621384964561212
+1646,1649,CEU Jacanã,"R Antonio Cezar Neto, 105",-46.584908257487214,-23.457359890782147
+1647,1650,CEU Parque Bristol,R Professor Arthur Primavesi com R RoudÒo Eufrßzio Leal,-46.60921625484803,-23.643705003514057
+1648,1651,CEU Caminho do Mar - Profa. Dulce Salles Cunha Braga,"Av Engenheiro Armando Arruda de Arruda Pereira, 5241",-46.63581103669059,-23.668280025162534
+1649,1652,CEU Alvarenga,"Estrada do Alvarenga, 3752 - Balneário S. Francisco",-46.64470478069145,-23.70438515518
+1650,1653,CEU Navegantes,"R Maria Moassab Barbour, s/n",-46.660688742983176,-23.74403433520492
+1651,1654,CEU Três Lagos,"Es do Barro Branco, s/n - J. Noronha",-46.68105952935685,-23.767346483191503
+1652,1655,CEU Paz,"R da Paz, s/n",-46.689180967054305,-23.44801116635454
+1653,1656,CEU Vila Rubi,"R Domingos Tarroso, 101",-46.69750912278595,-23.727771206819682
+1654,1657,CEU Cidade Dutra,"Av Interlagos, 7.350 - Jdim. São Nicolau",-46.70490693767302,-23.710872178658022
+1655,1658,CEU Jardim Paulistano,"R Aparecida do Taboado, s/n",-46.713665537727564,-23.462181180591536
+1656,1659,CEU Parelheiros,"R José Pedro de Borba, 20",-46.726668102608066,-23.82794882853576
+1657,1660,CEU Paraisópolis,"R Doutor José Augusto Souza e Silva, s/n",-46.72790122595075,-23.62225752021825
+1658,1661,CEU Jaguaré,"Av Kenkiti Simomoto, 80",-46.74225772873946,-23.550212915092334
+1659,1662,CEU Casa Blanca,"R João Damasceno, 85 - Jdim. Casa Blanca",-46.74453763901534,-23.64667073923927
+1660,1663,CEU Butantã,"Av Eng. Heitor Antônio Eiras Garcia, 1700 J.Esmeralda",-46.75024219139945,-23.58197117710744
+1661,1664,CEU Pera-Marmelo,"R Pera-Marmelo, 226 - Vila Aurora",-46.75088388693763,-23.436553712221297
+1662,1665,CEU Perus,"R Bernardo José de Lourena, s/n",-46.751843626304115,-23.406007297445043
+1663,1666,CEU Vila Atlantica,"R Cel. José Venâncio Dias, 840 - J. Nardini",-46.76306245924735,-23.48142518232819
+1664,1667,CEU Guarapiranga,"Es da Baronesa, 1.120",-46.76476558911202,-23.69657411357869
+1665,1668,CEU Capão Redondo,R Daniel Gran. s/n,-46.770995331708136,-23.67452896707554
+1666,1669,CEU Campo Limpo,"Av Carlos Lacerda, 678 - Chácara São Pedro",-46.779642109995876,-23.63699062929938
+1667,1670,CEU Vila do Sol,"Av dos Funcionários Públicos, 369",-46.780858426181105,-23.736474333078277
+1668,1671,CEU Canto do Amanhecer,"Av Cantos do Amanhecer, s/n",-46.78610127785423,-23.649256825103585
+1669,1672,CEU Parque Anhanguera,R Pedro José de Lima. s/n,-46.78763644074419,-23.440460516675145
+1670,1673,CEU Uirapuru,"R Nazir Miguel, s/n",-46.78951295070052,-23.600482303130846
+1671,1674,CEU Feitico da Vila,"R Feitiþo da Vila, s/n?",-46.79378283785569,-23.686026080337715
+1672,1675,Instituto Moreira Salles,"Av. Paulista, 2424",-46.66231684876364,-23.556205300889232
+1673,1676,Instituto Moreira Salles,"Av. Paulista, 2424",-46.66231684876364,-23.556205300889232
+1674,1677,Japan House,"Av. Paulista, 52",-46.644869895689034,-23.57069056830287
+1675,1678,Sesc Parque Dom Perdro II,Praça São Vito s/n,-46.628575629807465,-23.54326182183709
+1676,1679,Associação Cultural Cecília,"Rua Vitorino Carmilo, 449",-46.6516869057606,-23.533127794334053
+1677,1680,JazzB,"Rua General Jardim, 43",-46.64513638100631,-23.544897113174464
+1678,1681,Burlesque Paris 6 by Night,"Rua Augusta, 2809",-46.66762590143633,-23.56538615720671
+1679,1682,Galeria Sancovsky,"Pça. Benedito Calixto, 79",-46.681169741190025,-23.558777224288622
+1680,1683,Galeria Anti-Pop,"Rua Padre João Gonçalves, 81",-46.68838553752828,-23.56014097503177
+1681,1684,Central Galeria de Arte,"Rua Mourato Coelho, 751",-46.689889628336395,-23.561214753324716
+1682,1685,Casa de Cultura Ipiranga,"Rua Abagiba,20",-46.60795944014064,-23.61372396521081
+1683,1686,Jazz nosFundos,"Rua Cardeal Arcoverde, 742",-46.68027074174113,-23.55647232949843
+1684,1687,Tupi or Not Tupi,"Rua Fidalga, 360",-46.689934591721304,-23.55634620885884
+1685,1688,Bona,"Rua Álvaro Anes, 43",-46.692844105229376,-23.56312571642187
+1686,1689,Casa Natura Musical,"Rua Artur  de Azevedo, 2134",-46.69106209768464,-23.56786000820575
+1687,1690,Kiss & Fly,"Rua Cel. Xavier de Toledo,  23 - Cobertura do prédio do Shopping Light",-46.63911285267308,-23.546356978704114
+1688,1691,Galeria Mapa,"Rua Costa, 31",-46.655760808288726,-23.552889192947216
+1689,1692,Baró Galeria,"Rua da Consolação, 3417",-46.669606835942766,-23.561986341114693
+1690,1693,Galeria Lume,"Ru Gumercindo Saraiva, 54",-46.682954402557655,-23.579004768303513
+1691,1694,A Casa Museu do Objeto Brasileiro,"Av. Pedroso de Morais, 1216/1234",-46.694425607402124,-23.560447673785603
+1692,1695,Mundo Pensante,"Rua Treze de Maio, 830",-46.64666351295292,-23.560605995605783
+1693,1696,Sesc Campo Limpo,"Avenida Nossa Senhora do Bom Conselho, 120",-46.75653905961396,-23.64688346647809
+1694,1697,Teatro de Contêiner Mungunzá,"Rua dos Gusmões, 43",-46.63744224062283,-23.535733708781727
+1695,1698,Red Bull Station,"Pça. da Bandeira, 137",-46.6390032322953,-23.55004367039835
+1696,1699,Bulls Club,"Avenida Salim Farah Maluf, 1500",-46.5807072274868,-23.545286709678862
+1697,1700,Bourbon Shopping Mall São Paulo," Rua Turiassú, 2100 – Perdizes – West Side – São Paulo.",-46.670559999999995,-23.53276
+1698,1701,Central Plaza Shopping Mall,"Av. Dr. Francisco Mesquita, 1000 – Vila Prudente – East Side – São Paulo.",-46.580859999999994,-23.5979
+1699,1702,Continental Shopping Mall,"Av. Leão Machado, 100 – Jaguaré – West Side – São Paulo.",-46.756840000000004,-23.548070000000003
+1700,1703,Fashion Shopping Mall Brás," Rua Xavantes, 719 – Brás – Downtown – São Paulo.",-46.61312,-23.53472
+1701,1704,Morumbi Shopping Mall,"Av. Roque Petroni Jr., 1089 – Brooklin Novo – West Side – São Paulo.",-46.69808,-23.6216
+1702,1705,Raposo Shopping Mall,"Rodovia Raposo Tavares – km 14,5 – Granja Viana – West Side – São Paulo.",-46.71245,-23.57341
+1703,1706,Santana Parque Shopping Mall,"Rua Conselheiro Moreira de Barros, 2780 – Santana – North Side – São Paulo",-46.649029999999996,-23.48056
+1704,1707,Shopping Mall Campo Limpo,"Estrada do Campo Limpo, 459 – Campo Limpo – South Side – São Paulo.",-46.75743,-23.64865
+1705,1709,Shopping Mall Center Butantã,"Av. Professor Francisco Morato, 2718 – Butantã – West Side – São Paulo.",-46.72498,-23.58672
+1706,1710,Shopping Mall Center Eldorado,"Av. Rebouças, 3970 – Pinheiros – West Side – São Paulo.",-46.69662,-23.574089999999998
+1707,1711,Shopping Mall Center Ibirapuera,"Av. Ibirapuera, 3103 – Moema – South Side – São Paulo.",-46.667640000000006,-23.60965
+1708,1712,Shopping Mall Center Iguatemi São Paulo,"Av. Brig. Faria Lima, 2232 – Jardim Paulistano – West Side – São Paulo.",-46.687509999999996,-23.57655
+1709,1713,Shopping Mall Center Lapa,"Rua Catão, 72 – Vila Romana – West Side – São Paulo.",-46.79184,-23.68585
+1710,1714,Shopping Mall Center Light,"Rua Coronel Xavier de Toledo, 23 – Downtown – São Paulo.",-46.63926,-23.54673
+1711,1715,Shopping Mall Center Norte,"Travessa Casalbuono, 120 – Vila Guilherme – North Side – São Paulo.",-46.61724,-23.51751
+1712,1716,Shopping Mall Cidade Jardim,"Av. Magalhães de Castro, 12000 – Morumbi – West Side – São Paulo.",-46.69919,-23.60623
+1713,1717,Shopping Mall D," Av. Cruzeiro do Sul, 1100 – Canindé – North Side – São Paulo.",-46.62518,-23.523229999999998
+1714,1718,Shopping Mall Frei Caneca,"Rua Frei Caneca, 569 – Consolação – Downtown – São Paulo.",-46.65294,-23.553720000000002
+1715,1719,Shopping Mall Interlagos,"Av. Interlagos, 2255 – Jardim Umuarama – South Side – São Paulo.",-46.67815,-23.67441
+1716,1720,Shopping Mall JK Iguatemi,"Av. Presidente Juscelino Kubitschek, 2041 – Vila Olímpia – South Side – São Paulo.",-46.68956,-23.59071
+1717,1721,Shopping Mall Leste Aricanduva,"Av. Aricanduva, 5555 – Vila Matilde – East Side – São Paulo.",-46.50789,-23.56525
+1718,1723,Shopping Mall Metrô Boulevard Tatuapé,Rua Gonçalves Crespo (esquina com a rua Tuiuti) – Tatuapé – East Side – São Paulo.,-46.575540000000004,-23.53854
+1719,1724,Shopping Mall Metrô Itaquera,"Av. José Pinheiro Borges, s/nº − Itaquera – East Side – São Paulo.",-46.46224,-23.539720000000003
+1720,1726,Shopping Mall Nações Unidas,"Av. das Nações Unidas, 12901 – Brooklin Novo – West Side – São Paulo.",-46.69758,-23.60922
+1721,1727,Shopping Mall Pátio Higienópolis,"Av. Higienópolis, 618 – Higienópolis – West Side – São Paulo.",-46.658559999999994,-23.542460000000002
+1722,1728,Shopping Mall Pátio Paulista,"Rua Treze de Maio, 1947 – Bela Vista – Downtown – São Paulo.",-46.643809999999995,-23.57023
+1723,1729,Shopping Mall Penha,"Rua Dr. João Ribeiro, 304 – Penha – East Side – São Paulo.",-46.54746,-23.52432
+1724,1730,Shopping Mall Porto Geral,"Ladeira Porto Geral, 14 – Downtown – São Paulo.",-46.63349,-23.54509
+1725,1731,Shopping Mall SP Market,"Av. das Nações Unidas, 22540 – Interlagos – South Side – São Paulo.",-46.69735,-23.67824
+1726,1733,Shopping Mall VillaLobos,"Av. das Nações Unidas, 4777 – Alto de Pinheiros – West Side – São Paulo.",-46.72457,-23.55087
+1727,1735,Mooca Plaza Shopping Mall,"R. Capitão Pacheco e Chaves, 313 – Mooca – East Side – São Paulo.",-46.59365,-23.58152
+1728,1736,Shopping Mall Metrô Santa Cruz,"Rua Domingos de Morais, 2564 – Vila Mariana – South Side – São Paulo",-46.63681,-23.59901

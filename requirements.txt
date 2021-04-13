@@ -1,0 +1,12 @@
+pandas
+matplotlib
+scikit-learn
+lightgbm
+xgboost
+mlxtend
+numpy
+ipython
+scipy
+geopandas
+geopy
+seaborn
