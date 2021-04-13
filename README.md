@@ -40,7 +40,8 @@ Usage
 * Additional Data:
     * In the sp folder you can find the data used to add new variables to our data.
     * The folder also contains the final train and test data with more than 30,000 data used by me to run the predict algorithm.
-    * `python geofast.py` is used to calculate geospecial distances.
+    * `python geofast.py` is used to calculate geospacial distances.
+  
 Extending this
 -------------------------
 
