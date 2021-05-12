@@ -1,4 +1,4 @@
-Loan Prediction
+Real Estate São Paulo Rent Prediction
 -----------------------
 
 Predicts the value of rental properties in the city of São Paulo, Brazil, using data extracted from the Zap Imoveis website and adding new variable.
