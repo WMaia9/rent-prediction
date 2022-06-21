@@ -3,7 +3,6 @@ import settings
 import pandas as pd
 from geopy.geocoders import Nominatim
 
-
 # ler o arquivo csv
 def read():
     acquisition = pd.read_csv(os.path.join(settings.dir_processos, 'sp.csv'))
@@ -43,6 +42,7 @@ def position(df):
 
     for row in df['gcode']:
         addr = geolocator.geocode(row, timeout=10)
+        print(addr)
         if addr is None:
             lat.append(None)
             long.append(None)
@@ -53,8 +53,11 @@ def position(df):
         lat.append(latitude)
         long.append(longitude)
 
-    df['latitude'] = lat
-    df['longitude'] = long
+    try:
+        df['latitude'] = lat
+        df['longitude'] = long
+    except:
+        print('Error')
     df = df.drop(['gcode', 'Zone'], axis=1)
 
     return df
