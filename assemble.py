@@ -35,4 +35,10 @@ def concatenar(prefixo: object) -> object:
 
 
 if __name__ == "__main__":
+
+    # criando pasta data para salvar os arquivos de imoveis
+    newPath = 'processed'
+    if not os.path.exists(newPath):
+        os.makedirs(newPath)
+
     concatenar('sp')

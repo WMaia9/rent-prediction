@@ -15,7 +15,6 @@ Installation
 
 * Clone this repo to your computer.
 * Get into the folder using `cd rest-prediction`.
-* Run `mkdir data`.
 * Run `webcr.py` to make a web scraper and pull the data from Zap Imóveis.  
     * You can find where the data was extracted from [here](https://www.zapimoveis.com.br/).
     * It's recommended to choose a least 2 pages in `webcr.py`.
@@ -26,7 +25,6 @@ Installation
 Usage
 -----------------------
 
-* Run `mkdir processed` to create a directory for our processed datasets.
 * Run `python assemble.py` to combine the `sp+sao-paulo+centro`,  `sp+sao-paulo+zona-leste`,  `sp+sao-paulo+zona-norte`, `sp+sao-paulo+zona-oest` and `sp+sao-paulo+zona-sul` datasets.
     * This will create `sp.csv` in the `processed` folder.
 * Run `python annotate.py`.

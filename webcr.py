@@ -7,16 +7,17 @@ import zapimoveis_scraper as zap
 
 
 """
-Função para puxar os dados no site Zap Moveis
+Função para puxar os dados do site Zap Moveis
 E salva-los em um arquivo csv
 """
-def web_scraper(local, x):
-    tipo = ['casas', 'apartamentos']
+def web_scraper(local, number):
 
-    for t in tipo:
-        result = zap.search(localization=local, num_pages=x, tipo=t)
+    type = ['casas', 'apartamentos']
 
-        ofertas = len(result)
+    for t in type:
+        result = zap.search(localization=local, num_pages=number, tipo=t)
+
+        offers = len(result)
 
         df = pd.DataFrame(
             [],
@@ -34,7 +35,7 @@ def web_scraper(local, x):
             ],
         )
 
-        for i in range(ofertas):
+        for i in range(offers):
             df = df.append(
                 {
                     'Address': result[i].address,
@@ -56,14 +57,21 @@ def web_scraper(local, x):
 
 
 if __name__ == "__main__":
-    #Localizada que será puxado os dados
-    local = ['sp+sao-paulo+zona-oeste', 'sp+sao-paulo+zona-norte',
-             'sp+sao-paulo+zona-sul', 'sp+sao-paulo+zona-leste',
+    # criando pasta data para salvar os arquivos de imoveis
+    newPath = 'data'
+    if not os.path.exists(newPath):
+        os.makedirs(newPath)
+
+    # Local que será puxado os dados
+    local = ['sp+sao-paulo+zona-oeste',
+             'sp+sao-paulo+zona-norte',
+             'sp+sao-paulo+zona-sul',
+             'sp+sao-paulo+zona-leste',
              'sp+sao-paulo+centro']
 
 
-    #Número de páginas de dados que são puxados
-    x = int(input('number of pages: '))
+    # Número de páginas de dados que são puxados
+    number = int(input('number of pages: '))
 
-    for i in local:
-        web_scraper(i, x)
+    for region in local:
+        web_scraper(region, number)

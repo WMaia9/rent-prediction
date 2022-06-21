@@ -3,6 +3,7 @@ import settings
 import pandas as pd
 from geopy.geocoders import Nominatim
 
+
 # ler o arquivo csv
 def read():
     acquisition = pd.read_csv(os.path.join(settings.dir_processos, 'sp.csv'))
@@ -22,7 +23,8 @@ def cleaning(df):
     df['Address'] = df1['Address'].str.cat(df1['2'], sep=' ')
     return df
 
-# Aplicar condoções para eliminar outlier
+
+# Aplicar condições para eliminar outlier
 def out(df):
     df1 = df.copy()
     df1 = df1[df1['Price'] <= 15000]
@@ -30,6 +32,7 @@ def out(df):
     df1 = df1[df1['Total Area'] <= 50000]
     df1 = df1.reset_index(drop=True)
     return df1
+
 
 # definir a posição do imovel utilizando a biblioteca geopy
 def position(df):
