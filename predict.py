@@ -18,7 +18,7 @@ import joblib
 import warnings
 warnings.filterwarnings('ignore')
 
-# Load the Data CSV
+# Load the data CSV
 def read():
     train = pd.read_csv(os.path.join(settings.dir_processos, 'train.csv'))
     test = pd.read_csv(os.path.join(settings.dir_processos, 'test.csv'))

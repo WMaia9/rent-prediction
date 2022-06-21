@@ -38,7 +38,7 @@ def out(df):
 def position(df):
     lat = []
     long = []
-    geolocator = Nominatim(user_agent="br")
+    geolocator = Nominatim(user_agent="são paulo")
     df['gcode'] = df['Address'].apply(geolocator.geocode, timeout=10)
 
     for row in df['gcode']:
