@@ -92,8 +92,11 @@ def predict(y_train, train, test):
     print('RMSE on Test Data:', rmse(y_test, y_pred))
 
     print('\nBayesian Ridge:')
-    bayesian_ridge_reg = BayesianRidge(alpha_1=2.104047761709729e-05, alpha_2=8.87111148542247e-06,
-                                       lambda_1=0.9517616852006183, lambda_2=0.016369928482509982, compute_score=False)
+    bayesian_ridge_reg = BayesianRidge(alpha_1=2.104047761709729e-05,
+                                       alpha_2=8.87111148542247e-06,
+                                       lambda_1=0.9517616852006183,
+                                       lambda_2=0.016369928482509982,
+                                       compute_score=False)
     score_model(bayesian_ridge_reg)
     bayesian_ridge_reg.fit(train.values, y_train)
     y_pred = bayesian_ridge_reg.predict(test.values)
@@ -101,8 +104,10 @@ def predict(y_train, train, test):
 
     print('\nLasso:')
     lasso_reg = pipeline.Pipeline([("scaling", preprocessing.RobustScaler()),
-                                   ("lasso", Lasso(alpha=0.0004225349823414949, max_iter=1e7,
-                                                   tol=0.001, random_state=random_state))])
+                                   ("lasso", Lasso(alpha=0.0004225349823414949,
+                                                   max_iter=1000000,
+                                                   tol=0.001,
+                                                   random_state=random_state))])
     score_model(lasso_reg)
     lasso_reg.fit(train.values, y_train)
     y_pred = lasso_reg.predict(test.values)
@@ -111,9 +116,13 @@ def predict(y_train, train, test):
     print('\nElastic Net:')
     elastic_net_reg = pipeline.Pipeline([("scaling", preprocessing.RobustScaler()),
                                          ("elastic_net", ElasticNet(alpha=0.0005033042674715873,
-                                                                    l1_ratio=0.8201479505715717, positive=True,
-                                                                    precompute=False, selection='random', max_iter=1e7,
-                                                                    tol=0.001, random_state=random_state))])
+                                                                    l1_ratio=0.8201479505715717,
+                                                                    positive=True,
+                                                                    precompute=False,
+                                                                    selection='random',
+                                                                    max_iter=10000000,
+                                                                    tol=0.001,
+                                                                    random_state=random_state))])
 
     score_model(elastic_net_reg)
     elastic_net_reg.fit(train.values, y_train)
@@ -122,7 +131,8 @@ def predict(y_train, train, test):
 
     print('\nRidge Regression:')
     ridge_reg = pipeline.Pipeline([("scaling", preprocessing.RobustScaler()),
-                                   ("ridge", Ridge(alpha=12.773681311355642, random_state=random_state))])
+                                   ("ridge", Ridge(alpha=12.773681311355642,
+                                                   random_state=random_state))])
     score_model(ridge_reg)
     ridge_reg.fit(train.values, y_train)
     y_pred = ridge_reg.predict(test.values)
@@ -130,7 +140,9 @@ def predict(y_train, train, test):
 
     print('\nSupport Vector Regression:')
     svr_reg = pipeline.Pipeline([("scaling", preprocessing.RobustScaler()),
-                                 ("svr", svm.SVR(C=46, epsilon=0.009019504329938493, gamma=0.0003434802243340735))])
+                                 ("svr", svm.SVR(C=46,
+                                                 epsilon=0.009019504329938493,
+                                                 gamma=0.0003434802243340735))])
 
     score_model(svr_reg)
     svr_reg.fit(train.values, y_train)
@@ -138,25 +150,40 @@ def predict(y_train, train, test):
     print('RMSE on Test Data:', rmse(y_test, y_pred))
 
     print('\nGradient Boosting Regressor:')
-    gbr_reg = GradientBoostingRegressor(n_estimators=2501, learning_rate=0.03221041191991256, random_state=random_state)
+    gbr_reg = GradientBoostingRegressor(n_estimators=2501,
+                                        learning_rate=0.03221041191991256,
+                                        random_state=random_state)
     score_model(gbr_reg)
     gbr_reg.fit(train.values, y_train)
     y_pred = gbr_reg.predict(test.values)
     print('RMSE on Test Data:', rmse(y_test, y_pred))
 
     print('\nLGBM Regressor:')
-    lgbm_reg = LGBMRegressor(objective='regression', num_leaves=4, learning_rate=0.01, n_estimators=5000, max_bin=200,
-                             bagging_seed=7, feature_fraction_seed=7, verbose=-1)
+    lgbm_reg = LGBMRegressor(objective='regression',
+                             num_leaves=4,
+                             learning_rate=0.01,
+                             n_estimators=5000,
+                             max_bin=200,
+                             bagging_seed=7,
+                             feature_fraction_seed=7,
+                             verbose=-1)
     score_model(lgbm_reg)
     lgbm_reg.fit(train.values, y_train)
     y_pred = lgbm_reg.predict(test.values)
     print('RMSE on Test Data:', rmse(y_test, y_pred))
 
     print('\nXGB Regressor:')
-    xgb_reg = XGBRegressor(learning_rate=0.00922801668420645, n_estimators=4492, max_depth=4,
-                           min_child_weight=0.019476741626353912, gamma=0.0038933017613795614,
-                           subsample=0.3075828286669299, colsample_bytree=0.16053941121623433, scale_pos_weight=3,
-                           reg_alpha=6.89051576939588e-05, objective='reg:squarederror', random_state=random_state)
+    xgb_reg = XGBRegressor(learning_rate=0.00922801668420645,
+                           n_estimators=4492,
+                           max_depth=4,
+                           min_child_weight=0.019476741626353912,
+                           gamma=0.0038933017613795614,
+                           subsample=0.3075828286669299,
+                           colsample_bytree=0.16053941121623433,
+                           scale_pos_weight=3,
+                           reg_alpha=6.89051576939588e-05,
+                           objective='reg:squarederror',
+                           random_state=random_state)
 
     score_model(xgb_reg)
     xgb_reg.fit(train.values, y_train)
@@ -167,18 +194,30 @@ def predict(y_train, train, test):
     estimators = (linear_reg, svr_reg, bayesian_ridge_reg, ridge_reg, lasso_reg,
                   elastic_net_reg, gbr_reg, lgbm_reg, xgb_reg)
     final_estimator = xgb_reg
-    stacking_cv_reg = StackingCVRegressor(regressors=estimators, meta_regressor=final_estimator,
-                                          use_features_in_secondary=True, random_state=random_state)
+    stacking_cv_reg = StackingCVRegressor(regressors=estimators,
+                                          meta_regressor=final_estimator,
+                                          use_features_in_secondary=True,
+                                          random_state=random_state)
 
-    kf = KFold(n_splits=n_folds, random_state=random_state, shuffle=True)
+    kf = KFold(n_splits=n_folds,
+               random_state=random_state,
+               shuffle=True)
     score_model_reg = np.sqrt(
         -cross_val_score(stacking_cv_reg, train.values, y_train, scoring="neg_mean_squared_error", cv=kf))
     print(f'score_model_reg => mean: {score_model_reg.mean()}, std: {score_model_reg.std()}')
     cv_scores.append(score_model_reg.mean())
     cv_std.append(score_model_reg.std())
 
-    models_with_weights = {linear_reg: 0.005, svr_reg: 0.005, bayesian_ridge_reg: 0.005, ridge_reg: 0.05, lasso_reg:0.1,
-                           elastic_net_reg: 0.1, gbr_reg: 0.1, lgbm_reg: 0.1, xgb_reg: 0.1, stacking_cv_reg: 0.435}
+    models_with_weights = {linear_reg: 0.005,
+                           svr_reg: 0.005,
+                           bayesian_ridge_reg: 0.005,
+                           ridge_reg: 0.05,
+                           lasso_reg: 0.1,
+                           elastic_net_reg: 0.1,
+                           gbr_reg: 0.1,
+                           lgbm_reg: 0.1,
+                           xgb_reg: 0.1,
+                           stacking_cv_reg: 0.435}
 
     print('\nBlended:')
     # Contains predicted values for Price

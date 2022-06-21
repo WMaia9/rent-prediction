@@ -2,6 +2,7 @@ import os
 import settings
 import pandas as pd
 from geopy.geocoders import Nominatim
+from geopy.extra.rate_limiter import RateLimiter
 
 # ler o arquivo csv
 def read():
@@ -35,29 +36,12 @@ def out(df):
 
 # definir a posição do imovel utilizando a biblioteca geopy
 def position(df):
-    lat = []
-    long = []
-    geolocator = Nominatim(user_agent="são paulo")
-    df['gcode'] = df['Address'].apply(geolocator.geocode, timeout=10)
 
-    for row in df['gcode']:
-        addr = geolocator.geocode(row, timeout=10)
-        print(addr)
-        if addr is None:
-            lat.append(None)
-            long.append(None)
-        else:
-            latitude = addr.latitude
-            longitude = addr.longitude
-
-        lat.append(latitude)
-        long.append(longitude)
-
-    try:
-        df['latitude'] = lat
-        df['longitude'] = long
-    except:
-        print('Error')
+    geolocator = Nominatim(user_agent="myGeocoder")
+    geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
+    df['gcode'] = df['Address'].apply(geocode)
+    df['latitude'] = df['gcode'].apply(lambda loc: loc.latitude if loc else None)
+    df['longitude'] = df['gcode'].apply(lambda loc: loc.longitude if loc else None)
     df = df.drop(['gcode', 'Zone'], axis=1)
 
     return df
