@@ -89,3 +89,9 @@ ENV/
 .ropeproject
 
 .idea
+processed/test_pred.csv
+data/sp+sao-paulo+zona-oeste.csv
+processed/geo.csv
+processed/sp.csv
+processed/test.csv
+processed/train.csv
