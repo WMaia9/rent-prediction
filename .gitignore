@@ -95,3 +95,7 @@ processed/geo.csv
 processed/sp.csv
 processed/test.csv
 processed/train.csv
+data/sp+sao-paulo+centro.csv
+data/sp+sao-paulo+zona-leste.csv
+data/sp+sao-paulo+zona-norte.csv
+data/sp+sao-paulo+zona-sul.csv
