@@ -89,7 +89,7 @@ def resources(df):
     df['Type'] = df['Type'].replace({'apartamentos': 'apartament', 'casas': 'house'})
     return df
 
-# Escreve os dadosS
+# Escreve os dados
 def split(df):
     df_train, df_test = train_test_split(df, test_size=0.3)
     df_train.to_csv(os.path.join(settings.dir_processos, "train.csv"), index=False)
