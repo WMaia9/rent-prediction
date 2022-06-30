@@ -6,11 +6,8 @@ import pandas as pd
 import zapimoveis_scraper as zap
 
 
-"""
-Função para puxar os dados do site Zap Moveis
-E salva-los em um arquivo csv
-"""
 def web_scraper(local, number):
+    """Função para puxar os dados do site Zap Moveis E salva-los em um arquivo csv """
 
     type = ['casas', 'apartamentos']
 
