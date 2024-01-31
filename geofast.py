@@ -3,7 +3,7 @@ import numpy as np
 
 def _dist(lata, lona, latb, lonb):
     """
-    Calcula a distância geoespacial entre 2 pontos.
+    Calcula a distância geoespacial entre 2 pontos ustilizando equação de distância entre 2 pontos
         
     """
     lata = lata * math.pi / 180

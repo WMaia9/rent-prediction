@@ -7,7 +7,7 @@ import warnings
 from sklearn.model_selection import train_test_split
 warnings.filterwarnings('ignore')
 
-# Ler os arquivos CSV dos imóveis
+# Ler os arquivos CSV dos imóveis e dos recursos
 def read():
     df = pd.read_csv(os.path.join(settings.dir_processos, 'geo.csv'))
     return df

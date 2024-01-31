@@ -54,7 +54,7 @@ def web_scraper(local, number):
 
 
 if __name__ == "__main__":
-    # criando pasta data para salvar os arquivos de imoveis
+    # criando pasta data para salvar os arquivos de imoveis e processados
     newPath = 'data'
     if not os.path.exists(newPath):
         os.makedirs(newPath)

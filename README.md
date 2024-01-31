@@ -1,4 +1,4 @@
-Real Estate São Paulo Rent Prediction
+Real Estate São Paulo Rent Prediction 
 -----------------------
 
 Predicts the value of rental properties in the city of São Paulo, Brazil, using data extracted from the Zap Imoveis website and adding new variable.
@@ -43,7 +43,7 @@ Usage
 Extending this
 -------------------------
 
-If you want to extend this work, here are a few places to start:
+If you want to extend this work, Here few places to start:
 
 * Generate more features in `annotate.py`.
 * Switch algorithms in `predict.py`.

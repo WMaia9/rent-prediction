@@ -4,7 +4,7 @@ import pandas as pd
 from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 
-# ler o arquivo csv
+# ler o arquivo csv para os dados
 def read():
     acquisition = pd.read_csv(os.path.join(settings.dir_processos, 'sp.csv'))
     return acquisition

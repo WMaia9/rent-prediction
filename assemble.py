@@ -2,7 +2,7 @@ import os
 import settings
 import pandas as pd
 
-# Header para os dados do Zap Moveis
+# Header para os dados do Zap Moveis e colher os dados
 HEADERS = {
     "sp": [
         'Address',
